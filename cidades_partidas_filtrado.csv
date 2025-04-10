@@ -1,0 +1,381 @@
+data,hora,cidade
+14/04/2024,18:30,Salvador
+13/04/2024,18:30,Criciuma
+13/04/2024,18:30,Porto Alegre
+13/04/2024,21:00,Rio de Janeiro
+13/04/2024,21:00,Sao Paulo
+14/04/2024,16:00,Curitiba
+14/04/2024,16:00,Goiania
+14/04/2024,16:00,Sao Paulo
+14/04/2024,16:00,Rio de Janeiro
+14/04/2024,17:00,Belo Horizonte
+18/04/2024,21:30,Rio de Janeiro
+16/04/2024,21:30,Salvador
+17/04/2024,16:00,Cuiaba
+17/04/2024,19:00,Porto Alegre
+17/04/2024,19:00,Braganca Paulista
+17/04/2024,20:00,Belo Horizonte
+17/04/2024,20:00,Fortaleza
+17/04/2024,20:00,Caxias do Sul
+17/04/2024,20:00,Sao Paulo
+17/04/2024,21:30,Rio de Janeiro
+24/07/2024,19:00,Criciuma
+20/04/2024,16:00,Rio de Janeiro
+20/04/2024,18:30,Porto Alegre
+20/04/2024,18:30,Braganca Paulista
+20/04/2024,21:00,Belo Horizonte
+21/04/2024,16:00,Curitiba
+21/04/2024,16:00,Sao Paulo
+21/04/2024,16:00,Salvador
+21/04/2024,18:30,Goiania
+21/04/2024,18:30,Rio de Janeiro
+29/04/2024,20:00,Sao Paulo
+27/04/2024,16:00,Rio de Janeiro
+27/04/2024,18:30,Cuiaba
+27/04/2024,21:00,Salvador
+28/04/2024,11:00,Rio de Janeiro
+28/04/2024,16:00,Sao Paulo
+28/04/2024,16:00,Belo Horizonte
+28/04/2024,18:30,Fortaleza
+28/04/2024,18:30,Caxias do Sul
+28/04/2024,20:00,Porto Alegre
+25/09/2024,19:00,Porto 
+04/05/2024,16:00,Rio de Janeiro
+04/05/2024,18:30,Braganca Paulista
+04/05/2024,21:00,Sao Paulo
+05/05/2024,16:00,Curitiba
+05/05/2024,16:00,Salvador
+05/05/2024,18:30,Rio de Janeiro
+05/05/2024,18:30,Cuiaba
+05/06/2024,19:00,Caxias do
+28/08/2024,19:30,Belo Horizonte
+09/10/2024,19:30,Belo Horizonte
+11/05/2024,16:00,Rio de Janeiro
+12/05/2024,16:00,Goiania
+12/05/2024,16:00,Fortaleza
+12/05/2024,16:00,Sao Paulo
+12/05/2024,18:30,Salvador
+12/05/2024,18:30,Rio de Janeiro
+13/05/2024,20:00,Sao Paulo
+09/06/2024,16:00,Criciuma
+14/08/2024,19:30,Porto Alegre
+02/06/2024,18:30,Sao Paulo
+01/06/2024,16:00,Porto Alegre
+01/06/2024,16:00,Salvador
+01/06/2024,18:30,Cuiaba
+01/06/2024,18:30,Rio de Janeiro
+01/06/2024,21:00,Sao Paulo
+02/06/2024,16:00,Belo Horizonte
+02/06/2024,16:00,Criciuma
+02/06/2024,16:00,Rio de Janeiro
+02/06/2024,18:30,Fortaleza
+13/06/2024,21:30,Sao Paulo
+11/06/2024,19:00,Goiania
+11/06/2024,19:00,Caxias do Sul
+11/06/2024,20:00,Rio de Janeiro
+11/06/2024,21:30,Braganca Paulista
+13/06/2024,19:00,Belo Horizonte
+13/06/2024,20:00,Curitiba
+13/06/2024,20:00,Rio de Janeiro
+13/06/2024,20:00,Criciuma
+13/06/2024,21:30,Salvador
+17/06/2024,20:30,Belo Horizonte
+15/06/2024,18:30,Braganca Paulista
+15/06/2024,21:00,Rio de Janeiro
+16/06/2024,16:00,Curitiba
+16/06/2024,16:00,Sao Paulo
+16/06/2024,16:00,Salvador
+16/06/2024,18:30,Criciuma
+16/06/2024,18:30,Cuiaba
+16/06/2024,18:30,Cariacica
+16/06/2024,18:30,Rio de Janeiro
+20/06/2024,21:30,Sao Paulo
+19/06/2024,19:00,Goiania
+19/06/2024,19:00,Rio de Janeiro
+19/06/2024,20:00,Fortaleza
+19/06/2024,20:00,Caxias do Sul
+19/06/2024,20:00,Sao Paulo
+19/06/2024,21:30,Belo Horizonte
+19/06/2024,21:30,Florianopolis
+20/06/2024,18:30,Salvador
+20/06/2024,20:00,Rio de Janeiro
+23/06/2024,18:30,Braganca Paulista
+22/06/2024,16:00,Criciuma
+22/06/2024,17:30,Curitiba
+22/06/2024,18:30,Cuiaba
+22/06/2024,21:30,Rio de Janeiro
+23/06/2024,16:00,Curitiba
+23/06/2024,16:00,Salvador
+23/06/2024,16:00,Rio de Janeiro
+23/06/2024,18:30,Belo Horizonte
+23/06/2024,18:30,Sao Paulo
+27/06/2024,20:00,Sao Paulo
+26/06/2024,19:00,Rio de Janeiro
+26/06/2024,19:00,Belo Horizonte
+26/06/2024,20:00,Goiania
+26/06/2024,20:00,Sao Paulo
+26/06/2024,20:00,Caxias do Sul
+26/06/2024,21:30,Salvador
+26/06/2024,21:30,Fortaleza
+26/06/2024,21:30,Porto Alegre
+27/06/2024,19:00,Rio de Janeiro
+01/07/2024,20:00,Sao Paulo
+29/06/2024,18:30,Cuiaba
+29/06/2024,18:30,Rio de Janeiro
+30/06/2024,11:00,Belo Horizonte
+30/06/2024,16:00,Fortaleza
+30/06/2024,16:00,Porto Alegre
+30/06/2024,16:00,Sao Paulo
+30/06/2024,18:30,Criciuma
+30/06/2024,18:30,Rio de Janeiro
+30/06/2024,18:30,Salvador
+04/07/2024,20:00,Rio de Janeiro
+03/07/2024,19:00,Cuiaba
+03/07/2024,20:00,Criciuma
+03/07/2024,20:00,Rio de Janeiro
+03/07/2024,21:30,Curitiba
+03/07/2024,21:30,Belo Horizonte
+03/07/2024,21:30,Braganca Paulista
+04/07/2024,19:00,Salvador
+04/07/2024,19:00,Porto Alegre
+04/07/2024,20:00,Sao Paulo
+07/07/2024,20:30,Rio de Janeiro
+06/07/2024,20:00,Rio de Janeiro
+06/07/2024,20:00,Sao Paulo
+07/07/2024,16:00,Belo Horizonte
+07/07/2024,16:00,Fortaleza
+07/07/2024,16:00,Caxias do Sul
+07/07/2024,18:00,Porto Alegre
+07/07/2024,18:30,Goiania
+07/07/2024,18:30,Sao Paulo
+07/07/2024,18:30,Salvador
+11/07/2024,21:30,Salvador
+09/07/2024,21:30,Braganca Paulista
+10/07/2024,18:30,Porto Alegre
+10/07/2024,19:00,Curitiba
+10/07/2024,19:00,Cuiaba
+10/07/2024,19:00,Rio de Janeiro
+11/07/2024,19:30,Sao Paulo
+11/07/2024,20:00,Criciuma
+11/07/2024,20:00,Rio de Janeiro
+11/07/2024,21:30,Belo Horizonte
+17/07/2024,21:30,Fortaleza
+13/07/2024,16:00,Salvador
+13/07/2024,16:00,Belo Horizonte
+16/07/2024,19:00,Caxias do Sul
+16/07/2024,21:00,Sao Paulo
+17/07/2024,15:00,Rio de Janeiro
+17/07/2024,15:00,Porto Alegre
+17/07/2024,19:00,Goiania
+17/07/2024,20:00,Sao Paulo
+17/07/2024,21:30,Rio de Janeiro
+21/07/2024,20:00,Cuiaba
+20/07/2024,16:00,Brasilia
+20/07/2024,18:30,Rio de Janeiro
+20/07/2024,21:00,Sao Paulo
+21/07/2024,11:00,Porto Alegre
+21/07/2024,16:00,Belo Horizonte
+21/07/2024,16:00,Salvador
+21/07/2024,18:30,Fortaleza
+21/07/2024,18:30,Brasilia
+21/07/2024,18:30,Braganca Paulista
+28/08/2024,19:30,Criciuma
+24/07/2024,15:00,Criciuma
+24/07/2024,15:00,Porto Alegre
+24/07/2024,15:00,Rio de Janeiro
+24/07/2024,19:00,Belo Horizonte
+24/07/2024,19:30,Sao Paulo
+24/07/2024,20:00,Salvador
+24/07/2024,21:30,Goiania
+24/07/2024,21:30,Rio de Janeiro
+25/07/2024,20:00,Sao Paulo
+28/07/2024,19:00,Porto Alegre
+27/07/2024,19:00,Caxias do Sul
+27/07/2024,19:00,Sao Paulo
+27/07/2024,20:00,Salvador
+27/07/2024,21:30,Rio de Janeiro
+27/07/2024,21:30,Fortaleza
+28/07/2024,11:00,Braganca Paulista
+28/07/2024,16:00,Rio de Janeiro
+28/07/2024,19:00,Belo Horizonte
+28/07/2024,19:00,Cuiaba
+05/08/2024,21:00,Belo Horizonte
+03/08/2024,16:00,Salvador
+03/08/2024,19:00,Rio de Janeiro
+03/08/2024,20:00,Goiania
+03/08/2024,20:00,Criciuma
+03/08/2024,21:30,Sao Paulo
+04/08/2024,16:00,Curitiba
+04/08/2024,16:00,Sao Paulo
+04/08/2024,16:00,Rio de Janeiro
+04/08/2024,17:00,Porto Alegre
+11/08/2024,19:00,Porto Alegre
+10/08/2024,16:00,Fortaleza
+10/08/2024,19:00,Cuiaba
+10/08/2024,21:30,Sao Paulo
+10/08/2024,21:30,Belo Horizonte
+10/08/2024,21:30,Rio de Janeiro
+11/08/2024,11:00,Caxias do Sul
+11/08/2024,16:00,Salvador
+11/08/2024,16:00,Rio de Janeiro
+11/08/2024,16:00,Sao Paulo
+19/08/2024,20:00,Salvador
+17/08/2024,16:00,Belo Horizonte
+17/08/2024,16:00,Porto Alegre
+17/08/2024,18:30,Braganca Paulista
+17/08/2024,21:00,Rio de Janeiro
+18/08/2024,16:00,Goiania
+18/08/2024,16:00,Criciuma
+18/08/2024,16:00,Sao Paulo
+18/08/2024,18:30,Curitiba
+18/08/2024,18:30,Rio de Janeiro
+26/08/2024,?,Rio de Janeiro
+24/08/2024,16:00,Goiania
+24/08/2024,18:30,Sao Paulo
+24/08/2024,21:00,Belo Horizonte
+25/08/2024,16:00,Salvador
+25/08/2024,16:00,Criciuma
+25/08/2024,16:00,Fortaleza
+25/08/2024,18:30,Sao Paulo
+25/08/2024,19:00,Porto Alegre
+25/08/2024,20:00,Rio de Janeiro
+01/09/2024,18:30,Salvador
+31/08/2024,18:30,Cuiaba
+31/08/2024,21:00,Rio de Janeiro
+01/09/2024,11:00,Belo Horizonte
+01/09/2024,11:00,Porto Alegre
+01/09/2024,16:00,Sao Paulo
+01/09/2024,18:30,Curitiba
+01/09/2024,18:30,Rio de Janeiro
+01/09/2024,18:30,Caxias do Sul
+01/09/2024,18:30,Braganca Paulista
+16/09/2024,20:00,Porto Alegre
+14/09/2024,16:00,Goiania
+14/09/2024,18:30,Curitiba
+14/09/2024,21:00,Rio de Janeiro
+15/09/2024,16:00,Caxias do Sul
+15/09/2024,16:00,Sao Paulo
+15/09/2024,16:00,Braganca Paulista
+15/09/2024,18:30,Salvador
+15/09/2024,18:30,Belo Horizonte
+15/09/2024,18:30,Rio de Janeiro
+22/09/2024,20:00,Criciuma
+21/09/2024,16:00,Sao Paulo
+21/09/2024,16:00,Salvador
+21/09/2024,18:30,Rio de Janeiro
+21/09/2024,21:00,Fortaleza
+22/09/2024,16:00,Belo Horizonte
+22/09/2024,16:00,Rio de Janeiro
+22/09/2024,18:30,Cuiaba
+22/09/2024,18:30,Porto Alegre
+22/09/2024,18:30,Sao Paulo
+29/09/2024,20:00,Rio de Janeiro
+28/09/2024,18:30,Campinas
+28/09/2024,21:00,Brasilia
+29/09/2024,11:00,Caxias do Sul
+29/09/2024,16:00,Goiania
+29/09/2024,16:00,Fortaleza
+29/09/2024,16:00,Brasilia
+29/09/2024,18:30,Salvador
+29/09/2024,18:30,Belo Horizonte
+29/09/2024,18:30,Porto Alegre
+05/10/2024,21:00,Rio de Janeiro
+03/10/2024,19:00,Criciuma
+03/10/2024,21:30,Rio de Janeiro
+04/10/2024,21:30,Porto Alegre
+05/10/2024,16:30,Curitiba
+05/10/2024,16:30,Belo Horizonte
+05/10/2024,16:30,Braganca Paulista
+05/10/2024,19:00,Salvador
+05/10/2024,19:00,Sao Paulo
+05/10/2024,19:00,Cuiaba
+20/10/2024,20:00,Caxias do Sul
+16/10/2024,21:45,Fortaleza
+16/10/2024,21:45,Campinas
+17/10/2024,20:00,Sao Paulo
+17/10/2024,20:00,Rio de Janeiro
+18/10/2024,19:00,Goiania
+18/10/2024,20:00,Rio de Janeiro
+18/10/2024,21:30,Belo Horizonte
+19/10/2024,16:00,Porto Alegre
+19/10/2024,16:00,Salvador
+28/10/2024,21:00,Rio de Janeiro
+26/10/2024,16:30,Rio de Janeiro
+26/10/2024,16:30,Porto Alegre
+26/10/2024,16:30,Sao Paulo
+26/10/2024,16:30,Salvador
+26/10/2024,18:30,Curitiba
+26/10/2024,19:00,Belo Horizonte
+26/10/2024,19:00,Braganca Paulista
+26/10/2024,21:00,Criciuma
+28/10/2024,19:00,Cuiaba
+06/11/2024,21:00,Belo Horizonte
+01/11/2024,21:00,Rio de Janeiro
+02/11/2024,16:00,Braganca Paulista
+02/11/2024,18:30,Curitiba
+02/11/2024,18:30,Caxias do Sul
+04/11/2024,20:00,Sao Paulo
+05/11/2024,21:30,Salvador
+05/11/2024,21:30,Rio de Janeiro
+05/11/2024,21:30,Porto Alegre
+06/11/2024,21:00,Goiania
+13/11/2024,20:00,Rio de Janeiro
+08/11/2024,19:00,Porto Alegre
+08/11/2024,21:30,Sao Paulo
+09/11/2024,16:30,Rio de Janeiro
+09/11/2024,16:30,Salvador
+09/11/2024,19:00,Goiania
+09/11/2024,19:00,Belo Horizonte
+09/11/2024,19:00,Fortaleza
+09/11/2024,19:00,Caxias do Sul
+09/11/2024,21:00,Sao Paulo
+22/11/2024,21:30,Rio de Janeiro
+20/11/2024,11:00,Sao Paulo
+20/11/2024,16:30,Curitiba
+20/11/2024,16:30,Criciuma
+20/11/2024,16:30,Braganca Paulista
+20/11/2024,18:00,Salvador
+20/11/2024,19:00,Cuiaba
+20/11/2024,19:00,Porto Alegre
+20/11/2024,21:30,Belo Horizonte
+21/11/2024,20:00,Rio de Janeiro
+27/11/2024,21:00,Belo Horizonte
+23/11/2024,19:30,Goiania
+23/11/2024,19:30,Rio de Janeiro
+23/11/2024,19:30,Caxias do Sul
+23/11/2024,21:30,Sao Paulo
+24/11/2024,16:00,Salvador
+24/11/2024,16:00,Sao Paulo
+24/11/2024,16:00,Porto Alegre
+26/11/2024,19:00,Rio de Janeiro
+26/11/2024,20:00,Fortaleza
+01/12/2024,18:30,Salvador
+26/11/2024,21:30,Belo Horizonte
+26/11/2024,21:30,Sao Paulo
+30/11/2024,19:30,Criciuma
+30/11/2024,19:30,Cuiaba
+30/11/2024,21:30,Rio de Janeiro
+01/12/2024,16:00,Rio de Janeiro
+01/12/2024,16:00,Porto Alegre
+01/12/2024,18:30,Curitiba
+01/12/2024,18:30,Braganca Paulista
+05/12/2024,20:00,Rio de Janeiro
+03/12/2024,20:00,Sao Paulo
+04/12/2024,19:00,Rio de Janeiro
+04/12/2024,20:00,Criciuma
+04/12/2024,20:00,Sao Paulo
+04/12/2024,20:00,Salvador
+04/12/2024,21:30,Goiania
+04/12/2024,21:30,Belo Horizonte
+04/12/2024,21:30,Porto Alegre
+05/12/2024,20:00,Curitiba
+08/12/2024,16:00,Braganca Paulista
+08/12/2024,16:00,Belo Horizonte
+08/12/2024,16:00,Salvador
+08/12/2024,16:00,Rio de Janeiro
+08/12/2024,16:00,Cuiaba
+08/12/2024,16:00,Rio de Janeiro
+08/12/2024,16:00,Fortaleza
+08/12/2024,16:00,Porto Alegre
+08/12/2024,16:00,Caxias do Sul
+08/12/2024,16:00,Sao Paulo

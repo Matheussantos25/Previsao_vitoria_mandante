@@ -1,0 +1,381 @@
+rodada,mandante,visitante,placar
+10,Criciúma,Atlético-GO,1 x 2
+10,Palmeiras,Bragantino,2 x 1
+10,Botafogo,Athletico-PR,1 x 1
+10,Fortaleza,Grêmio,1 x 0
+10,Juventude,Vasco,2 x 0
+10,São Paulo,Cuiabá,0 x 1
+10,Cruzeiro,Fluminense,2 x 0
+10,Internacional,Corinthians,1 x 0
+10,Vitória,Atlético-MG,4 x 2
+10,Flamengo,Bahia,2 x 1
+11,Criciúma,Botafogo,2 x 1
+11,Bragantino,Vitória,2 x 1
+11,Grêmio,Internacional,0 x 1
+11,Euon,Cuiabá,0 x 0
+11,Vasco,São Paulo,4 x 1
+11,Athletico-PR,Corinthians,1 x 1
+11,Bahia,Cruzeiro,4 x 1
+11,Fluminense,Flamengo,0 x 1
+11,Atlético-MG,Fortaleza,1 x 1
+11,Palmeiras,Juventude,3 x 1
+12,Botafogo,Bragantino,2 x 1
+12,Criciúma,São Paulo,2 x 1
+12,Cruzeiro,Athletico-PR,2 x 0
+12,Atlético-GO,Grêmio,1 x 1
+12,Corinthians,Cuiabá,1 x 1
+12,Juventude,Flamengo,2 x 1
+12,Bahia,Vasco,2 x 1
+12,Fortaleza,Palmeiras,3 x 0
+12,Internacional,Atlético-MG,1 x 2
+12,Fluminense,Vitória,0 x 1
+13,Euon,Cuiabá,1 x 1
+13,Palmeiras,Corinthians,2 x 0
+13,Vasco,Botafogo,1 x 1
+13,Atlético-MG,Atlético-GO,1 x 1
+13,Fortaleza,Juventude,2 x 1
+13,Grêmio,Fluminense,1 x 0
+13,São Paulo,Bahia,3 x 1
+13,Criciúma,Internacional,1 x 1
+13,Flamengo,Cruzeiro,2 x 1
+13,Vitória,Athletico-PR,0 x 1
+14,Cuiabá,Botafogo,1 x 2
+14,Fluminense,Internacional,1 x 1
+14,Criciúma,Cruzeiro,1 x 0
+14,Vasco,Fortaleza,2 x 0
+14,Athletico-PR,São Paulo,1 x 2
+14,Atlético-MG,Flamengo,2 x 4
+14,Bragantino,Atlético-GO,3 x 1
+14,Bahia,Juventude,2 x 0
+14,Grêmio,Palmeiras,2 x 2
+14,Corinthians,Vitória,3 x 2
+15,Flamengo,Cuiabá,1 x 1
+15,Botafogo,Atlético-MG,3 x 0
+15,São Paulo,Bragantino,2 x 0
+15,Cruzeiro,Corinthians,3 x 0
+15,Fortaleza,Fluminense,1 x 0
+15,Juventude,Grêmio,3 x 0
+15,Internacional,Vasco,1 x 2
+15,Atlético-GO,Athletico-PR,1 x 2
+15,Palmeiras,Bahia,2 x 0
+15,Criciúma,Vitória,2 x 1
+16,Postponed,Bragantino,
+16,Vitória,Botafogo,0 x 1
+16,Grêmio,Cruzeiro,0 x 2
+16,Athletico-PR,Bahia,1 x 3
+16,Euon,Postponed,
+16,Vasco,Corinthians,2 x 0
+16,Palmeiras,Atlético-GO,3 x 1
+16,Criciúma,Fluminense,1 x 1
+16,Flamengo,Fortaleza,1 x 2
+16,Atlético-MG,São Paulo,2 x 1
+17,Bahia,Cuiabá,1 x 2
+17,Fortaleza,Vitória,3 x 1
+17,Cruzeiro,Bragantino,2 x 1
+17,Juventude,Atlético-MG,1 x 1
+17,Criciúma,Corinthians,2 x 1
+17,Postponed,Fluminense,
+17,Postponed,Internacional,
+17,Atlético-GO,Vasco,0 x 1
+17,São Paulo,Grêmio,1 x 0
+17,Botafogo,Palmeiras,1 x 0
+18,Criciúma,Flamengo,2 x 1
+18,Euon,Cuiabá,0 x 1
+18,Botafogo,Internacional,1 x 0
+18,Palmeiras,Cruzeiro,2 x 0
+18,Grêmio,Vitória,2 x 0
+18,Atlético-MG,Vasco,2 x 0
+18,Bahia,Corinthians,0 x 1
+18,Fortaleza,Atlético-GO,3 x 1
+18,Juventude,São Paulo,0 x 0
+18,Bragantino,Athletico-PR,1 x 0
+19,RccuBul,Postponed,
+19,Criciúma,Bragantino,1 x 0
+19,Postponed,Internacional,
+19,Postponed,Vasco,
+19,Cruzeiro,Juventude,2 x 0
+19,São Paulo,Botafogo,2 x 2
+19,Vitória,Flamengo,1 x 2
+19,Atlético-GO,Bahia,1 x 1
+19,Fluminense,Palmeiras,1 x 0
+19,Corinthians,Grêmio,2 x 2
+1,Criciúma,Juventude,1 x 1
+1,Vitória,Palmeiras,0 x 1
+1,Internacional,Bahia,2 x 1
+1,Fluminense,Bragantino,2 x 2
+1,São Paulo,Fortaleza,1 x 2
+1,Athletico-PR,Cuiabá,
+1,Atlético-GO,Flamengo,1 x 2
+1,Corinthians,Atlético-MG,0 x 0
+1,Vasco,Grêmio,2 x 1
+1,Cruzeiro,Botafogo,3 x 2
+20,Criciúma,Juventude,1 x 2
+20,Grêmio,Vasco,1 x 0
+20,Palmeiras,Vitória,0 x 2
+20,Bahia,Internacional,1 x 1
+20,Botafogo,Cruzeiro,0 x 3
+20,Fortaleza,São Paulo,1 x 0
+20,Bragantino,Fluminense,0 x 1
+20,Flamengo,Atlético-GO,2 x 0
+20,Atlético-MG,Corinthians,2 x 1
+20,Cuiabá,Athletico-PR,1 x 2
+21,Vitória,Cuiabá,1 x 0
+21,Cruzeiro,Fortaleza,1 x 2
+21,Rerul,Vasco,2 x 2
+21,Atlético-GO,Botafogo,1 x 4
+21,Criciúma,Atlético-MG,2 x 1
+21,São Paulo,Flamengo,1 x 0
+21,Athletico-PR,Grêmio,0 x 2
+21,Corinthians,Juventude,1 x 1
+21,Fluminense,Bahia,1 x 0
+21,Internacional,Palmeiras,1 x 1
+22,Criciúma,Fortaleza,1 x 0
+22,Internacional,Athletico-PR,2 x 2
+22,Cuiabá,Grêmio,1 x 3
+22,Corinthians,Bragantino,1 x 1
+22,Cruzeiro,Atlético-MG,0 x 0
+22,Vasco,Fluminense,2 x 0
+22,Juventude,Botafogo,3 x 2
+22,Bahia,Vitória,2 x 0
+22,Flamengo,Palmeiras,1 x 1
+22,São Paulo,Atlético-GO,1 x 0
+23,Atlético-MG,Cuiabá,1 x 1
+23,Vitória,Cruzeiro,2 x 2
+23,Grêmio,Bahia,0 x 2
+23,Bragantino,Fortaleza,1 x 2
+23,Fluminense,Corinthians,0 x 0
+23,Atlético-GO,Internacional,1 x 0
+23,Criciúma,Vasco,2 x 2
+23,Palmeiras,São Paulo,2 x 1
+23,Athletico-PR,Juventude,1 x 2
+23,Botafogo,Flamengo,4 x 1
+24,Atlético-GO,Juventude,2 x 1
+24,Vasco,Athletico-PR,2 x 1
+24,Palmeiras,Cuiabá,5 x 0
+24,Atlético-MG,Fluminense,0 x 2
+24,Bahia,Botafogo,0 x 0
+24,Criciúma,Grêmio,0 x 1
+24,Fortaleza,Corinthians,1 x 0
+24,São Paulo,Vitória,2 x 1
+24,Internacional,Cruzeiro,1 x 0
+24,Flamengo,Bragantino,2 x 1
+25,Criciúma,Cuiabá,2 x 1
+25,Vitória,Vasco,0 x 1
+25,Botafogo,Fortaleza,2 x 0
+25,Cruzeiro,Atlético-GO,3 x 1
+25,Grêmio,Atlético-MG,2 x 3
+25,Corinthians,Flamengo,2 x 1
+25,Athletico-PR,Palmeiras,0 x 2
+25,Fluminense,São Paulo,2 x 0
+25,Juventude,Internacional,1 x 3
+25,Bragantino,Bahia,2 x 1
+26,Atlético-GO,Vitória,0 x 2
+26,Internacional,Cuiabá,3 x 0
+26,Athletico-PR,Fortaleza,1 x 1
+26,Botafogo,Corinthians,2 x 1
+26,Juventude,Fluminense,2 x 1
+26,Criciúma,Palmeiras,5 x 0
+26,Bragantino,Grêmio,2 x 2
+26,Bahia,Atlético-MG,3 x 0
+26,Cruzeiro,São Paulo,0 x 1
+26,Flamengo,Vasco,1 x 1
+27,Corinthians,Atlético-GO,3 x 0
+27,Criciúma,Athletico-PR,0 x 0
+27,Vitória,Juventude,1 x 0
+27,Fluminense,Botafogo,0 x 1
+27,Fortaleza,Bahia,4 x 1
+27,Atlético-MG,Bragantino,3 x 0
+27,Vasco,Palmeiras,0 x 1
+27,Euon,Cuiabá,0 x 0
+27,Grêmio,Flamengo,3 x 2
+27,São Paulo,Internacional,1 x 3
+28,Palmeiras,Atlético-MG,2 x 1
+28,Flamengo,Athletico-PR,1 x 0
+28,Botafogo,Grêmio,0 x 0
+28,Juventude,Bragantino,1 x 1
+28,Atlético-GO,Fluminense,1 x 0
+28,Fortaleza,Cuiabá,1 x 0
+28,São Paulo,Corinthians,3 x 1
+28,Criciúma,Bahia,1 x 0
+28,Cruzeiro,Vasco,1 x 1
+28,Internacional,Vitória,3 x 1
+29,Criciúma,Atlético-GO,2 x 0
+29,Vasco,Juventude,1 x 1
+29,Fluminense,Cruzeiro,1 x 0
+29,Grêmio,Fortaleza,3 x 1
+29,Athletico-PR,Botafogo,0 x 1
+29,Atlético-MG,Vitória,2 x 2
+29,Bragantino,Palmeiras,0 x 0
+29,Bahia,Flamengo,0 x 2
+29,Corinthians,Internacional,2 x 2
+29,Euon,Cuiabá,2 x 0
+2,Bahia,Fluminense,2 x 1
+2,Botafogo,Atlético-GO,1 x 0
+2,Euon,Postponed,
+2,Grêmio,Athletico-PR,2 x 0
+2,Bragantino,Vasco,2 x 1
+2,Criciúma,Atlético-MG,1 x 1
+2,Fortaleza,Cruzeiro,1 x 1
+2,Juventude,Corinthians,2 x 0
+2,Palmeiras,Internacional,0 x 1
+2,Flamengo,São Paulo,2 x 1
+30,Fortaleza,Atlético-MG,1 x 1
+30,Juventude,Palmeiras,3 x 5
+30,São Paulo,Vasco,3 x 0
+30,Corinthians,Athletico-PR,5 x 2
+30,Flamengo,Fluminense,0 x 2
+30,Atlético-GO,Cuiabá,0 x 0
+30,Criciúma,Botafogo,1 x 1
+30,Cruzeiro,Bahia,1 x 1
+30,Internacional,Grêmio,1 x 0
+30,Vitória,Bragantino,1 x 0
+31,Flamengo,Juventude,4 x 2
+31,Vasco,Bahia,3 x 2
+31,Grêmio,Atlético-GO,3 x 1
+31,Palmeiras,Fortaleza,2 x 2
+31,Vitória,Fluminense,2 x 1
+31,Athletico-PR,Cruzeiro,3 x 0
+31,Atlético-MG,Internacional,1 x 3
+31,Bragantino,Botafogo,0 x 1
+31,Criciúma,São Paulo,1 x 1
+31,Euon,Cuiabá,0 x 1
+32,Fluminense,Grêmio,2 x 2
+32,Cruzeiro,Flamengo,0 x 1
+32,Bragantino,Cuiabá,0 x 0
+32,Athletico-PR,Vitória,1 x 2
+32,FoaiaEn,Juventude,0 x 3
+32,Corinthians,Palmeiras,2 x 0
+32,Bahia,São Paulo,0 x 3
+32,Botafogo,Vasco,3 x 0
+32,Criciúma,Internacional,2 x 0
+32,Atlético-GO,Atlético-MG,1 x 0
+33,Internacional,Fluminense,2 x 0
+33,Flamengo,Atlético-MG,0 x 0
+33,Palmeiras,Grêmio,1 x 0
+33,Botafogo,Cuiabá,0 x 0
+33,Vitória,Corinthians,1 x 2
+33,Atlético-GO,Bragantino,0 x 0
+33,Criciúma,Cruzeiro,2 x 1
+33,Fortaleza,Vasco,3 x 0
+33,Juventude,Bahia,2 x 1
+33,São Paulo,Athletico-PR,2 x 1
+34,Corinthians,Cruzeiro,2 x 1
+34,Fluminense,Fortaleza,2 x 2
+34,Athletico-PR,Atlético-GO,2 x 0
+34,Criciúma,Vitória,0 x 1
+34,Bragantino,São Paulo,1 x 1
+34,Bahia,Palmeiras,1 x 2
+34,Cuiabá,Flamengo,1 x 2
+34,Grêmio,Juventude,2 x 2
+34,Atlético-MG,Botafogo,0 x 0
+34,Vasco,Internacional,0 x 1
+35,Atlético-GO,Palmeiras,0 x 1
+35,Cruzeiro,Grêmio,1 x 1
+35,Botafogo,Vitória,1 x 1
+35,Juventude,Cuiabá,1 x 1
+35,São Paulo,Atlético-MG,2 x 2
+35,Bahia,Athletico-PR,1 x 1
+35,Corinthians,Vasco,3 x 1
+35,Internacional,Bragantino,4 x 1
+35,Criciúma,Fluminense,0 x 0
+35,Fortaleza,Flamengo,0 x 0
+36,Atlético-MG,Juventude,2 x 3
+36,Vitória,Fortaleza,2 x 0
+36,Palmeiras,Botafogo,1 x 3
+36,Criciúma,Corinthians,2 x 4
+36,Cuiabá,Bahia,1 x 2
+36,Vasco,Atlético-GO,2 x 2
+36,Flamengo,Internacional,3 x 2
+36,Grêmio,São Paulo,2 x 1
+36,Athletico-PR,Fluminense,1 x 1
+36,Bragantino,Cruzeiro,1 x 1
+37,Corinthians,Bahia,3 x 0
+37,Fluminense,Cuiabá,1 x 0
+37,Vasco,Atlético-MG,2 x 0
+37,Criciúma,Flamengo,0 x 3
+37,São Paulo,Juventude,1 x 2
+37,Vitória,Grêmio,1 x 1
+37,Atlético-GO,Fortaleza,3 x 1
+37,Cruzeiro,Palmeiras,1 x 2
+37,Internacional,Botafogo,0 x 1
+37,Athletico-PR,Bragantino,1 x 2
+38,Atlético-MG,Athletico-PR,1 x 0
+38,Criciúma,Bragantino,5 x 1
+38,Bahia,Atlético-GO,2 x 0
+38,Botafogo,São Paulo,2 x 1
+38,Euon,Cuiabá,1 x 2
+38,Flamengo,Vitória,2 x 2
+38,Fortaleza,Internacional,3 x 0
+38,Grêmio,Corinthians,0 x 3
+38,Juventude,Cruzeiro,0 x 1
+38,Palmeiras,Fluminense,0 x 1
+3,Fluminense,Vasco,2 x 1
+3,Criciúma,Fortaleza,1 x 1
+3,Grêmio,Cuiabá,1 x 0
+3,Redhul,Bragantino,1 x 0
+3,Atlético-MG,Cruzeiro,3 x 0
+3,Athletico-PR,Internacional,1 x 0
+3,Palmeiras,Flamengo,0 x 0
+3,Vitória,Bahia,2 x 2
+3,Atlético-GO,São Paulo,0 x 3
+3,Botafogo,Juventude,5 x 1
+4,Criciúma,Vasco,0 x 4
+4,São Paulo,Palmeiras,0 x 0
+4,Cuiabá,Atlético-MG,0 x 3
+4,Bahia,Grêmio,1 x 0
+4,Flamengo,Botafogo,0 x 2
+4,Corinthians,Fluminense,3 x 0
+4,Cruzeiro,Vitória,3 x 1
+4,Fortaleza,Bragantino,1 x 1
+4,Juventude,Athletico-PR,1 x 1
+4,Internacional,Atlético-GO,1 x 1
+5,Fluminense,Atlético-MG,2 x 2
+5,Criciúma,Grêmio,1 x 2
+5,Bragantino,Flamengo,1 x 1
+5,Corinthians,Fortaleza,0 x 0
+5,Athletico-PR,Vasco,1 x 0
+5,Vitória,São Paulo,1 x 3
+5,Botafogo,Bahia,1 x 2
+5,Euon,Cuiabá,0 x 2
+5,Juventude,Atlético-GO,1 x 0
+5,Cruzeiro,Internacional,0 x 0
+6,Flamengo,Corinthians,2 x 0
+6,Atlético-MG,Grêmio,2 x 1
+6,Atlético-GO,Cruzeiro,0 x 1
+6,Fortaleza,Botafogo,1 x 1
+6,Palmeiras,Athletico-PR,0 x 2
+6,Bahia,Bragantino,1 x 0
+6,Vasco,Vitória,2 x 1
+6,São Paulo,Fluminense,2 x 1
+6,Criciúma,Cuiabá,2 x 5
+6,Internacional,Juventude,2 x 1
+7,Rerul,Grêmio,0 x 2
+7,São Paulo,Cruzeiro,2 x 0
+7,Vitória,Atlético-GO,0 x 2
+7,Euon,Cuiabá,0 x 1
+7,Fluminense,Juventude,1 x 1
+7,Corinthians,Botafogo,0 x 1
+7,Atlético-MG,Bahia,1 x 1
+7,Criciúma,Palmeiras,1 x 2
+7,Vasco,Flamengo,1 x 6
+7,Fortaleza,Athletico-PR,1 x 0
+8,Atlético-GO,Corinthians,2 x 2
+8,Palmeiras,Vasco,2 x 0
+8,Juventude,Vitória,1 x 1
+8,Botafogo,Fluminense,1 x 0
+8,Bragantino,Atlético-MG,1 x 2
+8,Cruzeiro,Cuiabá,2 x 1
+8,Criciúma,Athletico-PR,3 x 1
+8,Flamengo,Grêmio,2 x 1
+8,Internacional,São Paulo,0 x 0
+8,Bahia,Fortaleza,1 x 0
+9,Bragantino,Juventude,2 x 1
+9,Atlético-MG,Palmeiras,0 x 4
+9,Fluminense,Atlético-GO,1 x 2
+9,Athletico-PR,Flamengo,1 x 1
+9,Corinthians,São Paulo,2 x 2
+9,Vitória,Internacional,2 x 1
+9,Criciúma,Bahia,2 x 2
+9,Euon,Cuiabá,5 x 0
+9,Grêmio,Botafogo,1 x 2
+9,Vasco,Cruzeiro,0 x 0

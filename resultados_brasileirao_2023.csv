@@ -1,0 +1,381 @@
+rodada,mandante,visitante,placar
+1,Erro na leitura,Erro na leitura,Erro na leitura
+1,Eulon,Palmeiras,2 x 1
+1,Athletico,Goiás,2 x 0
+1,Erro na leitura,Erro na leitura,Erro na leitura
+1,Forall,Fortaleza,1 x 1
+1,Bragantino,Bahia,2 x 1
+1,Erro na leitura,Erro na leitura,Erro na leitura
+1,Corinthians,Cruzeiro,2 x 1
+1,Flamengo,Coritiba,3 x 0
+1,Grêmio,Santos,1 x 0
+2,Fluminense,Athletico,2 x 0
+2,Euon,Cuiabá,1 x 1
+2,Erro na leitura,Erro na leitura,Erro na leitura
+2,Cruzeiro,Grêmio,1 x 0
+2,Internacional,Flamengo,2 x 1
+2,Erro na leitura,Erro na leitura,Erro na leitura
+2,Vasco,Palmeiras,2 x 2
+2,Fohieln,Coritiba,0 x 3
+2,Goiás,Corinthians,3 x 1
+2,Bahia,Botafogo,1 x 2
+3,Erro na leitura,Erro na leitura,Erro na leitura
+3,Forall,Fortaleza,4 x 2
+3,Palmeiras,Corinthians,2 x 1
+3,Redhul,Bragantino,0 x 3
+3,Erro na leitura,Erro na leitura,Erro na leitura
+3,Erro na leitura,Erro na leitura,Erro na leitura
+3,Flamengo,Botafogo,2 x 3
+3,Cuiabá,Grêmio,1 x 2
+3,Internacional,Goiás,1 x 0
+3,Vasco,Bahia,0 x 1
+4,Cruzeiro,Santos,2 x 1
+4,Fluminense,Vasco,1 x 1
+4,Eulon,Cuiabá,1 x 2
+4,Athletico,Flamengo,2 x 1
+4,Bahia,Coritiba,3 x 1
+4,Erro na leitura,Erro na leitura,Erro na leitura
+4,Erro na leitura,Erro na leitura,Erro na leitura
+4,Goiás,Palmeiras,0 x 5
+4,Rerul,Grêmio,3 x 3
+4,Fohieln,Corinthians,1 x 1
+5,Internacional,Athletico,0 x 2
+5,Bragantino,Vyu,2 x 2
+5,Santos,Bahia,3 x 0
+5,Euon,Cuiabá,0 x 4
+5,Flamengo,Goiás,2 x 0
+5,Cruzeiro,Fluminense,0 x 2
+5,Palmeiras,Grêmio,4 x 1
+5,Coritiba,Vasco,1 x 1
+5,Botafogo,Corinthians,3 x 0
+5,Erro na leitura,Erro na leitura,Erro na leitura
+6,Bahia,Flamengo,2 x 3
+6,Eulon,Fluminense,2 x 0
+6,Palmeiras,Bragantino,1 x 1
+6,Erro na leitura,Erro na leitura,Erro na leitura
+6,Erro na leitura,Erro na leitura,Erro na leitura
+6,Erro na leitura,Erro na leitura,Erro na leitura
+6,Vasco,Santos,0 x 1
+6,Erro na leitura,Erro na leitura,Erro na leitura
+6,Athletico,Coritiba,3 x 2
+6,Goiás,Botafogo,2 x 1
+7,Bahia,Goiás,1 x 1
+7,Fohieln,Fortaleza,2 x 1
+7,Botafogo,Fluminense,1 x 0
+7,Erro na leitura,Erro na leitura,Erro na leitura
+7,Bragantino,Athletico,2 x 0
+7,Erro na leitura,Erro na leitura,Erro na leitura
+7,Erro na leitura,Erro na leitura,Erro na leitura
+7,Flamengo,Corinthians,1 x 0
+7,Grêmio,Internacional,3 x 1
+7,Eulon,Cruzeiro,0 x 1
+8,Athletico,Grêmio,1 x 2
+8,Forall,Fortaleza,2 x 0
+8,Euon,Cuiabá,1 x 1
+8,Flamengo,Cruzeiro,1 x 1
+8,Erro na leitura,Erro na leitura,Erro na leitura
+8,Corinthians,Fluminense,2 x 0
+8,Internacional,Bahia,2 x 0
+8,Erro na leitura,Erro na leitura,Erro na leitura
+8,Bragantino,Santos,2 x 0
+8,Erro na leitura,Erro na leitura,Erro na leitura
+9,Erro na leitura,Erro na leitura,Erro na leitura
+9,Erro na leitura,Erro na leitura,Erro na leitura
+9,Athletico,Botafogo,1 x 0
+9,Erro na leitura,Erro na leitura,Erro na leitura
+9,Santos,Internacional,1 x 1
+9,Fluminense,Bragantino,2 x 1
+9,Erro na leitura,Erro na leitura,Erro na leitura
+9,Eulon,Goiás,0 x 1
+9,Palmeiras,Coritiba,3 x 1
+9,Vasco,Flamengo,1 x 4
+10,Erro na leitura,Erro na leitura,Erro na leitura
+10,Erro na leitura,Erro na leitura,Erro na leitura
+10,Bahia,Cruzeiro,2 x 2
+10,Eulon,Corinthians,1 x 1
+10,Fohieln,Botafogo,2 x 0
+10,Erro na leitura,Erro na leitura,Erro na leitura
+10,Internacional,Vasco,2 x 1
+10,Erro na leitura,Erro na leitura,Erro na leitura
+10,Flamengo,Grêmio,3 x 0
+10,Goiás,Fluminense,2 x 2
+11,Fohieln,Cruzeiro,0 x 1
+11,Erro na leitura,Erro na leitura,Erro na leitura
+11,Santos,Corinthians,0 x 2
+11,Bahia,Palmeiras,1 x 0
+11,Erro na leitura,Erro na leitura,Erro na leitura
+11,Erro na leitura,Erro na leitura,Erro na leitura
+11,Coritiba,Internacional,0 x 1
+11,Euon,Cuiabá,0 x 1
+11,Vasco,Goiás,0 x 1
+11,Bragantino,Flamengo,4 x 0
+12,Athletico,Corinthians,1 x 0
+12,Fluminense,Bahia,2 x 1
+12,Forall,Fortaleza,2 x 1
+12,Cruzeiro,Rafinha,1 x 0
+12,Grêmio,Coritiba,5 x 1
+12,Palmeiras,Botafogo,0 x 1
+12,Erro na leitura,Erro na leitura,Erro na leitura
+12,Bragantino,Goiás,2 x 0
+12,Santos,Flamengo,2 x 3
+12,Eulon,Vasco,1 x 0
+13,Erro na leitura,Erro na leitura,Erro na leitura
+13,Bahia,Grêmio,1 x 2
+13,Fohieln,Flamengo,2 x 0
+13,Erro na leitura,Erro na leitura,Erro na leitura
+13,Corinthians,Bragantino,0 x 1
+13,Athletico,Palmeiras,2 x 2
+13,Erro na leitura,Erro na leitura,Erro na leitura
+13,Botafogo,Vasco,2 x 0
+13,Euon,Cuiabá,3 x 0
+13,Goiás,Coritiba,1 x 2
+14,Euon,Cuiabá,1 x 1
+14,Vasco,Cruzeiro,0 x 1
+14,Erro na leitura,Erro na leitura,Erro na leitura
+14,Coritiba,Robson,3 x 1
+14,Palmeiras,Flamengo,1 x 1
+14,Santos,Goiás,4 x 3
+14,Fluminense,Internacional,2 x 0
+14,Erro na leitura,Erro na leitura,Erro na leitura
+14,Forall,Fortaleza,1 x 0
+14,Grêmio,Botafogo,0 x 2
+15,Botafogo,Bragantino,2 x 0
+15,Erro na leitura,Erro na leitura,Erro na leitura
+15,Erro na leitura,Erro na leitura,Erro na leitura
+15,Forall,Eulon,0 x 1
+15,Erro na leitura,Erro na leitura,Erro na leitura
+15,Athletico,Bahia,2 x 0
+15,Erro na leitura,Erro na leitura,Erro na leitura
+15,Erro na leitura,Erro na leitura,Erro na leitura
+15,Corinthians,Grêmio,4 x 4
+15,Erro na leitura,Erro na leitura,Erro na leitura
+16,Erro na leitura,Erro na leitura,Erro na leitura
+16,Fohieln,Palmeiras,3 x 1
+16,Erro na leitura,Erro na leitura,Erro na leitura
+16,Euon,Cuiabá,2 x 1
+16,Erro na leitura,Erro na leitura,Erro na leitura
+16,Cruzeiro,Goiás,0 x 1
+16,Erro na leitura,Erro na leitura,Erro na leitura
+16,Santos,Botafogo,2 x 2
+16,Vasco,Athletico,0 x 2
+16,Coritiba,Fluminense,2 x 0
+17,Athletico,Cruzeiro,3 x 3
+17,Fluminense,Santos,1 x 0
+17,Eulon,Internacional,1 x 2
+17,Corinthians,Vasco,3 x 1
+17,Forall,Rerul,0 x 3
+17,Erro na leitura,Erro na leitura,Erro na leitura
+17,Erro na leitura,Erro na leitura,Erro na leitura
+17,Erro na leitura,Erro na leitura,Erro na leitura
+17,Botafogo,Coritiba,4 x 1
+17,Goiás,Grêmio,1 x 1
+18,Santos,Athletico,1 x 1
+18,Fohieln,Goiás,1 x 0
+18,Internacional,Corinthians,2 x 2
+18,Fluminense,Palmeiras,2 x 1
+18,Erro na leitura,Erro na leitura,Erro na leitura
+18,Vasco,Grêmio,1 x 0
+18,Erro na leitura,Erro na leitura,Erro na leitura
+18,Coritiba,Bragantino,0 x 1
+18,Erro na leitura,Erro na leitura,Erro na leitura
+18,Euon,Cuiabá,3 x 0
+19,Botafogo,Internacional,3 x 1
+19,Erro na leitura,Erro na leitura,Erro na leitura
+19,Erro na leitura,Erro na leitura,Erro na leitura
+19,Corinthians,Coritiba,3 x 1
+19,Grêmio,Fluminense,2 x 1
+19,Erro na leitura,Erro na leitura,Erro na leitura
+19,Forall,Fortaleza,4 x 0
+19,Palmeiras,Cruzeiro,1 x 0
+19,Bragantino,Vasco,1 x 1
+19,Eulon,Athletico,2 x 0
+20,Fohieln,Internacional,0 x 1
+20,Erro na leitura,Erro na leitura,Erro na leitura
+20,Euon,Cuiabá,0 x 2
+20,Erro na leitura,Erro na leitura,Erro na leitura
+20,Cruzeiro,Corinthians,1 x 1
+20,Erro na leitura,Erro na leitura,Erro na leitura
+20,Bahia,Bragantino,4 x 0
+20,Coritiba,Flamengo,2 x 3
+20,Santos,Grêmio,2 x 1
+20,Goiás,Athletico,1 x 1
+21,Erro na leitura,Erro na leitura,Erro na leitura
+21,Corinthians,Goiás,1 x 1
+21,Eulon,Bragantino,2 x 0
+21,Erro na leitura,Erro na leitura,Erro na leitura
+21,Erro na leitura,Erro na leitura,Erro na leitura
+21,Botafogo,Bahia,3 x 0
+21,Athletico,Fluminense,2 x 2
+21,Forall,Fortaleza,3 x 1
+21,Palmeiras,Vasco,1 x 0
+21,Grêmio,Cruzeiro,3 x 0
+22,Erro na leitura,Erro na leitura,Erro na leitura
+22,Erro na leitura,Erro na leitura,Erro na leitura
+22,Botafogo,Flamengo,1 x 2
+22,Eulon,Grêmio,2 x 0
+22,Erro na leitura,Erro na leitura,Erro na leitura
+22,Fohieln,Fluminense,1 x 0
+22,Erro na leitura,Erro na leitura,Erro na leitura
+22,Bahia,Vasco,1 x 1
+22,Erro na leitura,Erro na leitura,Erro na leitura
+22,Erro na leitura,Erro na leitura,Erro na leitura
+23,Flamengo,Athletico,0 x 3
+23,Erro na leitura,Erro na leitura,Erro na leitura
+23,Forall,Fortaleza,2 x 1
+23,Santos,Cruzeiro,0 x 3
+23,Coritiba,Bahia,2 x 4
+23,Bragantino,Grêmio,2 x 0
+23,Euon,Cuiabá,2 x 2
+23,Palmeiras,Goiás,1 x 0
+23,Vasco,Fluminense,4 x 2
+23,Erro na leitura,Erro na leitura,Erro na leitura
+24,Bahia,Santos,1 x 2
+24,Rerul,Bragantino,0 x 2
+24,Erro na leitura,Erro na leitura,Erro na leitura
+24,Fluminense,Cruzeiro,1 x 0
+24,Fohieln,Fortaleza,1 x 2
+24,Vasco,Coritiba,5 x 1
+24,Athletico,Internacional,2 x 1
+24,Grêmio,Palmeiras,1 x 0
+24,Corinthians,Botafogo,1 x 0
+24,Eulon,Cuiabá,1 x 0
+25,Flamengo,Bahia,1 x 0
+25,Forall,Fortaleza,1 x 1
+25,Euon,Cuiabá,3 x 0
+25,Erro na leitura,Erro na leitura,Erro na leitura
+25,Erro na leitura,Erro na leitura,Erro na leitura
+25,Coritiba,Athletico,2 x 0
+25,Erro na leitura,Erro na leitura,Erro na leitura
+25,Santos,Vasco,4 x 1
+25,Bragantino,Palmeiras,2 x 1
+25,Botafogo,Goiás,1 x 1
+26,Goiás,Bahia,4 x 6
+26,Erro na leitura,Erro na leitura,Erro na leitura
+26,Corinthians,Flamengo,1 x 1
+26,Fluminense,Botafogo,0 x 2
+26,Internacional,Grêmio,3 x 2
+26,Palmeiras,Santos,1 x 2
+26,Athletico,Bragantino,1 x 1
+26,Erro na leitura,Erro na leitura,Erro na leitura
+26,Forall,Fortaleza,3 x 2
+26,Euon,Cuiabá,0 x 0
+27,Grêmio,Athletico,1 x 2
+27,Erro na leitura,Erro na leitura,Erro na leitura
+27,Eulon,Coritiba,0 x 3
+27,Bahia,Internacional,1 x 0
+27,Erro na leitura,Erro na leitura,Erro na leitura
+27,Fohieln,Vasco,1 x 0
+27,Cruzeiro,Flamengo,0 x 2
+27,Erro na leitura,Erro na leitura,Erro na leitura
+27,Rerul,Santos,1 x 3
+27,Fluminense,Corinthians,3 x 3
+28,Fohieln,Bahia,2 x 0
+28,Cuiabá,Goiás,1 x 1
+28,Erro na leitura,Erro na leitura,Erro na leitura
+28,Botafogo,Athletico,1 x 1
+28,Erro na leitura,Erro na leitura,Erro na leitura
+28,Flamengo,Vasco,1 x 0
+28,Internacional,Santos,7 x 1
+28,Erro na leitura,Erro na leitura,Erro na leitura
+28,Coritiba,Palmeiras,0 x 2
+28,Bragantino,Fluminense,1 x 0
+29,Erro na leitura,Erro na leitura,Erro na leitura
+29,Fluminense,Goiás,5 x 3
+29,Bragantino,Vyu,1 x 2
+29,Cruzeiro,Bahia,3 x 0
+29,Erro na leitura,Erro na leitura,Erro na leitura
+29,Euon,Cuiabá,0 x 1
+29,Grêmio,Flamengo,3 x 2
+29,Vasco,Internacional,1 x 2
+29,Santos,Coritiba,2 x 1
+29,Forall,Fortaleza,2 x 2
+30,Erro na leitura,Erro na leitura,Erro na leitura
+30,Palmeiras,Bahia,1 x 0
+30,Erro na leitura,Erro na leitura,Erro na leitura
+30,Erro na leitura,Erro na leitura,Erro na leitura
+30,Goiás,Vasco,1 x 1
+30,Corinthians,Santos,1 x 1
+30,Internacional,Coritiba,3 x 4
+30,Eulon,Botafogo,0 x 1
+30,Forall,Fortaleza,0 x 1
+30,Flamengo,Bragantino,1 x 0
+31,Bahia,Fluminense,1 x 0
+31,Corinthians,Athletico,1 x 0
+31,Erro na leitura,Erro na leitura,Erro na leitura
+31,Coritiba,Grêmio,1 x 2
+31,Flamengo,Santos,1 x 2
+31,Fohieln,Fortaleza,3 x 1
+31,Botafogo,Palmeiras,3 x 4
+31,Cuiabá,Vasco,0 x 2
+31,Goiás,Bragantino,0 x 2
+31,Erro na leitura,Erro na leitura,Erro na leitura
+32,Erro na leitura,Erro na leitura,Erro na leitura
+32,Grêmio,Bahia,1 x 0
+32,Palmeiras,Athletico,1 x 0
+32,Cruzeiro,Internacional,1 x 2
+32,Forall,Fortaleza,0 x 2
+32,Bragantino,Corinthians,1 x 0
+32,Coritiba,Goiás,0 x 1
+32,Vasco,Botafogo,1 x 0
+32,Erro na leitura,Erro na leitura,Erro na leitura
+32,Erro na leitura,Erro na leitura,Erro na leitura
+33,Erro na leitura,Erro na leitura,Erro na leitura
+33,Erro na leitura,Erro na leitura,Erro na leitura
+33,Fohieln,Athletico,1 x 1
+33,Erro na leitura,Erro na leitura,Erro na leitura
+33,Flamengo,Palmeiras,3 x 0
+33,Erro na leitura,Erro na leitura,Erro na leitura
+33,Goiás,Santos,0 x 1
+33,Eulon,Bahia,0 x 3
+33,Botafogo,Grêmio,3 x 4
+33,Cruzeiro,Vasco,2 x 2
+34,Coritiba,Cruzeiro,1 x 0
+34,Flamengo,Fluminense,1 x 1
+34,Palmeiras,Internacional,3 x 0
+34,Grêmio,Corinthians,0 x 1
+34,Bragantino,Botafogo,2 x 2
+34,Erro na leitura,Erro na leitura,Erro na leitura
+34,Bahia,Athletico,1 x 1
+34,Fohieln,Cuiabá,2 x 1
+34,Erro na leitura,Erro na leitura,Erro na leitura
+34,Erro na leitura,Erro na leitura,Erro na leitura
+35,Corinthians,Bahia,1 x 5
+35,Erro na leitura,Erro na leitura,Erro na leitura
+35,Fluminense,Coritiba,2 x 1
+35,Erro na leitura,Erro na leitura,Erro na leitura
+35,Botafogo,Santos,1 x 1
+35,Erro na leitura,Erro na leitura,Erro na leitura
+35,Forall,Fortaleza,2 x 2
+35,Internacional,Bragantino,1 x 0
+35,Erro na leitura,Erro na leitura,Erro na leitura
+35,Goiás,Cruzeiro,0 x 1
+36,Vasco,Corinthians,2 x 4
+36,Santos,Fluminense,0 x 3
+36,Erro na leitura,Erro na leitura,Erro na leitura
+36,Erro na leitura,Erro na leitura,Erro na leitura
+36,Cuiabá,Internacional,0 x 2
+36,Coritiba,Botafogo,1 x 1
+36,Erro na leitura,Erro na leitura,Erro na leitura
+36,Grêmio,Goiás,2 x 1
+36,Cruzeiro,Athletico,1 x 1
+36,Fohieln,Bragantino,1 x 2
+37,Corinthians,Internacional,1 x 2
+37,Erro na leitura,Erro na leitura,Erro na leitura
+37,Eulon,Flamengo,2 x 1
+37,Palmeiras,Fluminense,1 x 0
+37,Erro na leitura,Erro na leitura,Erro na leitura
+37,Athletico,Santos,3 x 0
+37,Botafogo,Cruzeiro,0 x 0
+37,Forall,Fortaleza,1 x 0
+37,Grêmio,Vasco,1 x 0
+37,Redhul,Bragantino,1 x 0
+38,Erro na leitura,Erro na leitura,Erro na leitura
+38,Erro na leitura,Erro na leitura,Erro na leitura
+38,Coritiba,Corinthians,0 x 2
+38,Cruzeiro,Palmeiras,1 x 1
+38,Euon,Cuiabá,3 x 0
+38,Fluminense,Grêmio,2 x 3
+38,Internacional,Botafogo,3 x 1
+38,Fohieln,Santos,1 x 2
+38,Erro na leitura,Erro na leitura,Erro na leitura
+38,Vasco,Bragantino,2 x 1

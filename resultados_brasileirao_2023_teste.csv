@@ -1,0 +1,381 @@
+rodada,jogo,mandante,visitante,placar,gols
+10,1,Erro,Erro,Erro,
+10,10,Goiás,Fluminense,2 x 2,Alesson 85'; Lima 47'; Matheus Peixoto 45' (Pen)
+10,2,RccBul,Atlético-MG,1 x 1,Paulinho 17'; ESasha 35'
+10,3,Bahia,Finished,2 x 2,A. Sales 66'; Wesley 45'+1; Kayky 18'; B. Rodrigues 30'
+10,4,Eulon,Eulon,1 x 1,Ruan Oliveira 81'; Deyverson 55'
+10,5,Fohieln,Botafogo,2 x 0,Tiquinho 63' 45'+3
+10,6,América-MG,Athletico,2 x 2,Danilo Avelar 90'+6; Christian 48'; VU-Paulista 76'
+10,7,Internacional,Finished,2 x 1,Wanderson 16'; Rayan 29'
+10,8,Erro,Erro,Erro,Endrick 78'; G. Menino 11'
+10,9,Flamengo,Grêmio,3 x 0,B. Henrique 90'+7; Pedro 65'; Everton 24'
+11,1,Fohieln,Cruzeiro,0 x 1,J.M.Lucero 80'
+11,10,Bragantino,Flamengo,4 x 0,H.Mosquera 81' 49'; Alerrandro 76'
+11,2,Erro,Erro,Erro,Luciano 47'; V.Roque 11'; G.Neves 19'
+11,3,Santos,Corinthians,0 x 2,Ruan Oliveira 28'
+11,4,Bahia,Palmeiras,1 x 0,Thaciano 90'+3
+11,5,Fluminense,Atlético-MG,1 x 1,Xavier 45'+1; Guga 35' (OG)
+11,6,GREMIO,Grêmio,3 x 1,Lsuarez 69'; Danilo Avelar 25'; M. Villasanti 61'; M. Cavichioli 40' (oG)
+11,7,Coritiba,Internacional,0 x 1,P Henrique 66' (Pen)
+11,8,Euon,Cuiabá,0 x 1,Tiquinho 60' (Pen )
+11,9,Vasco,Goiás,0 x 1,EMorelli 73'
+12,1,Athletico,Corinthians,1 x 0,V-Roque 36'
+12,10,Eulon,Vasco,1 x 0,Jair 77' (Pen)
+12,2,Fluminense,Finished,2 x 1,Pirani 51'; Vinicius Mingotti 28'
+12,3,Forall,Finished,2 x 1,Tinga 62'; Alan Kardec 87'
+12,4,Cruzeiro,Rafinha,1 x 0,
+12,5,GREMIO,Grêmio,5 x 1,A Manga 41'; L Suárez 66'; Bitello 54'
+12,6,Palmeiras,Botafogo,0 x 1,Tiquinho 28'
+12,7,América-MG,Finished,1 x 2,Alemão 85'; JDlas 63'
+12,8,Bragantino,Goiás,2 x 0,Sorriso 45'+2
+12,9,Santos,Flamengo,2 x 3,RFernández 52'; E Ribeiro 50'
+13,1,Erro,Erro,Erro,Luclano 87'
+13,10,Goiás,Finished,1 x 2,Kuscevic 43'; A. Manga 26'
+13,2,Bahia,(GrEMIo,1 x 2,G. Martins 90'+5
+13,3,Fohieln,Flamengo,2 x 0,
+13,4,Erro,Erro,Erro,
+13,5,RccBul,Corinthians,0 x 1,E Sasha 17'
+13,6,Athletico,Palmeiras,2 x 2,V-Roque 73'; Menino 57'; Vitor Bueno 67' (Pen); Endrick 22'
+13,7,Atlético-MG,América-MG,2 x 2,"Hulk 28'; Mastriani 72"" 58'"
+13,8,Botafogo,Vasco,2 x 0,C. Alberto 90'+5; L Henrique 54'
+13,9,Euon,Cuiabá,3 x 0,Rikelme 86'; Denilson 75'
+14,1,Euon,Finished,1 x 1,Deyverson 18' (Pen); AEmpereur 51' (oG)
+14,10,GREMIO,Grêmio,0 x 2,C. Alberto 88'
+14,2,Vasco,Cruzeiro,0 x 1,Filipe Machado 45'+4
+14,3,Atlético-MG,Corinthians,0 x 1,Róger Guedes 40'
+14,4,Coritiba,América-MG,3 x 1,VLuis 90'+6; Manga 40' (Pen )
+14,5,Palmeiras,Finished,1 x 1,Arrascaeta 81'
+14,6,Santos,Goiás,4 x 3,S.Mendoza 90'+4 (Pen); João Magno 81'; 45'+1; Guilherme Marques 61'; M.Leonardo 30' 16'; 40' (Pen)
+14,7,Fluminense,Internacional,2 x 0,M. Martinelli 40'; Cano 25'
+14,8,Erro,Erro,Erro,
+14,9,Forall,Fortaleza,1 x 0,Y Pikachu 84'
+15,1,RccBul,Botafogo,2 x 0,LDi Plácido 60'
+15,10,América-MG,Vasco,0 x 1,Jair 90'+1
+15,2,Erro,Erro,Erro,
+15,3,Erro,Erro,Erro,
+15,4,Forall,Eulon,0 x 1,Deyverson 19'
+15,5,Erro,Erro,Erro,APato 88'; M. Leonardo 90'+3 (Pen); J. Calleri 45'+1.22' (Pen)
+15,6,Athletico,Bahia,2 x 0,Erick 35'; V-Roque 24'
+15,7,Erro,Erro,Erro,
+15,8,Erro,Erro,Erro,
+15,9,Corinthians,Grêmio,4 x 4,Giuliano 67'; Lsuarez 58'; Y.Alberto 45'+6; Everton Galdino 51'; L Verissimo 45'+4; FCristaldo 27'; Fábio Santos 45' (Pen); Nathan 21'
+16,1,@,Finished,1 x 1,V.Hugo 90'+5; Felipe Azevedo 84'
+16,10,Coritiba,Fluminense,2 x 0,Diogo Oliveira 28'; Robson 24' (Pen)
+16,2,Fohieln,Palmeiras,3 x 1,Breno Lopes 90'+6; J.M.Lucero 45' (Pen); R. Veiga 76'
+16,3,Erro,Erro,Erro,
+16,4,Euon,Finished,2 x 1,N.Mendes 90'+9; Clayson 66' (Pen)
+16,5,GREMIO,Grêmio,1 x 0,Ronald 11'
+16,6,Cruzeiro,Goiás,0 x 1,João Magno 28'
+16,7,Erro,Erro,Erro,
+16,8,Santos,Botafogo,2 x 2,M. Leonardo 81' 24; Aaryelson 87'; Tiquinho 84'
+16,9,Vasco,Athletico,0 x 2,Vitor Bueno 80' (Pen ); Christian 71'
+17,1,Athletico,Cruzeiro,3 x 3,Fernandinho 87' (Pen); Wesley 82'; Arthur Gomes 37' 8'; Madson 41'
+17,10,Goiás,(GrEMIo,1 x 1,Matheus Babi 77'; A Henrique 90'+3
+17,2,Fluminense,Santos,1 x 0,
+17,3,Eulon,Eulon,1 x 2,FBustos 16'; Deyverson 88'
+17,4,Corinthians,Vasco,3 x 1,Róger Guedes 73' (Pen); G. Pec 71'; Maycon 19'
+17,5,Forall,Rerul,0 x 3,T Borbas 90'+2; LCandido 23'
+17,6,Atlético-MG,Finished,1 x 2,Paulinho 33'; Wesley 87'
+17,7,Erro,Erro,Erro,
+17,8,América-MG,Palmeiras,1 x 4,Nicolas 38'; Rony 59' 26'; Artur 53'; Murilo 18'
+17,9,Botafogo,Coritiba,4 x 1,"Tiquinho 51' 36'; Gustavo Sauer 45'+3,3'"
+18,1,Santos,Athletico,1 x 1,M.Leonardo 90'+6 (Pen); Pablo 30'
+18,10,Euon,Cuiabá,3 x 0,Deyverson 80'; Clayson 54'
+18,2,Fohieln,Goiás,1 x 0,T. Figueiredo 53' (OG)
+18,3,Internacional,Corinthians,2 x 2,LAdriano 90'+9; Fábio Santos 86' (Pen ); B. Henrique 17'
+18,4,Fluminense,Finished,2 x 1,Gómez 90'+6; J.Arias 15' (Pen)
+18,5,Erro,Erro,Erro,C. Pavón 69' (Pen)
+18,6,Vasco,Grêmio,1 x 0,P Vegetti 80'
+18,7,Bahia,América-MG,3 x 1,Everaldo 26'
+18,8,RccBul,Coritiba,0 x 1,
+18,9,Erro,Erro,Erro,
+19,1,Botafogo,Internacional,3 x 1,Mauricio 18'; N.Hernández 58' (OGI; Victor Sá 55'
+19,10,Eulon,Athletico,2 x 0,Zapelli 82'; A. Canobbio 45'
+19,2,Atlético-MG,Bahia,1 x 0,
+19,3,América-MG,Goiás,0 x 1,
+19,4,Corinthians,Coritiba,3 x 1,Wvesley 67'; Murillo 28' (OG); Y.Alberto 54'; Gil 51'
+19,5,GREMIO,Finished,2 x 1,Ferreira 45'+1; Bitello 25'
+19,6,Erro,Erro,Erro,Pedro 90'+6 (Pen); LMoura 38'
+19,7,Forall,Fortaleza,4 x 0,B.Pacheco 90'+1; J-Basso 80' (OG)
+19,8,Palmeiras,Cruzeiro,1 x 0,J.López 90'+6
+19,9,Bragantino,Vasco,1 x 1,Neves 45'+8; P Vegetti 32' (Pen)
+1,1,América-MG,Fluminense,0 x 3,Lelê 72'; John Kennedy 60'
+1,10,GREMIO,Grêmio,1 x 0,
+1,2,Eulon,Eulon,2 x 1,J.López 65'; Raniele 45'+7
+1,3,Athletico,Goiás,2 x 0,P Henrique 36'
+1,4,Erro,Erro,Erro,Equardo 88'; J. Calleri 15'
+1,5,Forall,Finished,1 x 1,Moises 56'; Wanderson 54'
+1,6,Bragantino,Finished,2 x 1,ESasha 70'; Bruninho 54'
+1,7,Atlético-MG,Finished,1 x 2,M.Lemos 45'+5; G. Pec 10'
+1,8,Corinthians,Finished,2 x 1,Roger Guedes 87'; L Oliveira 90'+5
+1,9,Flamengo,Coritiba,3 x 0,Pedro 90'+5; Barbosa 56' (Pen)
+20,1,Fohieln,Internacional,0 x 1,T Galhardo 13' (Pen)
+20,10,(Ae,Finished,1 x 1,Alesson 81'; V.Roque 39'
+20,2,Erro,Erro,Erro,
+20,3,Euon,Cuiabá,0 x 2,RRios 66'; Veiga 31'
+20,4,Fluminense,América-MG,3 x 1,Felipe Azevedo 52'
+20,5,Cruzeiro,Finished,1 x 1,Rafael Elias 45'; Gustavo Silva 90'+8
+20,6,Vasco,Atlético-MG,1 x 0,
+20,7,RccBul,Bahia,4 x 0,Cauly 84'
+20,8,Coritiba,Flamengo,2 x 3,Edu 46'; Gerson 90'+4; Robson 15' (Pen); Arrascaeta 31'; G. Barbosa 19' (Pen )
+20,9,Santos,(GrEMIo,2 x 1,FCristaloo 46'
+21,1,Erro,Erro,Erro,
+21,10,GREMIO,Grêmio,3 x 0,FCarballo 54'
+21,2,Corinthians,Finished,1 x 1,Maycon 82'
+21,3,Eulon,Bragantino,2 x 0,T Borbas 55'
+21,4,Erro,Erro,Erro,Rodrigo Varanda 90'; 4. Pato 81'; G.Mastriani 61'
+21,5,Atlético-MG,Santos,2 x 0,Paulinho 67' 12'
+21,6,Botafogo,Bahia,3 x 0,L Henrique 76'
+21,7,Athletico,Fluminense,2 x 2,V.Roque 90'+3; João Neto 87'; Guga 76'
+21,8,Forall,Fortaleza,3 x 1,"Marinho 60'; J.M.Lucero 45'+4,42"""
+21,9,Palmeiras,Vasco,1 x 0,R.Veiga 65'
+22,1,Athletico,Finished,1 x 1,V.Roque 78'
+22,10,Erro,Erro,Erro,Luciano 45'+13 (Pen); 1 slimani 45'+6
+22,2,Erro,Erro,Erro,
+22,3,Botafogo,Finished,1 x 2,Victor Sá 19'; B. Henrique 73'
+22,4,GREMIO,Eulon,2 x 0,Rikelme 63' (oG); L Suárez 30'
+22,5,Erro,Erro,Erro,
+22,6,Fohieln,Fluminense,1 x 0,Barbosa 90'+2
+22,7,América-MG,Santos,2 x 0,Juninho 55'
+22,8,Bahia,Finished,1 x 1,Ademir 45'; P Vegetti 63' (Pen )
+22,9,Erro,Erro,Erro,
+23,1,Flamengo,Athletico,0 x 3,Vitor Bueno 90'+7 (Pen); 4 Santana 84'; Cacá 27'
+23,10,Atlético-MG,Botafogo,1 x 0,Paulinho 81'
+23,2,Erro,Erro,Erro,Renê 70'; J. Calleri 45'+4 (Pen)
+23,3,Forall,Finished,2 x 1,YPikachu 90'+4; Pearo 33'
+23,4,Santos,Cruzeiro,0 x 3,Rodrigues 70'; Matheus Jussa 41'
+23,5,Coritiba,Bahia,2 x 4,Andrey 90'+4; Biel 74'; Ademir 34'; Thaciano 30'; RRatão 11'
+23,6,Bragantino,Grêmio,2 x 0,Vitinho 45'+1; J.Pedro 20' (OG)
+23,7,Euon,Cuiabá,2 x 2,Wvellington Silva 41'; Felipe Azevedo 32'; Deyverson 35' (Pen); Rodriguinho 11'
+23,8,Palmeiras,Goiás,1 x 0,Breno Lopes 90'+6
+23,9,Vasco,Fluminense,4 x 2,G.Pec 85' 74'; Lima 56'; P Vegetti 50'; Marcelo 46'
+24,1,Bahia,Finished,1 x 2,J. Furch 90'+4
+24,10,Eulon,Atlético-MG,1 x 0,Paulinho 42'
+24,2,Rerul,América-MG,0 x 2,Evangelista 90'+10; Jadsom 36'
+24,3,Erro,Erro,Erro,
+24,4,Fluminense,Cruzeiro,1 x 0,LFernandez 67'
+24,5,Fohieln,Finished,1 x 2,Rodriguez 79'; J.M.Lucero 53' (Pen); Zé Welison 16'
+24,6,Vasco,Coritiba,5 x 1,Gomez 80'; PVegetti 63' 50'; Rossi 34'
+24,7,Athletico,Finished,2 x 1,Santana 90'; Carlos De Pena 36'; Erick 24'
+24,8,GREMIO,Grêmio,1 x 0,
+24,9,Corinthians,Botafogo,1 x 0,
+25,1,Flamengo,Bahia,1 x 0,Pedro 61' (Pen)
+25,10,Botafogo,Finished,1 x 1,Tiquinho 52'; LHalter 27'
+25,2,Forall,Fortaleza,1 x 1,T Galhardo 44' (Pen)
+25,3,Euon,Cuiabá,3 x 0,FSobral 87'; Empereur 64'; Clayson 57'
+25,4,Erro,Erro,Erro,"Calleri 45'+2,40'"
+25,5,Internacional,Atlético-MG,0 x 2,Gomes 81'; Hulk 73'
+25,6,Coritiba,Athletico,2 x 0,Slimani 45'+3; VLuis 14'
+25,7,Cruzeiro,Finished,1 x 1,M.Benitez 28'
+25,8,Santos,Vasco,4 x 1,"Y Soteldo 75'; P Vegetti 31'; M. Leonardo 45'+3,15'"
+25,9,Bragantino,Finished,2 x 1,E Ramires 90'; Endrick 15'; E Sasha 61' (Pen)
+26,1,Goiás,Bahia,4 x 6,"João Magno 50'; Biel 90'+5; Matheus Babi 45'+4; RRatão 56'; Guilherme Marques 45'+2; Everaldo 53, 37' 15'; Gilberto 18'"
+26,10,Euon,Cuiabá,0 x 0,
+26,2,Erro,Erro,Erro,
+26,3,Corinthians,Flamengo,1 x 1,Fábio Santos 79' (Pen)
+26,4,Fluminense,Botafogo,0 x 2,Tiquinho 22'
+26,5,Internacional,Grêmio,3 x 2,Patrick 70'
+26,6,Palmeiras,Finished,1 x 2,M.Leonardo 70'; T Rincón 45'+1
+26,7,RccBul,Finished,1 x 1,Pablo 40'; ERamires 34'
+26,8,Atlético-MG,Finished,1 x 2,1 slimani 90'+1; M. Bianqui 64'
+26,9,Forall,Fortaleza,3 x 2,B.Pacheco 68'; G. Mastriani 23' 18' (Pen ); JM.Lucero 31'
+27,1,GREMIO,Finished,1 x 2,K Rocha 90'+4; Bruno Zapelli 38'
+27,10,Fluminense,Corinthians,3 x 3,Fábio Santos 32' (Pen ); Lima 56' 22'; YAlberto 27' 10'
+27,2,América-MG,Finished,1 x 2,J. Santos 50' 22'
+27,3,Eulon,Coritiba,0 x 3,Ranlele 88'; 1 Pitta 82'; Deyverson 24'
+27,4,Bahia,Internacional,1 x 0,
+27,5,Erro,Erro,Erro,EMorelli 45'+5; Hugo 10'
+27,6,Fohieln,Vasco,1 x 0,D.Payet 58'
+27,7,Cruzeiro,Flamengo,0 x 2,Pedro 44' (Pen)
+27,8,Palmeiras,Atlético-MG,0 x 2,Paulinno 76'
+27,9,Rerul,Finished,1 x 3,L Ortiz 86' (oG); E Ramires 47'; E Sasha 29' (Pen) 9'
+28,1,Fohieln,Bahia,2 x 0,RRatão 90'+6
+28,10,Bragantino,Fluminense,1 x 0,E Sasha 17' (Pen)
+28,2,@u ida,Finished,1 x 1,Clayson 46'; Guilherme Marques 45'+8
+28,3,Erro,Erro,Erro,Luciano 90'+7; M.Araújo 21'
+28,4,(Ae,Finished,1 x 1,Pablo 41'
+28,5,Atlético-MG,Cruzeiro,0 x 1,Jemerson 87' (OG)
+28,6,Flamengo,Vasco,1 x 0,Gerson 76'
+28,7,Internacional,Santos,7 x 1,LAdriano 75'; M. Silvera 80'; EValencia 61' 27'; FBustos 64'
+28,8,Corinthians,Finished,1 x 1,Giuliano 90'+9; M.Benitez 38'
+28,9,Coritiba,Palmeiras,0 x 2,J. Piquerez 45'+3; Gómez 33'
+29,1,Athletico,América-MG,3 x 2,Vitor Bueno 45'+3; EMartinez 77'; Pablo 45'; G. Mastriani 12'
+29,10,Forall,Fortaleza,2 x 2,Guilherme 41'; DBarbosa 78'; Emanuel Britez 20' (oG)
+29,2,Fluminense,Goiás,5 x 3,"Keno 62"" 53' (Pen); JPalacios 68'; J.Arias 47' 37'; Matheus Babi 13'; FMelo 17'"
+29,3,Bragantino,Finished,1 x 2,Talisson 84'; Gomes 80'; Hulk 36' (Pen)
+29,4,Cruzeiro,Bahia,3 x 0,Kanu 19'  OGJ
+29,5,Erro,Erro,Erro,J.Piquerez 87' 45'+7; M. Rocha 84'; Breno Lopes 26' 16'
+29,6,Euon,Cuiabá,0 x 1,A Romero 77'
+29,7,GREMIO,Grêmio,3 x 2,AHenrique 86'; LAraujo 89'; N-Fernandes 81'
+29,8,Vasco,Finished,1 x 2,EValencia 59'
+29,9,Santos,Finished,2 x 1,Robson 11' (Pen)
+2,1,Fluminense,Athletico,2 x 0,Nino 67'; Lima 11'
+2,10,Bahia,Finished,1 x 2,Tchê Tchê 78'
+2,2,Euon,Finished,1 x 1,Mateusinho 67'; IBorbas 86'
+2,3,Erro,Erro,Erro,M.Paulo 90'+5; J.Calleri 82'; Luciano 21'
+2,4,Cruzeiro,Grêmio,1 x 0,B. Rodrigues 64'
+2,5,Internacional,Finished,2 x 1,"Mauricio 90'+8,67'; Gerson 63'"
+2,6,Erro,Erro,Erro,
+2,7,Vasco,Finished,2 x 2,Pec 40'; RNavarro 45'+1
+2,8,Fohieln,Coritiba,0 x 3,"YPikachu 90'+1,83'; 5.Romero 51'"
+2,9,Goiás,Corinthians,3 x 1,Apodi 90'+4; Róger Guedes 17'; Matheus Peixoto 31'
+30,1,América-MG,Grêmio,3 x 4,Mastriani 49' 35'; LSuárez 71'; Everton Galdino 20'; Reinaldo 17' (Pen)
+30,10,RccBul,Flamengo,1 x 0,Arrascaeta 75'
+30,2,Palmeiras,Bahia,1 x 0,R.Veiga 38'
+30,3,Atlético-MG,Fluminense,2 x 0,"Paulinho 83' 62"""
+30,4,Erro,Erro,Erro,P Maia 10'
+30,5,Goiás,Finished,1 x 1,Matheus Babi 90'+2; P Vegetti 58'
+30,6,Corinthians,Finished,1 x 1,J.Lucas 57' (OG); S.Mendoza 90'+9 (Pen)
+30,7,Internacional,Coritiba,3 x 4,EValencia 90'+12; Robson 90' (Pen ) 70'; B. Henrique 83'; A Patrick 43' (Pen); M. Bianqui 45'+4
+30,8,Eulon,Botafogo,0 x 1,1 Pitta 52'
+30,9,Forall,Fortaleza,0 x 1,Rodrigues 80'
+31,1,Bahia,Fluminense,1 x 0,Everaldo 40'
+31,10,Erro,Erro,Erro,Luclano 84'
+31,2,Corinthians,Athletico,1 x 0,Y.Alberto 64'
+31,3,Internacional,Finished,1 x 1,E Valencia 15'; Marion 74'
+31,4,Coritiba,(GrEMIo,1 x 2,Robson 60' (Pen); Ferreira 83'
+31,5,@,Finished,1 x 2,Pearo 21'; Joaquim 89'
+31,6,Fohieln,Atlético-MG,3 x 1,Hulk 61' (Pen); Paulinho 56' 16'
+31,7,Botafogo,Palmeiras,3 x 4,"J.Santos 36'; Murilo 90'+9; Eduardo 21'; Endrick 84, 49'"
+31,8,Cuiabá,Vasco,0 x 2,L Orellano 90'+10; G. Pec 57'
+31,9,RccBul,Goiás,0 x 2,Talisson 90'; IBorbas 45'
+32,1,América-MG,Finished,1 x 1,Mastriani 66'; Paulinho 80'
+32,10,Erro,Erro,Erro,
+32,2,GREMIO,Grêmio,1 x 0,L Suárez 70'
+32,3,Palmeiras,Athletico,1 x 0,
+32,4,Cruzeiro,Finished,1 x 2,Rodrigues 90'+2 (Pen); Mauricio 14'
+32,5,Forall,Fortaleza,0 x 2,LAraújo 87'; Pedro 45'
+32,6,Bragantino,Corinthians,1 x 0,Helinho 29'
+32,7,Coritiba,Goiás,0 x 1,
+32,8,Vasco,Botafogo,1 x 0,
+32,9,Erro,Erro,Erro,
+33,1,América-MG,Coritiba,0 x 3,Robson 69'; M. Moreno 35'
+33,10,Cruzeiro,Vasco,2 x 2,Rodrigues 45'+9 (Pen); G Pec 77'; Arthur Gomes 41'; J.L Rodriguez 15'
+33,2,Erro,Erro,Erro,
+33,3,Fohieln,Finished,1 x 1,Guilherme 54'
+33,4,RccBul,Bragantino,1 x 0,Erison 90'+3 (Pen)
+33,5,Flamengo,Palmeiras,3 x 0,"Pedro 64' 18"""
+33,6,Corinthians,Finished,1 x 1,Romero 23'; Paulinho 67'
+33,7,Goiás,Santos,0 x 1,J.Furch 87'
+33,8,Eulon,Bahia,0 x 3,Ronald 90'+8; Deyverson 22' (Pen )
+33,9,Botafogo,Grêmio,3 x 4,"M.Freitas 46'; L Suárez 69"" 53' 50'"
+34,1,Coritiba,Cruzeiro,1 x 0,Robson 90'+1
+34,10,Vasco,Finished,2 x 1,D. Payet 90'+4; Mastriani 13'
+34,2,@,Finished,1 x 1,Arrascaeta 45'+2
+34,3,Palmeiras,Internacional,3 x 0,Rony 88'
+34,4,GREMIO,Grêmio,0 x 1,
+34,5,Bragantino,Botafogo,2 x 2,"T Borbas 90'+6,3'; Victor Sá 35'"
+34,6,Atlético-MG,Finished,2 x 1,Arana 70'; Dodô 88'; Hulk 41' (Pen)
+34,7,(Ae,Finished,1 x 1,Everaldo 73' (Pen); A. Canobbio 87'
+34,8,@u ida,Finished,2 x 1,Pitta 90'+2 (Pen); YPikachu 90'+8
+34,9,Erro,Erro,Erro,
+35,1,Corinthians,Finished,1 x 5,"R.Augusto 67'; Thaciano 85' (Pen ) 29""; Ademir 75'; Cauly 16'"
+35,10,Goiás,Cruzeiro,0 x 1,Robert 90'+6
+35,2,Erro,Erro,Erro,
+35,3,Fluminense,Finished,2 x 1,John Kenneoy 63'; Jese 90'; Cano 45'+1
+35,4,Atlético-MG,Grêmio,3 x 0,Hulk 58'
+35,5,Botafogo,Finished,1 x 1,Messias 90'
+35,6,América-MG,Flamengo,0 x 3,ERibeiro 85'; Pedro 50'
+35,7,Forall,Fortaleza,2 x 2,Calebe 70'; Z Rafael 77'; T Galhardo 20'; Veiga 66'
+35,8,RccBul,Internacional,1 x 0,EValencia 30' (Pen)
+35,9,Erro,Erro,Erro,
+36,1,Vasco,Corinthians,2 x 4,P Vegetti 25'; Giovane 90'+4; Moscardo 61'; A. Romero 45' 13'
+36,10,Fohieln,Finished,1 x 2,ESasha 45'+3; Calebe 23'; YPikachu 14'
+36,2,Santos,Fluminense,0 x 3,J.Arias 36'; M. Martinelli 10'
+36,3,Flamengo,Atlético-MG,0 x 3,Rubens 82'
+36,4,Erro,Erro,Erro,C. Paulista 90'+7
+36,5,Cuiabá,Internacional,0 x 2,
+36,6,Coritiba,Finished,1 x 1,Edu 90'+9; Tiquinho 90'+7 (Pen)
+36,7,Palmeiras,América-MG,4 x 0,"J.López 90'+2,88""; Eder 40' (OGI"
+36,8,GREMIO,Finished,2 x 1,F Cristaldo 56'; EMorelli 28'; Ferreira 50'
+36,9,(Ae,Finished,1 x 1,V.Roque 65'
+37,1,Corinthians,Finished,1 x 2,Romero 57'; Wanderson 66'
+37,10,Redhul,Bragantino,1 x 0,L Ortiz 75'
+37,2,Erro,Erro,Erro,Paulinho 90'+4; Luciano 90'+1 (Pen)
+37,3,@,Eulon,2 x 1,Pedro 45'+4; Clayson 79' (Pen )
+37,4,Palmeiras,Fluminense,1 x 0,Breno Lopes 30'
+37,5,América-MG,Bahia,3 x 2,Renato Marques 47' 38'; Ademir 57'; Everaldo 26' (Pen)
+37,6,Athletico,Santos,3 x 0,IV. Bigode 90'+3; Madson 75'; Vitor Bueno 45'+6
+37,7,Botafogo,Cruzeiro,0 x 0,
+37,8,Forall,Fortaleza,1 x 0,
+37,9,GREMIO,Grêmio,1 x 0,Lsuarez 46'
+38,1,Goiás,América-MG,1 x 0,Luis Oyama 33'
+38,10,RccBul,Finished,2 x 1,Serginho 82'; LOrtiz 63'
+38,2,Bahia,Atlético-MG,4 x 1,Ademir 90'+2; Paulinho 36'; Thaciano 67'; Cauly 11'
+38,3,Coritiba,Corinthians,0 x 2,A Romero 21'; FVera 11'
+38,4,Cruzeiro,Finished,1 x 1,Nikão 80'; Endrick 21'
+38,5,Euon,Cuiabá,3 x 0,"Clayson 90'+6,13' (Pen); D.Lacerda 17'"
+38,6,Fluminense,Grêmio,2 x 3,"L Suárez 64' (Pen ), 43""; J.Arias 34' (Pen); Everton Galdino 45'"
+38,7,Internacional,Botafogo,3 x 1,P Henrique 53'; Janderson 47'; EValencia 19'
+38,8,Fohieln,Finished,1 x 2,Messias 58'; J.M.Lucero 90'+6; Marinho 39'
+38,9,Erro,Erro,Erro,Luclano 26'
+3,1,Erro,Erro,Erro,B. Gomes 12'; M.Paulo 81'
+3,10,Vasco,Bahia,0 x 1,Thaciano 44'
+3,2,Forall,Fortaleza,4 x 2,Hércules 79'; John Kennedy 69'; Moisés 60' 35'; Alan 45'+2
+3,3,Palmeiras,Finished,2 x 1,R.Veiga 36'; J. Piquerez 76' (OG); Murilo 16'
+3,4,Redhul,Bragantino,0 x 3,Rodrigues 87'; Gilberto 64'
+3,5,Santos,América-MG,3 x 2,M. Leonardo 69' (Pen); E Bauermann 40'
+3,6,(Ae,Finished,2 x 1,Hulk 84' 10'; V.Roque 90'+2
+3,7,Flamengo,Botafogo,2 x 3,LPereira 86' 58'; Tiquinho 71' 30' (Pen); D-Barbosa 45'+5
+3,8,@u ida,(GrEMIo,1 x 2,Everton Galdino 68'; Vina 10'
+3,9,Internacional,Goiás,1 x 0,
+4,1,Cruzeiro,Finished,2 x 1,Wesley 62' 21'; Ângelo 57'
+4,10,Fohieln,Finished,1 x 1,
+4,2,Fluminense,Vasco,1 x 1,Lima 55'
+4,3,Eulon,Eulon,1 x 2,Aloisio 12'; Ronald 90'+2; Marlon 85' (oG)
+4,4,Athletico,Finished,2 x 1,Erick 80'; Barbosa 15' (Pen )
+4,5,Bahia,Coritiba,3 x 1,DDuarte 68'; Boschilia 63'; Biel 65'; VLuis 16' OG)
+4,6,Erro,Erro,Erro,P Maia 70'
+4,7,Botafogo,Atlético-MG,2 x 0,MvI. Nascimento 60'; Victor Sá 30'
+4,8,Goiás,Palmeiras,0 x 5,Dudu 90'; Endrick 83'; R. Veiga 78'
+4,9,Rerul,GREMIO,3 x 3,T Borbas 90'+1; L Suárez 56'; E Sasha 53'
+5,1,Internacional,Athletico,0 x 2,W. Bigode 90'+6; Christian 79'
+5,10,Erro,Erro,Erro,
+5,2,Bragantino,América-MG,2 x 2,"Helinho 44' 33""; Aloisio 78' (Pen ) 15' (Pen )"
+5,3,Santos,Bahia,3 x 0,Ângelo 51'; Mendoza 14'
+5,4,Euon,Cuiabá,0 x 4,Paulinho 87'); C. Pavón 72'; Hulk 51' (Pen ); Hyoran 13'
+5,5,Flamengo,Goiás,2 x 0,
+5,6,Cruzeiro,Fluminense,0 x 2,Cano 54'; Ganso 44'
+5,7,Palmeiras,Grêmio,4 x 1,Bitello 45'+2; R.Veiga 56' (Pen ). 24'
+5,8,Coritiba,Finished,1 x 1,Z Roberto 45'+4; Erick Marcus 80'
+5,9,Botafogo,Corinthians,3 x 0,Eduardo 81'; Tiquinho 65' (Pen ) 12'
+6,1,Bahia,Flamengo,2 x 3,Ademir 51'; D.Luiz 45'+4; Biel 35'; G. Barbosa 29' (Pen )
+6,10,Goiás,Finished,2 x 1,Tiquinho 33' (Pen ); Bruno Melo 45'+5
+6,2,Eulon,Fluminense,2 x 0,Ganso 56'
+6,3,RccBul,Finished,1 x 1,J. Capixaba 71'
+6,4,Atlético-MG,Internacional,2 x 0,Paulinho 90'+5
+6,5,Erro,Erro,Erro,Róger Guedes 45'+5 (Pen); M. Araújo 15'
+6,6,Erro,Erro,Erro,
+6,7,Vasco,Santos,0 x 1,Washington 29'
+6,8,América-MG,Cruzeiro,0 x 4,"Gilberto 90'+1,84'; Marlon 70'; Henrique 33'"
+6,9,Athletico,Coritiba,3 x 2,A. Canobbio 90'+7; Robson 66'; IV. Bigode 90'+1; M. Moreno 20'
+7,1,Bahia,Finished,1 x 1,Everaldo 25'; Bruno Melo 31'
+7,10,Eulon,Cruzeiro,0 x 1,Deyverson 37'
+7,2,Fohieln,Finished,2 x 1,T Pochettino 26'
+7,3,Botafogo,Fluminense,1 x 0,
+7,4,Coritiba,Finished,1 x 2,Robson 13' (Pen); Hulk 90'+1 (Pen); Hyoran 37'
+7,5,Bragantino,Athletico,2 x 0,IBorbas 86'; ESasha 16'
+7,6,Erro,Erro,Erro,Juan 90'+2; M. Galarza 83'; C. Barros 45'; Calleri 24'
+7,7,Erro,Erro,Erro,
+7,8,Flamengo,Corinthians,1 x 0,L Pereira 90'+4
+7,9,GREMIO,Grêmio,3 x 1,Bitello 65'; Jonnny 87'; M. Villasanti 31'
+8,1,Athletico,(GrEMIo,1 x 2,Bruno Uvini 49'; Cuiabano 31'
+8,10,Botafogo,América-MG,2 x 0,LHenrique 60'
+8,2,Forall,Fortaleza,2 x 0,Romero 90'+4
+8,3,Euon,Finished,1 x 1,
+8,4,#,Finished,1 x 1,
+8,5,Erro,Erro,Erro,David 90'+1; Maguinho 29'; PMala 57'
+8,6,Corinthians,Fluminense,2 x 0,"Guedes 90'+2,59"""
+8,7,Internacional,Bahia,2 x 0,Wanderson 90'+9
+8,8,Atlético-MG,Finished,1 x 1,Pavón 45'; Dudu 52'
+8,9,Bragantino,Santos,2 x 0,J.Capixaba 75'; Vitinho 31'
+9,1,Erro,Erro,Erro,
+9,10,Vasco,Flamengo,1 x 4,Jair 58' (Pen); A. Lucas 45'+2; Gerson 16'; EPulgar 14'
+9,2,América-MG,Corinthians,2 x 0,Danilo Avelar 74' (Pen)
+9,3,Athletico,Botafogo,1 x 0,Santana 42'
+9,4,Cruzeiro,Atlético-MG,0 x 1,Hulk 27'
+9,5,Santos,Finished,1 x 1,LLima 12'
+9,6,RccBul,Finished,2 x 1,IBorbas 54'
+9,7,GREMIO,Finished,2 x 1,J. Calleri 15'; F Cristaldo 31' (Pen)
+9,8,Eulon,Goiás,0 x 1,Deyverson 64'
+9,9,Palmeiras,Coritiba,3 x 1,Rony 73' 34'; A. Manga 83'
