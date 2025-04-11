@@ -1,62 +1,134 @@
-caso faça webscrapping:
-pip install requests beautifulsoup4 pandas
-pip install selenium pandas webdriver-manager
+Métodos de Coleta de Dados
+Web Scraping
+Descrição: Utiliza bibliotecas como requests e BeautifulSoup (ou Selenium para casos mais dinâmicos) para acessar a página e extrair informações.
 
-usando por cliques:
-pip install pyautogui pyperclip pandas
-pip install pyperclip
+Pontos de Atenção:
 
-Se você usar a API da cbf vai ter muitos erros, pois:
-O site da CBF está usando um certificado SSL que não está sendo reconhecido como válido por várias bibliotecas Python, inclusive no Colab (que já vem com tudo configurado certinho). Isso é erro do servidor da CBF — provavelmente
+As páginas podem ser atualizadas, o que exige manutenção constante do código.
 
-Problemas de usar webscrapping
-as vezes as páginas mudou os elementos e aí tem que ficar de olho com manutenção do código e possíveis mudanças
+Erros podem ocorrer se os elementos da página forem alterados.
 
-Problema?
-OCR tem problema com caracteres especiais, Tesseract às vezes interpreta errado sem a linguagem correta
+Automatização de Tela
+Descrição: Utiliza PyAutoGUI para simular cliques, capturar screenshots da tela e, em seguida, extrair o texto utilizando OCR (como EasyOCR ou Tesseract).
 
-Solução: 
-Forçar lang='por' para melhorar reconhecimento de acentos.
-Regex mais tolerante para pegar cidade mesmo que tenha variações.
-Correção pós-OCR com normalização de caracteres.
+Fluxo:
 
-Problema?
-as vezes pega média de cartão amarelho ou vermelho em vez de horário
+Automatização e captura de tela.
 
-Solução
-Filtro de hora: só considera horas entre 06:00 e 23:59.
-Ignora valores como 0.27, que não são horários válidos.
-Substitui . por : para lidar com formatos como 21.00
+Extração de texto com EasyOCR (ou Tesseract).
 
+Armazenamento inicial dos dados em CSV.
 
-Problema da visual crossing (api do clima)
-Ou seja, vira 380 x 24
-Cada chamada include=hours = até 24 registros
-Mesmo se você quer apenas 1 hora, ele retorna o dia inteiro de horas por padrão
-aí vai aparecer uma mensagem como: You have exceeded the maximum number of daily result records for your account. 
+Pós-processamento (com OpenCV) para ordenação e limpeza.
 
+Normalização de nomes de cidades e correção de dados.
 
-Lógica do código:
-Automatização de Tela com PyAutoGUI + Screenshot
-Extração de Texto com EasyOCR + Armazenamento CSV Inicial
-Pós-processamento das imagens OCR (via OpenCV)
-Ordenação por Rodada
-Limpeza e Normalização de Cidades (remover , Brazil)
-Correção de Nomes de Cidades
-Saída Final no CSV cidades_partidas_corrigido.csv
+Geração do arquivo final cidades_partidas_corrigido.csv.
 
+Problemas Encontrados e Soluções
+API da CBF e Certificados SSL
+Problema:
+Ao usar a API da CBF, ocorreram muitos erros relacionados a certificados SSL.
 
-ERROS NA LEITURA DOS DADOS:
-Problema grande que foi a resolução da qualidade das imagens, para
-identificar times e placares, ferramentas como easyocr não funcionou, para contornar isso utilizei o upscayl. Para renderizar tudo de uma vez sem ser manualmente, escolha pasta que tem todos os prints 
-Você pode baixar o upscayl por aqui:
-https://upscayl.org
+Causa:
+O servidor da CBF usa um certificado que não é reconhecido como válido por algumas bibliotecas Python, inclusive no Colab.
 
-Apesar do upscayl melhorar a qualidade não foi suficiente para todos os jogos ainda sim, apresentava inconsistência então para resolver de forma definitiva é necessário que baixe o baixe o pytesseract
-lembre de Define o caminho para o executável do tesseract
+Observação:
+Esse erro é do lado do servidor da CBF e pode ser difícil de contornar.
 
+Manutenção do Código (Web Scraping)
+Problema:
+As páginas podem modificar seus elementos ou estrutura, exigindo manutenção constante do código de webscraping.
+
+Solução:
+Monitorar possíveis alterações na estrutura da página e atualizar as expressões regulares ou seletores conforme necessário.
+
+Desafios com OCR
+Problema:
+Ferramentas de OCR (ex.: EasyOCR) enfrentaram dificuldades com caracteres especiais e acentuação.
+
+Soluções Adotadas:
+
+Forçar o idioma: Utilizar lang='por' para melhorar o reconhecimento dos caracteres acentuados.
+
+Regex Tolerante: Ajustar as expressões regulares para capturar nomes de cidades mesmo com variações.
+
+Normalização e Correção: Aplicar normalização de caracteres (ex.: remover acentos indevidos).
+
+Problema Adicional:
+Em alguns casos, o OCR pode interpretar valores incorretamente (ex.: média de cartão amarelado ou vermelho sendo lida como horário).
+
+Solução:
+
+Filtrar valores de hora: Considerar somente horários entre 06:00 e 23:59.
+
+Ignorar valores que não sejam horários válidos (ex.: 0.27).
+
+Substituir ponto por dois-pontos (ex.: transformar "21.00" em "21:00").
+
+Visual Crossing API – Coleta de Clima
+Problema:
+A API da Visual Crossing, ao usar o parâmetro include=hours, retorna 24 registros por chamada (um para cada hora do dia), mesmo que você precise de dados para apenas uma hora.
+
+Consequência:
+Isso pode levar à mensagem de erro:
+
+"You have exceeded the maximum number of daily result records for your account."
+
+Solução:
+Agrupar chamadas por data ou filtrar localmente os dados para extrair somente a hora desejada, evitando chamar a API desnecessariamente.
+
+Pipeline do Código
+O fluxo de execução do código é o seguinte:
+
+Automatização de Tela e Captura de Imagem:
+Utiliza PyAutoGUI para navegar pelo site e capturar screenshots dos dados.
+
+Extração de Texto e OCR:
+
+EasyOCR: Utilizado para extrair texto dos screenshots.
+
+Se os resultados não forem satisfatórios, é sugerido utilizar Tesseract (lembre de definir o caminho para o executável):
+
+python
+Copiar
 import pytesseract
-# Define o caminho para o executável do tesseract
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+Armazenamento Inicial:
+Os dados extraídos são salvos em um CSV.
 
-mesmo com imagens visualmente idênticas, pequenas diferenças de compressão, resolução, contraste, ou artefatos de compressão (como JPEG) podem atrapalhar bastante o OCR do Tesseract
+Pós-processamento:
+
+Ordenação dos jogos por rodada.
+
+Limpeza e normalização dos nomes das cidades (removendo ", Brazil" etc).
+
+Correção de nomes e formatação.
+
+Geração do CSV Final:
+A saída final é armazenada em cidades_partidas_corrigido.csv.
+
+Integração com Dados Climáticos:
+Utiliza-se a API do Open-Meteo para obter informações de clima (temperatura, umidade, vento) para cada jogo com base na cidade e data/hora.
+
+Problemas na Leitura dos Dados
+Qualidade das Imagens:
+Imagens com baixa resolução, compressão (JPEG) ou contraste inadequado prejudicam a performance do OCR.
+
+Solução:
+Utilizar ferramentas como UpScayl para melhorar a qualidade das imagens.
+O UpScayl pode ser baixado em: https://upscayl.org
+
+Pytesseract:
+Apesar do UpScayl ajudar, em alguns casos, o Tesseract (usado via pytesseract) pode ser necessário.
+
+Lembre-se de definir o caminho para o executável do Tesseract, conforme mostrado acima.
+
+Mesmo imagens aparentemente idênticas podem apresentar diferenças sutis que impactam a acurácia do OCR (devido à compressão, resolução ou artefatos visuais).
+
+Melhor Coleta dos Dados:
+Para obter os dados do campeonato brasileiro de forma mais precisa, recomenda-se o uso de scripts de automatização (por exemplo, com PyAutoGUI) para acessar diretamente:
+https://portaldegovernanca.cbf.com.br/documentos-da-partida
+
+Considerações Finais
+O projeto envolve diversas abordagens (webscraping, automação de tela, OCR) para extrair e processar dados complexos do Brasileirão. Cada método possui seus desafios e requer manutenção e ajustes constantes devido às variações nos dados e na forma como os sites apresentam as informações.
