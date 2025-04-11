@@ -1,4 +1,13 @@
-Métodos de Coleta de Dados
+# Projeto: Coleta e Processamento de Dados do Brasileirão
+
+Este projeto tem como objetivo extrair dados dos jogos do Campeonato Brasileiro (como times, placares, data, hora, estádio, cidade, rodada) e integrá-los com informações climáticas, para, futuramente, desenvolver modelos de previsão (por exemplo, previsão de vitória do mandante).
+
+
+# Métodos de Coleta de Dados
+Melhor Coleta dos Dados:
+Para obter os dados do campeonato brasileiro de forma mais precisa, recomenda-se o uso de scripts de automatização (por exemplo, com PyAutoGUI) para acessar diretamente:
+https://portaldegovernanca.cbf.com.br/documentos-da-partida
+
 Web Scraping
 Descrição: Utiliza bibliotecas como requests e BeautifulSoup (ou Selenium para casos mais dinâmicos) para acessar a página e extrair informações.
 
@@ -125,10 +134,6 @@ Apesar do UpScayl ajudar, em alguns casos, o Tesseract (usado via pytesseract) p
 Lembre-se de definir o caminho para o executável do Tesseract, conforme mostrado acima.
 
 Mesmo imagens aparentemente idênticas podem apresentar diferenças sutis que impactam a acurácia do OCR (devido à compressão, resolução ou artefatos visuais).
-
-Melhor Coleta dos Dados:
-Para obter os dados do campeonato brasileiro de forma mais precisa, recomenda-se o uso de scripts de automatização (por exemplo, com PyAutoGUI) para acessar diretamente:
-https://portaldegovernanca.cbf.com.br/documentos-da-partida
 
 Considerações Finais
 O projeto envolve diversas abordagens (webscraping, automação de tela, OCR) para extrair e processar dados complexos do Brasileirão. Cada método possui seus desafios e requer manutenção e ajustes constantes devido às variações nos dados e na forma como os sites apresentam as informações.
