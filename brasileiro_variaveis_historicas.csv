@@ -1,0 +1,1521 @@
+Ano,Mandante,Visitante,Placar,Data,Hora,Estádio,Cidade,Jogo,Rodada,Temperatura (°C),Umidade (%),Vento (km/h),Mandante_Gols,Visitante_Gols,Mandante_3j_Saldo,Mandante_3j_Marcados,Mandante_3j_Sofridos,Mandante_Posicao,Visitante_3j_Saldo,Visitante_3j_Marcados,Visitante_3j_Sofridos,Visitante_Posicao
+2021,Flamengo - RJ,Palmeiras - SP,1 x 0,30/05/2021,16:00,Maracanã,Rio de Janeiro,1,1,22.3,93,1.8,1,0,0,0,0,1,0,0,0,12
+2021,Corinthians - SP,Atlético - GO,0 x 1,30/05/2021,18:15,Neo Química Arena,Sao Paulo,2,1,18.4,93,2.9,0,1,0,0,0,2,0,0,0,19
+2021,São Paulo - SP,Fluminense - RJ,0 x 0,29/05/2021,21:00,Morumbi,Sao Paulo,3,1,18.4,93,2.9,0,0,0,0,0,3,0,0,0,11
+2021,Atlético Mineiro - MG,Fortaleza - CE,1 x 2,30/05/2021,11:00,Mineirão,Belo Horizonte,4,1,20.5,74,3.1,1,2,0,0,0,5,0,0,0,15
+2021,Internacional - RS,Sport - PE,2 x 2,30/05/2021,20:30,Beira-Rio,Porto Alegre,5,1,21.1,87,15.1,2,2,0,0,0,6,0,0,0,15
+2021,Ceará - CE,Grêmio - RS,3 x 2,30/05/2021,16:00,Arena Castelão,Fortaleza,6,1,26.6,89,7.2,3,2,0,0,0,8,0,0,0,15
+2021,Esporte Clube Bahia - BA,Santos Fc - SP,3 x 0,29/05/2021,20:00,Pituaçu,Salvador,7,1,27.3,83,4.3,3,0,0,0,0,9,0,0,0,13
+2021,Athletico Paranaense - PR,America - MG,1 x 0,30/05/2021,18:15,Ligga Arena,Curitiba,8,1,16.1,97,7.9,1,0,0,0,0,10,0,0,0,13
+2021,Chapecoense - SC,Red Bull Bragantino - SP,0 x 3,30/05/2021,18:15,Arena Condá,Chapeco,9,1,16.3,85,5.2,0,3,0,0,0,11,0,0,0,13
+2021,Cuiabá Saf - MT,Juventude - RS,2 x 2,29/05/2021,19:00,Arena Pantanal,Cuiaba,10,1,25.9,85,2.5,2,2,0,0,0,12,0,0,0,13
+2021,Atlético - GO,São Paulo - SP,2 x 0,05/06/2021,19:00,Antônio Accioly,Goiania,20,2,23.6,77,1.1,2,0,1,1,0,7,0,0,0,12
+2021,Juventude - RS,Athletico Paranaense - PR,0 x 3,06/06/2021,18:15,Alfredo Jaconi,Caxias do Sul,19,2,16.2,90,9.7,0,3,0,2,2,11,1,1,0,7
+2021,Red Bull Bragantino - SP,Esporte Clube Bahia - BA,3 x 3,05/06/2021,21:00,Nabi Abi Chedid,Braganca Paulista,18,2,17.4,93,3.7,3,3,3,3,0,4,3,3,0,3
+2021,Sport - PE,Atlético Mineiro - MG,0 x 1,06/06/2021,20:30,Ilha do Retiro,Recife,17,2,27.6,85,7.8,0,1,0,2,2,10,-1,1,2,15
+2021,Fortaleza - CE,Internacional - RS,5 x 1,06/06/2021,16:00,Arena Castelão,Fortaleza,16,2,26.6,89,7.2,5,1,1,2,1,6,0,2,2,9
+2021,Santos Fc - SP,Ceará - CE,3 x 1,05/06/2021,21:00,Vila Belmiro,Santos,13,2,22.8,91,2.4,3,1,-3,0,3,20,1,3,2,6
+2021,America - MG,Corinthians - SP,0 x 1,06/06/2021,16:00,Independência,Belo Horizonte,14,2,20.5,74,3.1,0,1,-1,0,1,19,-1,0,1,17
+2021,Palmeiras - SP,Chapecoense - SC,3 x 1,06/06/2021,18:15,Allianz Parque,Sao Paulo,12,2,18.4,93,2.9,3,1,-1,0,1,18,-3,0,3,20
+2021,Fluminense - RJ,Cuiabá Saf - MT,1 x 0,06/06/2021,11:00,São Januário,Rio de Janeiro,11,2,22.3,93,1.8,1,0,0,0,0,13,0,2,2,12
+2021,Grêmio - RS,Flamengo - RJ,2 x 2,23/11/2021,21:00,Arena do Grêmio,Porto Alegre,15,2,21.1,87,15.1,2,2,-1,2,3,18,1,1,0,8
+2021,Esporte Clube Bahia - BA,Internacional - RS,0 x 1,13/06/2021,20:30,Pituaçu,Salvador,27,3,27.3,83,4.3,0,1,3,6,3,4,-4,3,7,18
+2021,Cuiabá Saf - MT,Atlético - GO,2 x 1,21/07/2021,19:00,Arena Pantanal,Cuiaba,30,3,25.9,85,2.5,2,1,-1,2,3,15,3,3,0,3
+2021,Chapecoense - SC,Ceará - CE,0 x 0,13/06/2021,20:30,Arena Condá,Chapeco,29,3,16.3,85,5.2,0,0,-5,1,6,20,-1,4,5,13
+2021,Red Bull Bragantino - SP,Fluminense - RJ,2 x 2,13/06/2021,20:30,Nabi Abi Chedid,Braganca Paulista,28,3,17.4,93,3.7,2,2,3,6,3,4,1,1,0,7
+2021,Fortaleza - CE,Sport - PE,1 x 0,13/06/2021,20:30,Arena Castelão,Fortaleza,26,3,26.6,89,7.2,1,0,5,7,2,1,-1,2,3,16
+2021,Palmeiras - SP,Corinthians - SP,1 x 1,12/06/2021,19:00,Allianz Parque,Sao Paulo,22,3,18.4,93,2.9,1,1,1,3,2,11,0,1,1,13
+2021,Atlético Mineiro - MG,São Paulo - SP,1 x 0,13/06/2021,16:00,Mineirão,Belo Horizonte,24,3,20.5,74,3.1,1,0,0,2,2,13,-2,0,2,17
+2021,Santos Fc - SP,Juventude - RS,0 x 0,12/06/2021,19:00,Vila Belmiro,Santos,23,3,22.8,91,2.4,0,0,-1,3,4,14,-3,2,5,17
+2021,Flamengo - RJ,America - MG,2 x 0,13/06/2021,16:00,Maracanã,Rio de Janeiro,21,3,22.3,93,1.8,2,0,1,3,2,9,-2,0,2,20
+2021,Grêmio - RS,Athletico Paranaense - PR,0 x 1,13/06/2021,16:00,Arena do Grêmio,Porto Alegre,25,3,21.1,87,15.1,0,1,-1,4,5,16,4,4,0,3
+2021,Atlético - GO,Fortaleza - CE,0 x 0,17/06/2021,19:00,Antônio Accioly,Goiania,40,4,23.6,77,1.1,0,0,2,4,2,4,6,8,2,1
+2021,Juventude - RS,Palmeiras - SP,0 x 3,16/06/2021,21:30,Alfredo Jaconi,Caxias do Sul,39,4,16.2,90,9.7,0,3,-3,2,5,15,1,4,3,9
+2021,Athletico Paranaense - PR,Flamengo - RJ,2 x 2,02/11/2021,16:00,Ligga Arena,Curitiba,38,4,16.1,97,7.9,2,2,5,5,0,2,3,5,2,4
+2021,Sport - PE,Grêmio - RS,1 x 0,17/06/2021,19:00,Ilha do Retiro,Recife,37,4,27.6,85,7.8,1,0,-2,2,4,17,-2,4,6,16
+2021,Ceará - CE,Esporte Clube Bahia - BA,1 x 2,17/06/2021,16:00,Arena Castelão,Fortaleza,36,4,26.6,89,7.2,1,2,-1,4,5,12,2,6,4,9
+2021,Internacional - RS,Atlético Mineiro - MG,0 x 1,16/06/2021,19:00,Beira-Rio,Porto Alegre,35,4,21.1,87,15.1,0,1,-3,4,7,15,1,3,2,7
+2021,São Paulo - SP,Chapecoense - SC,1 x 1,16/06/2021,19:00,Morumbi,Sao Paulo,33,4,18.4,93,2.9,1,1,-3,0,3,18,-5,1,6,19
+2021,Corinthians - SP,Red Bull Bragantino - SP,1 x 2,16/06/2021,20:30,Neo Química Arena,Sao Paulo,32,4,18.4,93,2.9,1,2,0,2,2,11,3,8,5,8
+2021,Fluminense - RJ,Santos Fc - SP,1 x 0,17/06/2021,19:00,Maracanã,Rio de Janeiro,31,4,22.3,93,1.8,1,0,1,3,2,9,-1,3,4,12
+2021,America - MG,Cuiabá Saf - MT,0 x 0,17/06/2021,16:00,Independência,Belo Horizonte,34,4,20.5,74,3.1,0,0,-4,0,4,20,0,4,4,10
+2021,Esporte Clube Bahia - BA,Corinthians - SP,0 x 0,20/06/2021,16:00,Pituaçu,Salvador,47,5,27.3,83,4.3,0,0,0,5,5,8,0,3,3,11
+2021,Cuiabá Saf - MT,Grêmio - RS,0 x 1,18/08/2021,19:00,Arena Pantanal,Cuiaba,50,5,25.9,85,2.5,0,1,0,2,2,10,-2,2,4,19
+2021,Juventude - RS,Sport - PE,1 x 0,20/06/2021,20:30,Alfredo Jaconi,Caxias do Sul,49,5,16.2,90,9.7,1,0,-6,0,6,19,-1,1,2,12
+2021,Fortaleza - CE,Fluminense - RJ,1 x 1,20/06/2021,18:15,Arena Castelão,Fortaleza,46,5,26.6,89,7.2,1,1,5,6,1,1,2,4,2,7
+2021,Athletico Paranaense - PR,Atlético - GO,2 x 1,20/06/2021,18:15,Ligga Arena,Curitiba,48,5,16.1,97,7.9,2,1,4,6,2,2,1,3,2,9
+2021,Atlético Mineiro - MG,Chapecoense - SC,1 x 1,21/06/2021,20:00,Mineirão,Belo Horizonte,44,5,20.5,74,3.1,1,1,3,3,0,4,-2,2,4,19
+2021,Santos Fc - SP,São Paulo - SP,2 x 0,20/06/2021,18:15,Vila Belmiro,Santos,43,5,22.8,91,2.4,2,0,1,3,2,15,-3,1,4,19
+2021,Internacional - RS,Ceará - CE,1 x 1,20/06/2021,16:00,Beira-Rio,Porto Alegre,45,5,21.1,87,15.1,1,1,-4,2,6,17,-3,2,5,14
+2021,Palmeiras - SP,America - MG,2 x 1,20/06/2021,11:00,Allianz Parque,Sao Paulo,42,5,18.4,93,2.9,2,1,5,7,2,8,-3,0,3,20
+2021,Flamengo - RJ,Red Bull Bragantino - SP,2 x 3,19/06/2021,21:00,Maracanã,Rio de Janeiro,41,5,22.3,93,1.8,2,3,2,6,4,8,1,7,6,6
+2021,Atlético - GO,Fluminense - RJ,1 x 0,23/06/2021,19:00,Antônio Accioly,Goiania,60,6,23.6,77,1.1,1,0,-2,2,4,9,1,4,3,6
+2021,Chapecoense - SC,Internacional - RS,1 x 2,24/06/2021,19:00,Arena Condá,Chapeco,59,6,16.3,85,5.2,1,2,0,2,2,18,0,2,2,14
+2021,Red Bull Bragantino - SP,Palmeiras - SP,3 x 1,23/06/2021,19:00,Nabi Abi Chedid,Braganca Paulista,58,6,17.4,93,3.7,3,1,2,7,5,3,4,6,2,4
+2021,Esporte Clube Bahia - BA,Athletico Paranaense - PR,2 x 1,24/06/2021,21:30,Pituaçu,Salvador,57,6,27.3,83,4.3,2,1,0,2,2,8,2,5,3,2
+2021,Ceará - CE,Atlético Mineiro - MG,2 x 1,24/06/2021,19:00,Arena Castelão,Fortaleza,56,6,26.6,89,7.2,2,1,-1,2,3,14,2,3,1,7
+2021,Grêmio - RS,Santos Fc - SP,2 x 2,24/06/2021,21:30,Arena do Grêmio,Porto Alegre,55,6,21.1,87,15.1,2,2,-1,1,2,16,1,2,1,12
+2021,America - MG,Juventude - RS,1 x 1,24/06/2021,16:00,Independência,Belo Horizonte,54,6,20.5,74,3.1,1,1,-3,1,4,20,-2,1,3,16
+2021,São Paulo - SP,Cuiabá Saf - MT,2 x 2,23/06/2021,19:00,Morumbi,Sao Paulo,53,6,18.4,93,2.9,2,2,-3,1,4,20,0,2,2,14
+2021,Corinthians - SP,Sport - PE,2 x 1,24/06/2021,19:00,Neo Química Arena,Sao Paulo,52,6,18.4,93,2.9,2,1,-1,2,3,15,-1,1,2,17
+2021,Flamengo - RJ,Fortaleza - CE,2 x 1,23/06/2021,19:00,Maracanã,Rio de Janeiro,51,6,22.3,93,1.8,2,1,1,6,5,9,1,2,1,3
+2021,Juventude - RS,Flamengo - RJ,1 x 0,27/06/2021,11:00,Alfredo Jaconi,Caxias do Sul,69,7,16.2,90,9.7,1,0,-2,2,4,15,0,6,6,5
+2021,Athletico Paranaense - PR,Chapecoense - SC,2 x 2,27/06/2021,20:00,Ligga Arena,Curitiba,68,7,16.1,97,7.9,2,2,0,5,5,2,-1,3,4,19
+2021,Sport - PE,Cuiabá Saf - MT,0 x 0,27/06/2021,20:30,Ilha do Retiro,Recife,67,7,27.6,85,7.8,0,0,-1,2,3,17,-1,2,3,15
+2021,Ceará - CE,São Paulo - SP,1 x 1,27/06/2021,20:30,Arena Castelão,Fortaleza,66,7,26.6,89,7.2,1,1,0,4,4,13,-2,3,5,19
+2021,Atlético - GO,Red Bull Bragantino - SP,0 x 1,28/06/2021,20:00,Antônio Accioly,Goiania,70,7,23.6,77,1.1,0,1,0,2,2,7,4,8,4,1
+2021,America - MG,Internacional - RS,1 x 1,27/06/2021,20:30,Independência,Belo Horizonte,64,7,20.5,74,3.1,1,1,-1,2,3,20,0,3,3,14
+2021,Santos Fc - SP,Atlético Mineiro - MG,2 x 0,27/06/2021,20:30,Vila Belmiro,Santos,63,7,22.8,91,2.4,2,0,1,4,3,13,0,3,3,7
+2021,Palmeiras - SP,Esporte Clube Bahia - BA,3 x 2,27/06/2021,20:00,Allianz Parque,Sao Paulo,62,7,18.4,93,2.9,3,2,2,6,4,7,2,4,2,4
+2021,Fluminense - RJ,Corinthians - SP,1 x 1,27/06/2021,16:00,São Januário,Rio de Janeiro,61,7,22.3,93,1.8,1,1,0,2,2,10,0,3,3,14
+2021,Grêmio - RS,Fortaleza - CE,0 x 0,27/06/2021,20:00,Arena do Grêmio,Porto Alegre,65,7,21.1,87,15.1,0,0,0,3,3,16,-1,2,3,4
+2021,Juventude - RS,Grêmio - RS,2 x 0,30/06/2021,21:30,Alfredo Jaconi,Caxias do Sul,79,8,16.2,90,9.7,2,0,2,3,1,14,1,3,2,16
+2021,Red Bull Bragantino - SP,Ceará - CE,0 x 0,01/07/2021,16:00,Nabi Abi Chedid,Braganca Paulista,78,8,17.4,93,3.7,0,0,4,7,3,1,1,4,3,13
+2021,Esporte Clube Bahia - BA,America - MG,3 x 4,30/06/2021,19:00,Pituaçu,Salvador,77,8,27.3,83,4.3,3,4,0,4,4,6,-1,3,4,20
+2021,Fortaleza - CE,Chapecoense - SC,3 x 2,30/06/2021,16:00,Arena Castelão,Fortaleza,76,8,26.6,89,7.2,3,2,-1,2,3,4,-1,4,5,20
+2021,Cuiabá Saf - MT,Flamengo - RJ,0 x 2,01/07/2021,20:00,Arena Pantanal,Cuiaba,80,8,25.9,85,2.5,0,2,-1,2,3,15,-1,4,5,7
+2021,Atlético Mineiro - MG,Atlético - GO,4 x 1,01/07/2021,19:00,Mineirão,Belo Horizonte,74,8,20.5,74,3.1,4,1,-3,2,5,12,-1,2,3,10
+2021,Santos Fc - SP,Sport - PE,0 x 0,30/06/2021,20:30,Vila Belmiro,Santos,73,8,22.8,91,2.4,0,0,4,6,2,9,-2,1,3,18
+2021,Corinthians - SP,São Paulo - SP,0 x 0,30/06/2021,21:30,Neo Química Arena,Sao Paulo,72,8,18.4,93,2.9,0,0,1,3,2,13,-2,3,5,19
+2021,Fluminense - RJ,Athletico Paranaense - PR,1 x 4,30/06/2021,16:00,Raulino de Oliveira,Volta Redonda,71,8,19.9,94,0.4,1,4,-1,2,3,10,0,5,5,3
+2021,Internacional - RS,Palmeiras - SP,1 x 2,30/06/2021,19:00,Beira-Rio,Porto Alegre,75,8,21.1,87,15.1,1,2,1,4,3,14,0,6,6,5
+2021,Cuiabá Saf - MT,Atlético Mineiro - MG,0 x 1,04/07/2021,18:15,Arena Pantanal,Cuiaba,90,9,25.9,85,2.5,0,1,-2,2,4,15,0,5,5,6
+2021,Chapecoense - SC,Esporte Clube Bahia - BA,0 x 2,04/07/2021,11:00,Arena Condá,Chapeco,89,9,16.3,85,5.2,0,2,-2,5,7,20,-1,7,8,9
+2021,Athletico Paranaense - PR,Fortaleza - CE,2 x 1,03/07/2021,19:00,Ligga Arena,Curitiba,88,9,16.1,97,7.9,2,1,2,7,5,2,0,4,4,5
+2021,Sport - PE,Palmeiras - SP,0 x 1,04/07/2021,16:00,Ilha do Retiro,Recife,87,9,27.6,85,7.8,0,1,-1,1,2,16,0,6,6,3
+2021,Ceará - CE,Juventude - RS,2 x 0,04/07/2021,18:15,Arena Castelão,Fortaleza,86,9,26.6,89,7.2,2,0,1,3,2,11,3,4,1,9
+2021,Grêmio - RS,Atlético - GO,0 x 1,04/07/2021,20:30,Arena do Grêmio,Porto Alegre,85,9,21.1,87,15.1,0,1,-2,2,4,17,-3,2,5,13
+2021,São Paulo - SP,Red Bull Bragantino - SP,1 x 2,04/07/2021,18:15,Morumbi,Sao Paulo,83,9,18.4,93,2.9,1,2,0,3,3,19,3,4,1,3
+2021,Corinthians - SP,Internacional - RS,1 x 1,03/07/2021,21:00,Neo Química Arena,Sao Paulo,82,9,18.4,93,2.9,1,1,1,3,2,12,0,4,4,14
+2021,Flamengo - RJ,Fluminense - RJ,0 x 1,04/07/2021,16:00,Neo Química Arena,Sao Paulo,81,9,18.4,93,2.9,0,1,2,4,2,7,-4,2,6,13
+2021,America - MG,Santos Fc - SP,2 x 0,03/07/2021,19:00,Independência,Belo Horizonte,84,9,20.5,74,3.1,2,0,1,6,5,16,2,4,2,11
+2021,Esporte Clube Bahia - BA,Juventude - RS,1 x 0,07/07/2021,18:00,Pituaçu,Salvador,97,10,27.3,83,4.3,1,0,0,7,7,6,1,3,2,12
+2021,Atlético - GO,Sport - PE,1 x 1,07/07/2021,19:15,Antônio Accioly,Goiania,100,10,23.6,77,1.1,1,1,-3,2,5,10,-1,0,1,17
+2021,Chapecoense - SC,Corinthians - SP,0 x 1,08/07/2021,21:00,Arena Condá,Chapeco,99,10,16.3,85,5.2,0,1,-3,4,7,20,0,2,2,13
+2021,Red Bull Bragantino - SP,Cuiabá Saf - MT,1 x 1,07/07/2021,18:00,Nabi Abi Chedid,Braganca Paulista,98,10,17.4,93,3.7,1,1,2,3,1,1,-3,0,3,16
+2021,Fortaleza - CE,America - MG,4 x 0,07/07/2021,18:00,Arena Castelão,Fortaleza,96,10,26.6,89,7.2,4,0,0,4,4,6,3,7,4,15
+2021,Palmeiras - SP,Grêmio - RS,2 x 0,07/07/2021,19:00,Allianz Parque,Sao Paulo,92,10,18.4,93,2.9,2,0,3,6,3,3,-3,0,3,18
+2021,Atlético Mineiro - MG,Flamengo - RJ,2 x 1,07/07/2021,19:00,Mineirão,Belo Horizonte,94,10,20.5,74,3.1,2,1,2,5,3,6,0,2,2,7
+2021,Santos Fc - SP,Athletico Paranaense - PR,2 x 1,06/07/2021,19:30,Vila Belmiro,Santos,93,10,22.8,91,2.4,2,1,0,2,2,12,4,8,4,3
+2021,Internacional - RS,São Paulo - SP,0 x 2,07/07/2021,21:30,Beira-Rio,Porto Alegre,95,10,21.1,87,15.1,0,2,-1,3,4,14,-1,2,3,19
+2021,Fluminense - RJ,Ceará - CE,0 x 0,07/07/2021,21:30,São Januário,Rio de Janeiro,91,10,22.3,93,1.8,0,0,-2,3,5,12,2,3,1,11
+2021,Cuiabá Saf - MT,Ceará - CE,2 x 2,11/07/2021,18:15,Arena Pantanal,Cuiaba,110,11,25.9,85,2.5,2,2,-3,1,4,17,2,2,0,9
+2021,Juventude - RS,Atlético - GO,1 x 1,11/07/2021,11:00,Alfredo Jaconi,Caxias do Sul,109,11,16.2,90,9.7,1,1,-1,2,3,13,-2,3,5,11
+2021,Athletico Paranaense - PR,Red Bull Bragantino - SP,2 x 2,10/07/2021,17:30,Ligga Arena,Curitiba,108,11,16.1,97,7.9,2,2,3,7,4,3,1,3,2,1
+2021,Sport - PE,Fluminense - RJ,1 x 2,10/07/2021,19:00,Ilha do Retiro,Recife,107,11,27.6,85,7.8,1,2,-1,1,2,18,-2,2,4,12
+2021,Fortaleza - CE,Corinthians - SP,1 x 0,11/07/2021,20:30,Arena Castelão,Fortaleza,106,11,26.6,89,7.2,1,0,4,8,4,5,1,2,1,12
+2021,America - MG,Atlético Mineiro - MG,0 x 1,10/07/2021,19:00,Independência,Belo Horizonte,104,11,20.5,74,3.1,0,1,-1,6,7,16,5,7,2,5
+2021,São Paulo - SP,Esporte Clube Bahia - BA,1 x 0,10/07/2021,19:00,Morumbi,Sao Paulo,103,11,18.4,93,2.9,1,0,1,3,2,17,2,6,4,6
+2021,Palmeiras - SP,Santos Fc - SP,3 x 2,10/07/2021,16:30,Allianz Parque,Sao Paulo,102,11,18.4,93,2.9,3,2,4,5,1,2,-1,2,3,9
+2021,Flamengo - RJ,Chapecoense - SC,2 x 1,11/07/2021,18:15,Maracanã,Rio de Janeiro,101,11,22.3,93,1.8,2,1,0,3,3,11,-4,2,6,20
+2021,Grêmio - RS,Internacional - RS,0 x 0,10/07/2021,16:30,Arena do Grêmio,Porto Alegre,105,11,21.1,87,15.1,0,0,-5,0,5,19,-3,2,5,15
+2021,Esporte Clube Bahia - BA,Flamengo - RJ,0 x 5,18/07/2021,18:15,Pituaçu,Salvador,117,12,27.3,83,4.3,0,5,2,3,1,6,-1,3,4,7
+2021,Atlético - GO,Palmeiras - SP,0 x 3,18/07/2021,16:00,Antônio Accioly,Goiania,120,12,23.6,77,1.1,0,3,1,3,2,11,4,6,2,1
+2021,Chapecoense - SC,Cuiabá Saf - MT,2 x 3,18/07/2021,11:00,Arena Condá,Chapeco,119,12,16.3,85,5.2,2,3,-4,1,5,20,-1,3,4,16
+2021,Red Bull Bragantino - SP,Santos Fc - SP,2 x 2,18/07/2021,20:30,Nabi Abi Chedid,Braganca Paulista,118,12,17.4,93,3.7,2,2,1,5,4,2,-2,4,6,10
+2021,Ceará - CE,Athletico Paranaense - PR,1 x 0,17/07/2021,17:00,Arena Castelão,Fortaleza,116,12,26.6,89,7.2,1,0,2,4,2,10,0,5,5,5
+2021,Internacional - RS,Juventude - RS,1 x 0,18/07/2021,20:30,Beira-Rio,Porto Alegre,115,12,21.1,87,15.1,1,0,-2,1,3,16,-3,1,4,13
+2021,America - MG,Sport - PE,0 x 1,19/07/2021,20:00,Independência,Belo Horizonte,114,12,20.5,74,3.1,0,1,-3,2,5,17,-2,2,4,18
+2021,São Paulo - SP,Fortaleza - CE,0 x 1,17/07/2021,17:00,Morumbi,Sao Paulo,113,12,18.4,93,2.9,0,1,2,4,2,16,4,6,2,4
+2021,Corinthians - SP,Atlético Mineiro - MG,1 x 2,17/07/2021,19:00,Neo Química Arena,Sao Paulo,112,12,18.4,93,2.9,1,2,0,2,2,12,3,4,1,4
+2021,Fluminense - RJ,Grêmio - RS,0 x 1,17/07/2021,21:00,Maracanã,Rio de Janeiro,111,12,22.3,93,1.8,0,1,2,3,1,8,-3,0,3,19
+2021,Cuiabá Saf - MT,Corinthians - SP,1 x 2,26/07/2021,20:00,Arena Pantanal,Cuiaba,130,13,25.9,85,2.5,1,2,1,6,5,15,-1,2,3,12
+2021,Juventude - RS,Chapecoense - SC,1 x 0,26/07/2021,18:00,Alfredo Jaconi,Caxias do Sul,129,13,16.2,90,9.7,1,0,-2,1,3,14,-3,3,6,20
+2021,Athletico Paranaense - PR,Internacional - RS,2 x 1,25/07/2021,18:15,Ligga Arena,Curitiba,128,13,16.1,97,7.9,2,1,-2,3,5,5,-1,1,2,14
+2021,Sport - PE,Ceará - CE,0 x 0,25/07/2021,20:30,Ilha do Retiro,Recife,127,13,27.6,85,7.8,0,0,0,3,3,17,1,3,2,7
+2021,Fortaleza - CE,Red Bull Bragantino - SP,1 x 0,25/07/2021,16:00,Arena Castelão,Fortaleza,126,13,26.6,89,7.2,1,0,6,6,0,3,0,5,5,4
+2021,Grêmio - RS,America - MG,1 x 1,24/07/2021,17:00,Arena do Grêmio,Porto Alegre,125,13,21.1,87,15.1,1,1,-1,1,2,18,-6,0,6,19
+2021,Atlético Mineiro - MG,Esporte Clube Bahia - BA,3 x 0,25/07/2021,11:00,Mineirão,Belo Horizonte,124,13,20.5,74,3.1,3,0,3,5,2,3,-5,1,6,9
+2021,Santos Fc - SP,Atlético - GO,0 x 1,25/07/2021,18:15,Vila Belmiro,Santos,123,13,22.8,91,2.4,0,1,0,6,6,11,-3,2,5,13
+2021,Palmeiras - SP,Fluminense - RJ,1 x 0,24/07/2021,19:00,Allianz Parque,Sao Paulo,122,13,18.4,93,2.9,1,0,6,8,2,1,0,2,2,10
+2021,Flamengo - RJ,São Paulo - SP,5 x 1,25/07/2021,16:00,Maracanã,Rio de Janeiro,121,13,22.3,93,1.8,5,1,5,8,3,6,2,3,1,16
+2021,Chapecoense - SC,Santos Fc - SP,0 x 1,01/08/2021,18:15,Arena Condá,Chapeco,139,14,16.3,85,5.2,0,1,-3,3,6,20,-2,4,6,12
+2021,Red Bull Bragantino - SP,Grêmio - RS,1 x 0,31/07/2021,21:00,Nabi Abi Chedid,Braganca Paulista,138,14,17.4,93,3.7,1,0,-1,4,5,4,1,2,1,17
+2021,Esporte Clube Bahia - BA,Sport - PE,0 x 1,01/08/2021,18:15,Pituaçu,Salvador,137,14,27.3,83,4.3,0,1,-9,0,9,12,0,2,2,16
+2021,Ceará - CE,Fortaleza - CE,3 x 1,01/08/2021,20:30,Arena Castelão,Fortaleza,136,14,26.6,89,7.2,3,1,1,3,2,7,3,3,0,3
+2021,Atlético - GO,America - MG,1 x 1,01/08/2021,20:30,Antônio Accioly,Goiania,140,14,23.6,77,1.1,1,1,-2,2,4,9,-2,1,3,19
+2021,Atlético Mineiro - MG,Athletico Paranaense - PR,2 x 0,01/08/2021,16:00,Mineirão,Belo Horizonte,134,14,20.5,74,3.1,2,0,5,6,1,2,0,4,4,5
+2021,São Paulo - SP,Palmeiras - SP,0 x 0,31/07/2021,19:00,Morumbi,Sao Paulo,133,14,18.4,93,2.9,0,0,-4,2,6,19,5,7,2,1
+2021,Corinthians - SP,Flamengo - RJ,1 x 3,01/08/2021,16:00,Neo Química Arena,Sao Paulo,132,14,18.4,93,2.9,1,3,-1,3,4,10,10,12,2,6
+2021,Fluminense - RJ,Juventude - RS,1 x 1,02/09/2021,19:00,Maracanã,Rio de Janeiro,131,14,22.3,93,1.8,1,1,-1,2,3,11,0,2,2,13
+2021,Internacional - RS,Cuiabá Saf - MT,0 x 0,31/07/2021,20:00,Beira-Rio,Porto Alegre,135,14,21.1,87,15.1,0,0,0,2,2,15,0,6,6,16
+2021,Cuiabá Saf - MT,Esporte Clube Bahia - BA,1 x 1,07/08/2021,21:00,Arena Pantanal,Cuiaba,150,15,25.9,85,2.5,1,1,0,4,4,16,-9,0,9,12
+2021,Juventude - RS,Atlético Mineiro - MG,1 x 2,08/08/2021,16:00,Alfredo Jaconi,Caxias do Sul,149,15,16.2,90,9.7,1,2,0,2,2,13,6,7,1,2
+2021,Athletico Paranaense - PR,São Paulo - SP,1 x 2,07/08/2021,18:00,Ligga Arena,Curitiba,148,15,16.1,97,7.9,1,2,-2,2,4,6,-5,1,6,17
+2021,Sport - PE,Red Bull Bragantino - SP,0 x 0,06/08/2021,19:00,Ilha do Retiro,Recife,147,15,27.6,85,7.8,0,0,2,2,0,16,0,3,3,4
+2021,Ceará - CE,Atlético - GO,0 x 0,08/08/2021,18:15,Arena Castelão,Fortaleza,146,15,26.6,89,7.2,0,0,3,4,1,7,-2,2,4,9
+2021,Grêmio - RS,Chapecoense - SC,2 x 1,09/08/2021,20:00,Arena do Grêmio,Porto Alegre,145,15,21.1,87,15.1,2,1,0,2,2,18,-3,2,5,20
+2021,America - MG,Fluminense - RJ,1 x 0,08/08/2021,16:00,Independência,Belo Horizonte,144,15,20.5,74,3.1,1,0,-1,2,3,19,-2,1,3,10
+2021,Santos Fc - SP,Corinthians - SP,0 x 0,08/08/2021,16:00,Vila Belmiro,Santos,143,15,22.8,91,2.4,0,0,0,3,3,9,-2,4,6,12
+2021,Palmeiras - SP,Fortaleza - CE,2 x 3,07/08/2021,21:00,Allianz Parque,Sao Paulo,142,15,18.4,93,2.9,2,3,4,4,0,2,0,3,3,4
+2021,Flamengo - RJ,Internacional - RS,0 x 4,08/08/2021,18:15,Maracanã,Rio de Janeiro,141,15,22.3,93,1.8,0,4,11,13,2,5,0,2,2,15
+2021,Chapecoense - SC,America - MG,1 x 1,16/08/2021,20:00,Arena Condá,Chapeco,159,16,16.3,85,5.2,1,1,-3,1,4,20,1,3,2,19
+2021,Red Bull Bragantino - SP,Juventude - RS,1 x 2,14/08/2021,17:00,Nabi Abi Chedid,Braganca Paulista,158,16,17.4,93,3.7,1,2,0,1,1,4,0,3,3,14
+2021,Esporte Clube Bahia - BA,Atlético - GO,1 x 2,15/08/2021,18:15,Pituaçu,Salvador,157,16,27.3,83,4.3,1,2,-4,1,5,14,1,2,1,9
+2021,Fortaleza - CE,Santos Fc - SP,1 x 1,15/08/2021,18:15,Arena Castelão,Fortaleza,156,16,26.6,89,7.2,1,1,0,5,5,3,0,1,1,9
+2021,Cuiabá Saf - MT,Athletico Paranaense - PR,1 x 0,15/08/2021,18:15,Arena Pantanal,Cuiaba,160,16,25.9,85,2.5,1,0,-1,2,3,18,-2,3,5,6
+2021,Atlético Mineiro - MG,Palmeiras - SP,2 x 0,14/08/2021,19:00,Mineirão,Belo Horizonte,154,16,20.5,74,3.1,2,0,6,7,1,1,0,3,3,2
+2021,São Paulo - SP,Grêmio - RS,2 x 1,14/08/2021,21:00,Morumbi,Sao Paulo,153,16,18.4,93,2.9,2,1,-3,3,6,18,0,3,3,19
+2021,Corinthians - SP,Ceará - CE,3 x 1,15/08/2021,16:00,Neo Química Arena,Sao Paulo,152,16,18.4,93,2.9,3,1,-1,3,4,12,2,3,1,7
+2021,Flamengo - RJ,Sport - PE,2 x 0,15/08/2021,16:00,Raulino de Oliveira,Volta Redonda,151,16,19.9,94,0.4,2,0,2,8,6,5,1,1,0,17
+2021,Internacional - RS,Fluminense - RJ,4 x 2,15/08/2021,20:30,Beira-Rio,Porto Alegre,155,16,21.1,87,15.1,4,2,3,5,2,12,-2,1,3,13
+2021,Juventude - RS,Fortaleza - CE,1 x 1,21/08/2021,21:00,Alfredo Jaconi,Caxias do Sul,169,17,16.2,90,9.7,1,1,0,4,4,12,-1,5,6,3
+2021,Athletico Paranaense - PR,Corinthians - SP,0 x 1,22/08/2021,16:00,Ligga Arena,Curitiba,168,17,16.1,97,7.9,0,1,-4,1,5,6,0,4,4,11
+2021,Sport - PE,São Paulo - SP,0 x 1,22/08/2021,20:30,Ilha do Retiro,Recife,167,17,27.6,85,7.8,0,1,-1,1,2,17,2,4,2,15
+2021,Ceará - CE,Flamengo - RJ,1 x 1,22/08/2021,16:00,Arena Castelão,Fortaleza,166,17,26.6,89,7.2,1,1,0,4,4,8,0,5,5,4
+2021,Atlético - GO,Chapecoense - SC,1 x 1,21/08/2021,17:00,Antônio Accioly,Goiania,170,17,23.6,77,1.1,1,1,1,3,2,9,-2,2,4,20
+2021,America - MG,Red Bull Bragantino - SP,0 x 2,23/08/2021,20:00,Independência,Belo Horizonte,164,17,20.5,74,3.1,0,2,1,3,2,18,0,2,2,5
+2021,Santos Fc - SP,Internacional - RS,2 x 2,22/08/2021,18:15,Vila Belmiro,Santos,163,17,22.8,91,2.4,2,2,1,2,1,11,6,8,2,10
+2021,Palmeiras - SP,Cuiabá Saf - MT,0 x 2,22/08/2021,11:00,Allianz Parque,Sao Paulo,162,17,18.4,93,2.9,0,2,-3,2,5,3,1,2,1,16
+2021,Fluminense - RJ,Atlético Mineiro - MG,1 x 1,23/08/2021,20:00,São Januário,Rio de Janeiro,161,17,22.3,93,1.8,1,1,-3,3,6,15,5,6,1,1
+2021,Grêmio - RS,Esporte Clube Bahia - BA,2 x 0,21/08/2021,19:00,Arena do Grêmio,Porto Alegre,165,17,21.1,87,15.1,2,0,-1,3,4,19,-2,2,4,16
+2021,Atlético - GO,Internacional - RS,0 x 0,29/08/2021,18:15,Antônio Accioly,Goiania,180,18,23.6,77,1.1,0,0,1,3,2,9,6,10,4,10
+2021,Juventude - RS,São Paulo - SP,1 x 1,29/08/2021,16:00,Alfredo Jaconi,Caxias do Sul,179,18,16.2,90,9.7,1,1,0,4,4,13,3,5,2,12
+2021,Red Bull Bragantino - SP,Atlético Mineiro - MG,1 x 1,29/08/2021,20:30,Nabi Abi Chedid,Braganca Paulista,178,18,17.4,93,3.7,1,1,1,3,2,4,3,5,2,1
+2021,Sport - PE,Chapecoense - SC,0 x 0,28/08/2021,17:00,Ilha do Retiro,Recife,177,18,27.6,85,7.8,0,0,-3,0,3,18,-1,3,4,20
+2021,Fortaleza - CE,Cuiabá Saf - MT,0 x 0,30/08/2021,21:30,Arena Castelão,Fortaleza,176,18,26.6,89,7.2,0,0,1,5,4,2,3,4,1,14
+2021,Grêmio - RS,Corinthians - SP,0 x 1,28/08/2021,21:00,Arena do Grêmio,Porto Alegre,175,18,21.1,87,15.1,0,1,2,5,3,17,3,4,1,9
+2021,Santos Fc - SP,Flamengo - RJ,0 x 4,28/08/2021,19:00,Vila Belmiro,Santos,173,18,22.8,91,2.4,0,4,0,3,3,11,-2,3,5,5
+2021,Palmeiras - SP,Athletico Paranaense - PR,2 x 1,28/08/2021,21:00,Allianz Parque,Sao Paulo,172,18,18.4,93,2.9,2,1,-5,2,7,5,-3,1,4,8
+2021,Fluminense - RJ,Esporte Clube Bahia - BA,2 x 0,30/08/2021,19:00,Maracanã,Rio de Janeiro,171,18,22.3,93,1.8,2,0,-3,3,6,15,-3,2,5,16
+2021,America - MG,Ceará - CE,2 x 0,29/08/2021,11:00,Independência,Belo Horizonte,174,18,20.5,74,3.1,2,0,-1,2,3,19,-2,2,4,9
+2021,Esporte Clube Bahia - BA,Fortaleza - CE,4 x 2,04/09/2021,21:00,Pituaçu,Salvador,187,19,27.3,83,4.3,4,2,-5,1,6,17,0,2,2,4
+2021,Chapecoense - SC,Fluminense - RJ,1 x 2,07/09/2021,21:30,Arena Condá,Chapeco,189,19,16.3,85,5.2,1,2,0,2,2,20,0,5,5,11
+2021,Athletico Paranaense - PR,Sport - PE,0 x 0,05/09/2021,18:15,Ligga Arena,Curitiba,188,19,16.1,97,7.9,0,0,-3,1,4,9,-3,0,3,19
+2021,Ceará - CE,Palmeiras - SP,1 x 2,20/10/2021,19:00,Arena Castelão,Fortaleza,186,19,26.6,89,7.2,1,2,-4,2,6,10,-3,2,5,2
+2021,Cuiabá Saf - MT,Santos Fc - SP,2 x 1,04/09/2021,21:00,Arena Pantanal,Cuiaba,190,19,25.9,85,2.5,2,1,3,3,0,15,-4,3,7,12
+2021,Atlético Mineiro - MG,Grêmio - RS,2 x 1,03/11/2021,21:00,Mineirão,Belo Horizonte,184,19,20.5,74,3.1,2,1,2,4,2,1,0,3,3,18
+2021,São Paulo - SP,America - MG,0 x 0,22/09/2021,20:30,Morumbi,Sao Paulo,183,19,18.4,93,2.9,0,0,2,4,2,14,0,3,3,17
+2021,Corinthians - SP,Juventude - RS,1 x 1,07/09/2021,21:30,Neo Química Arena,Sao Paulo,182,19,18.4,93,2.9,1,1,4,5,1,6,1,4,3,15
+2021,Flamengo - RJ,Atlético - GO,2 x 0,05/11/2021,21:30,Maracanã,Rio de Janeiro,181,19,22.3,93,1.8,2,0,6,7,1,3,1,3,2,9
+2021,Internacional - RS,Red Bull Bragantino - SP,1 x 1,21/10/2021,20:00,Beira-Rio,Porto Alegre,185,19,21.1,87,15.1,1,1,2,6,4,12,1,4,3,5
+2021,Atlético - GO,Corinthians - SP,1 x 1,12/09/2021,18:15,Antônio Accioly,Goiania,200,20,23.6,77,1.1,1,1,-2,1,3,9,2,3,1,6
+2021,Juventude - RS,Cuiabá Saf - MT,1 x 2,11/09/2021,17:00,Alfredo Jaconi,Caxias do Sul,199,20,16.2,90,9.7,1,2,0,3,3,13,3,4,1,11
+2021,Red Bull Bragantino - SP,Chapecoense - SC,1 x 2,11/09/2021,19:00,Nabi Abi Chedid,Braganca Paulista,198,20,17.4,93,3.7,1,2,2,4,2,4,-1,2,3,20
+2021,Sport - PE,Internacional - RS,0 x 1,13/09/2021,20:00,Ilha do Retiro,Recife,197,20,27.6,85,7.8,0,1,-1,0,1,18,0,3,3,11
+2021,Fortaleza - CE,Atlético Mineiro - MG,0 x 2,12/09/2021,16:00,Arena Castelão,Fortaleza,196,20,26.6,89,7.2,0,2,-2,3,5,5,1,4,3,1
+2021,Grêmio - RS,Ceará - CE,2 x 0,12/09/2021,11:00,Arena do Grêmio,Porto Alegre,195,20,21.1,87,15.1,2,0,0,3,3,18,-3,2,5,12
+2021,America - MG,Athletico Paranaense - PR,2 x 0,11/09/2021,16:00,Independência,Belo Horizonte,194,20,20.5,74,3.1,2,0,0,2,2,18,-2,1,3,10
+2021,Santos Fc - SP,Esporte Clube Bahia - BA,0 x 0,11/09/2021,21:00,Vila Belmiro,Santos,193,20,22.8,91,2.4,0,0,-5,3,8,15,-2,4,6,17
+2021,Palmeiras - SP,Flamengo - RJ,1 x 3,12/09/2021,16:00,Allianz Parque,Sao Paulo,192,20,18.4,93,2.9,1,3,0,4,4,2,6,7,1,3
+2021,Fluminense - RJ,São Paulo - SP,2 x 1,12/09/2021,20:30,Maracanã,Rio de Janeiro,191,20,22.3,93,1.8,2,1,3,5,2,11,1,2,1,14
+2021,Chapecoense - SC,Palmeiras - SP,0 x 2,18/09/2021,17:00,Arena Condá,Chapeco,209,21,16.3,85,5.2,0,2,0,3,3,20,0,5,5,3
+2021,Athletico Paranaense - PR,Juventude - RS,2 x 1,18/09/2021,18:45,Ligga Arena,Curitiba,208,21,16.1,97,7.9,2,1,-3,1,4,11,-1,3,4,14
+2021,Esporte Clube Bahia - BA,Red Bull Bragantino - SP,1 x 1,18/09/2021,21:00,Arena Fonte Nova,Salvador,207,21,27.3,83,4.3,1,1,0,4,4,17,-1,3,4,4
+2021,Ceará - CE,Santos Fc - SP,0 x 0,18/09/2021,21:00,Arena Castelão,Fortaleza,206,21,26.6,89,7.2,0,0,-5,1,6,12,-5,1,6,13
+2021,Cuiabá Saf - MT,Fluminense - RJ,2 x 2,20/09/2021,20:00,Arena Pantanal,Cuiaba,210,21,25.9,85,2.5,2,2,2,4,2,10,4,6,2,8
+2021,Atlético Mineiro - MG,Sport - PE,3 x 0,18/09/2021,19:00,Mineirão,Belo Horizonte,204,21,20.5,74,3.1,3,0,3,5,2,1,-1,0,1,19
+2021,São Paulo - SP,Atlético - GO,2 x 1,19/09/2021,16:00,Morumbi,Sao Paulo,203,21,18.4,93,2.9,2,1,-1,2,3,14,-2,1,3,11
+2021,Corinthians - SP,America - MG,1 x 1,19/09/2021,18:15,Neo Química Arena,Sao Paulo,202,21,18.4,93,2.9,1,1,1,3,2,6,4,4,0,17
+2021,Flamengo - RJ,Grêmio - RS,0 x 1,19/09/2021,20:30,Maracanã,Rio de Janeiro,201,21,22.3,93,1.8,0,1,8,9,1,3,0,3,3,18
+2021,Internacional - RS,Fortaleza - CE,1 x 0,19/09/2021,11:00,Beira-Rio,Porto Alegre,205,21,21.1,87,15.1,1,0,1,2,1,10,-4,2,6,5
+2021,Juventude - RS,Santos Fc - SP,3 x 0,26/09/2021,16:00,Alfredo Jaconi,Caxias do Sul,219,22,16.2,90,9.7,3,0,-2,3,5,17,-1,1,2,14
+2021,Athletico Paranaense - PR,Grêmio - RS,4 x 2,26/09/2021,18:15,Ligga Arena,Curitiba,218,22,16.1,97,7.9,4,2,-1,2,3,9,2,4,2,16
+2021,Sport - PE,Fortaleza - CE,0 x 1,26/09/2021,18:15,Arena Pernambuco,São Lourenço da Mata,217,22,26.2,91,3.6,0,1,-4,0,4,19,-5,2,7,5
+2021,Ceará - CE,Chapecoense - SC,1 x 0,25/09/2021,17:00,Arena Castelão,Fortaleza,216,22,26.6,89,7.2,1,0,-3,1,4,14,-2,3,5,20
+2021,Atlético - GO,Cuiabá Saf - MT,0 x 0,26/09/2021,20:30,Antônio Accioly,Goiania,220,22,23.6,77,1.1,0,0,-3,2,5,14,2,6,4,10
+2021,America - MG,Flamengo - RJ,1 x 1,26/09/2021,11:00,Independência,Belo Horizonte,214,22,20.5,74,3.1,1,1,2,3,1,16,3,5,2,3
+2021,São Paulo - SP,Atlético Mineiro - MG,0 x 0,25/09/2021,21:00,Morumbi,Sao Paulo,213,22,18.4,93,2.9,0,0,0,3,3,14,6,7,1,1
+2021,Corinthians - SP,Palmeiras - SP,2 x 1,25/09/2021,19:00,Neo Química Arena,Sao Paulo,212,22,18.4,93,2.9,2,1,0,3,3,8,1,5,4,2
+2021,Fluminense - RJ,Red Bull Bragantino - SP,2 x 1,26/09/2021,16:00,Maracanã,Rio de Janeiro,211,22,22.3,93,1.8,2,1,2,6,4,10,-1,3,4,5
+2021,Internacional - RS,Esporte Clube Bahia - BA,2 x 0,26/09/2021,16:00,Beira-Rio,Porto Alegre,215,22,21.1,87,15.1,2,0,2,3,1,9,2,5,3,18
+2021,Cuiabá Saf - MT,America - MG,0 x 2,02/10/2021,17:00,Arena Pantanal,Cuiaba,230,23,25.9,85,2.5,0,2,1,4,3,10,2,4,2,15
+2021,Chapecoense - SC,São Paulo - SP,1 x 1,03/10/2021,16:00,Arena Condá,Chapeco,229,23,16.3,85,5.2,1,1,-2,2,4,20,0,3,3,13
+2021,Red Bull Bragantino - SP,Corinthians - SP,2 x 2,02/10/2021,19:00,Nabi Abi Chedid,Braganca Paulista,228,23,17.4,93,3.7,2,2,-2,3,5,5,1,4,3,7
+2021,Esporte Clube Bahia - BA,Ceará - CE,1 x 1,27/10/2021,19:00,Arena Fonte Nova,Salvador,227,23,27.3,83,4.3,1,1,-2,1,3,18,-1,1,2,11
+2021,Fortaleza - CE,Atlético - GO,0 x 3,02/10/2021,17:00,Arena Castelão,Fortaleza,226,23,26.6,89,7.2,0,3,-2,1,3,4,-1,2,3,14
+2021,Grêmio - RS,Sport - PE,1 x 2,03/10/2021,20:30,Arena do Grêmio,Porto Alegre,225,23,21.1,87,15.1,1,2,1,5,4,18,-5,0,5,19
+2021,Santos Fc - SP,Fluminense - RJ,2 x 0,27/10/2021,19:00,Vila Belmiro,Santos,223,23,22.8,91,2.4,2,0,-3,0,3,16,2,6,4,8
+2021,Palmeiras - SP,Juventude - RS,1 x 1,03/10/2021,18:15,Allianz Parque,Sao Paulo,222,23,18.4,93,2.9,1,1,-1,4,5,2,1,5,4,16
+2021,Flamengo - RJ,Athletico Paranaense - PR,3 x 0,03/10/2021,16:00,Maracanã,Rio de Janeiro,221,23,22.3,93,1.8,3,0,1,4,3,3,1,6,5,9
+2021,Atlético Mineiro - MG,Internacional - RS,1 x 0,02/10/2021,21:00,Mineirão,Belo Horizonte,224,23,20.5,74,3.1,1,0,5,5,0,1,4,4,0,7
+2021,Sport - PE,Juventude - RS,3 x 1,06/10/2021,19:00,Arena Pernambuco,São Lourenço da Mata,237,24,26.2,91,3.6,3,1,-3,2,5,19,2,5,3,15
+2021,Atlético - GO,Athletico Paranaense - PR,0 x 2,06/10/2021,19:00,Antônio Accioly,Goiania,240,24,23.6,77,1.1,0,2,2,4,2,10,0,6,6,9
+2021,Chapecoense - SC,Atlético Mineiro - MG,2 x 2,06/10/2021,19:00,Arena Condá,Chapeco,239,24,16.3,85,5.2,2,2,-3,1,4,20,4,4,0,1
+2021,Red Bull Bragantino - SP,Flamengo - RJ,1 x 1,06/10/2021,20:30,Nabi Abi Chedid,Braganca Paulista,238,24,17.4,93,3.7,1,1,-1,4,5,5,2,4,2,2
+2021,Ceará - CE,Internacional - RS,0 x 0,06/10/2021,19:00,Arena Castelão,Fortaleza,236,24,26.6,89,7.2,0,0,1,2,1,12,2,3,1,8
+2021,Grêmio - RS,Cuiabá Saf - MT,2 x 2,06/10/2021,21:30,Arena do Grêmio,Porto Alegre,235,24,21.1,87,15.1,2,2,-2,4,6,18,-2,2,4,12
+2021,America - MG,Palmeiras - SP,2 x 1,06/10/2021,21:30,Independência,Belo Horizonte,234,24,20.5,74,3.1,2,1,2,4,2,14,1,4,3,3
+2021,São Paulo - SP,Santos Fc - SP,1 x 1,07/10/2021,18:30,Morumbi,Sao Paulo,233,24,18.4,93,2.9,1,1,1,3,2,14,-1,2,3,16
+2021,Corinthians - SP,Esporte Clube Bahia - BA,3 x 1,05/10/2021,21:30,Neo Química Arena,Sao Paulo,232,24,18.4,93,2.9,3,1,1,5,4,7,-2,2,4,18
+2021,Fluminense - RJ,Fortaleza - CE,0 x 2,06/10/2021,21:30,Maracanã,Rio de Janeiro,231,24,22.3,93,1.8,0,2,-1,4,5,9,-3,1,4,6
+2021,Cuiabá Saf - MT,São Paulo - SP,0 x 0,11/10/2021,20:00,Arena Pantanal,Cuiaba,250,25,25.9,85,2.5,0,0,-2,2,4,10,0,2,2,14
+2021,Juventude - RS,America - MG,1 x 1,09/10/2021,21:00,Alfredo Jaconi,Caxias do Sul,249,25,16.2,90,9.7,1,1,1,5,4,16,3,5,2,11
+2021,Athletico Paranaense - PR,Esporte Clube Bahia - BA,0 x 2,09/10/2021,19:00,Ligga Arena,Curitiba,248,25,16.1,97,7.9,0,2,1,6,5,8,-4,2,6,18
+2021,Sport - PE,Corinthians - SP,1 x 0,09/10/2021,16:30,Arena Pernambuco,São Lourenço da Mata,247,25,26.2,91,3.6,1,0,2,5,3,19,3,7,4,5
+2021,Fortaleza - CE,Flamengo - RJ,0 x 3,09/10/2021,19:00,Arena Castelão,Fortaleza,246,25,26.6,89,7.2,0,3,0,3,3,4,3,5,2,2
+2021,Atlético Mineiro - MG,Ceará - CE,3 x 1,09/10/2021,16:30,Mineirão,Belo Horizonte,244,25,20.5,74,3.1,3,1,1,3,2,1,1,2,1,12
+2021,Santos Fc - SP,Grêmio - RS,1 x 0,10/10/2021,16:00,Vila Belmiro,Santos,243,25,22.8,91,2.4,1,0,-1,3,4,16,-3,5,8,19
+2021,Palmeiras - SP,Red Bull Bragantino - SP,2 x 4,09/10/2021,21:00,Allianz Parque,Sao Paulo,242,25,18.4,93,2.9,2,4,-2,3,5,3,-1,4,5,6
+2021,Fluminense - RJ,Atlético - GO,0 x 0,09/10/2021,16:30,Maracanã,Rio de Janeiro,241,25,22.3,93,1.8,0,0,-3,2,5,9,1,3,2,14
+2021,Internacional - RS,Chapecoense - SC,5 x 2,10/10/2021,11:00,Beira-Rio,Porto Alegre,245,25,21.1,87,15.1,5,2,1,2,1,7,-1,3,4,20
+2021,Esporte Clube Bahia - BA,Palmeiras - SP,0 x 0,12/10/2021,21:30,Arena Fonte Nova,Salvador,257,26,27.3,83,4.3,0,0,0,4,4,17,-3,4,7,3
+2021,Cuiabá Saf - MT,Sport - PE,1 x 0,14/10/2021,19:00,Arena Pantanal,Cuiaba,260,26,25.9,85,2.5,1,0,-2,2,4,10,4,6,2,18
+2021,Chapecoense - SC,Athletico Paranaense - PR,1 x 1,13/10/2021,19:00,Arena Condá,Chapeco,259,26,16.3,85,5.2,1,1,-3,5,8,20,-3,2,5,8
+2021,Red Bull Bragantino - SP,Atlético - GO,1 x 0,12/10/2021,19:00,Nabi Abi Chedid,Braganca Paulista,258,26,17.4,93,3.7,1,0,2,7,5,4,1,3,2,12
+2021,Fortaleza - CE,Grêmio - RS,1 x 0,13/10/2021,20:30,Arena Castelão,Fortaleza,256,26,26.6,89,7.2,1,0,-4,2,6,5,-2,3,5,19
+2021,Flamengo - RJ,Juventude - RS,3 x 1,13/10/2021,19:00,Maracanã,Rio de Janeiro,251,26,22.3,93,1.8,3,1,6,7,1,2,-2,3,5,16
+2021,Atlético Mineiro - MG,Santos Fc - SP,3 x 1,13/10/2021,19:00,Mineirão,Belo Horizonte,254,26,20.5,74,3.1,3,1,3,6,3,1,3,4,1,12
+2021,São Paulo - SP,Ceará - CE,1 x 1,14/10/2021,19:00,Morumbi,Sao Paulo,253,26,18.4,93,2.9,1,1,0,2,2,15,-2,2,4,14
+2021,Corinthians - SP,Fluminense - RJ,1 x 0,13/10/2021,21:00,Neo Química Arena,Sao Paulo,252,26,18.4,93,2.9,1,0,1,5,4,7,-4,0,4,10
+2021,Internacional - RS,America - MG,3 x 1,13/10/2021,21:30,Beira-Rio,Porto Alegre,255,26,21.1,87,15.1,3,1,2,5,3,7,3,5,2,11
+2021,Sport - PE,Santos Fc - SP,0 x 0,17/10/2021,20:30,Arena Pernambuco,São Lourenço da Mata,267,27,26.2,91,3.6,0,0,2,4,2,18,-1,3,4,15
+2021,Atlético - GO,Atlético Mineiro - MG,2 x 1,17/10/2021,18:15,Antônio Accioly,Goiania,270,27,23.6,77,1.1,2,1,-3,0,3,15,4,8,4,1
+2021,Chapecoense - SC,Fortaleza - CE,1 x 2,16/10/2021,19:00,Arena Condá,Chapeco,269,27,16.3,85,5.2,1,2,-3,5,8,20,0,3,3,5
+2021,Athletico Paranaense - PR,Fluminense - RJ,0 x 1,17/10/2021,16:00,Ligga Arena,Curitiba,268,27,16.1,97,7.9,0,1,0,3,3,8,-3,0,3,11
+2021,Ceará - CE,Red Bull Bragantino - SP,2 x 2,17/10/2021,18:15,Arena Castelão,Fortaleza,266,27,26.6,89,7.2,2,2,-2,2,4,14,3,6,3,5
+2021,Flamengo - RJ,Cuiabá Saf - MT,0 x 0,17/10/2021,20:30,Maracanã,Rio de Janeiro,261,27,22.3,93,1.8,0,0,5,7,2,2,1,3,2,10
+2021,America - MG,Esporte Clube Bahia - BA,0 x 0,16/10/2021,21:00,Independência,Belo Horizonte,264,27,20.5,74,3.1,0,0,-1,4,5,14,0,3,3,17
+2021,São Paulo - SP,Corinthians - SP,1 x 0,18/10/2021,20:00,Morumbi,Sao Paulo,263,27,18.4,93,2.9,1,0,0,2,2,15,2,4,2,7
+2021,Palmeiras - SP,Internacional - RS,1 x 0,17/10/2021,16:00,Allianz Parque,Sao Paulo,262,27,18.4,93,2.9,1,0,-3,3,6,5,5,8,3,6
+2021,Grêmio - RS,Juventude - RS,3 x 2,17/10/2021,18:15,Arena do Grêmio,Porto Alegre,265,27,21.1,87,15.1,3,2,-2,2,4,19,-4,3,7,17
+2021,Atlético - GO,Grêmio - RS,2 x 0,25/10/2021,20:00,Antônio Accioly,Goiania,280,28,23.6,77,1.1,2,0,0,2,2,12,-1,3,4,18
+2021,Juventude - RS,Ceará - CE,0 x 0,23/10/2021,17:00,Alfredo Jaconi,Caxias do Sul,279,28,16.2,90,9.7,0,0,-3,4,7,17,-2,4,6,13
+2021,Red Bull Bragantino - SP,São Paulo - SP,1 x 0,24/10/2021,18:15,Nabi Abi Chedid,Braganca Paulista,278,28,17.4,93,3.7,1,0,3,7,4,5,1,2,1,12
+2021,Esporte Clube Bahia - BA,Chapecoense - SC,3 x 0,24/10/2021,20:30,Arena Fonte Nova,Salvador,277,28,27.3,83,4.3,3,0,2,2,0,17,-4,4,8,20
+2021,Fortaleza - CE,Athletico Paranaense - PR,3 x 0,23/10/2021,19:15,Arena Castelão,Fortaleza,276,28,26.6,89,7.2,3,0,-1,3,4,5,-3,1,4,11
+2021,Atlético Mineiro - MG,Cuiabá Saf - MT,2 x 1,24/10/2021,16:00,Mineirão,Belo Horizonte,274,28,20.5,74,3.1,2,1,3,7,4,1,1,1,0,10
+2021,Santos Fc - SP,America - MG,0 x 2,23/10/2021,17:00,Vila Belmiro,Santos,273,28,22.8,91,2.4,0,2,-1,2,3,16,-2,2,4,14
+2021,Palmeiras - SP,Sport - PE,2 x 1,25/10/2021,21:30,Allianz Parque,Sao Paulo,272,28,18.4,93,2.9,2,1,-1,3,4,5,0,1,1,18
+2021,Fluminense - RJ,Flamengo - RJ,3 x 1,23/10/2021,19:00,Maracanã,Rio de Janeiro,271,28,22.3,93,1.8,3,1,0,1,1,9,5,6,1,2
+2021,Internacional - RS,Corinthians - SP,2 x 2,24/10/2021,16:00,Beira-Rio,Porto Alegre,275,28,21.1,87,15.1,2,2,4,8,4,6,-1,1,2,7
+2021,Sport - PE,Atlético - GO,2 x 0,31/10/2021,20:30,Arena Pernambuco,São Lourenço da Mata,287,29,26.2,91,3.6,2,0,-2,1,3,18,2,4,2,9
+2021,Juventude - RS,Esporte Clube Bahia - BA,0 x 0,30/10/2021,19:15,Alfredo Jaconi,Caxias do Sul,289,29,16.2,90,9.7,0,0,-3,3,6,18,3,3,0,15
+2021,Athletico Paranaense - PR,Santos Fc - SP,0 x 1,30/10/2021,17:00,Ligga Arena,Curitiba,288,29,16.1,97,7.9,0,1,-4,1,5,12,-4,1,5,16
+2021,Cuiabá Saf - MT,Red Bull Bragantino - SP,1 x 0,01/11/2021,20:00,Arena Pantanal,Cuiaba,290,29,25.9,85,2.5,1,0,0,2,2,10,2,4,2,5
+2021,Ceará - CE,Fluminense - RJ,1 x 0,31/10/2021,16:00,Arena Castelão,Fortaleza,286,29,26.6,89,7.2,1,0,0,3,3,15,2,4,2,8
+2021,São Paulo - SP,Internacional - RS,1 x 0,31/10/2021,18:15,Morumbi,Sao Paulo,283,29,18.4,93,2.9,1,0,0,2,2,15,1,5,4,6
+2021,America - MG,Fortaleza - CE,2 x 1,30/10/2021,21:00,Independência,Belo Horizonte,284,29,20.5,74,3.1,2,1,0,3,3,13,5,6,1,4
+2021,Corinthians - SP,Chapecoense - SC,1 x 0,01/11/2021,21:30,Neo Química Arena,Sao Paulo,282,29,18.4,93,2.9,1,0,0,3,3,7,-4,2,6,20
+2021,Flamengo - RJ,Atlético Mineiro - MG,1 x 0,30/10/2021,19:00,Maracanã,Rio de Janeiro,281,29,22.3,93,1.8,1,0,0,4,4,2,2,6,4,1
+2021,Grêmio - RS,Palmeiras - SP,1 x 3,31/10/2021,16:00,Arena do Grêmio,Porto Alegre,285,29,21.1,87,15.1,1,3,-2,3,5,19,2,3,1,3
+2021,Atlético - GO,Juventude - RS,1 x 1,23/11/2021,19:00,Antônio Accioly,Goiania,300,30,23.6,77,1.1,1,1,1,4,3,11,-1,2,3,18
+2021,Chapecoense - SC,Flamengo - RJ,2 x 2,08/11/2021,20:00,Arena Condá,Chapeco,299,30,16.3,85,5.2,2,2,-5,1,6,20,-1,2,3,2
+2021,Red Bull Bragantino - SP,Athletico Paranaense - PR,0 x 2,07/11/2021,16:00,Nabi Abi Chedid,Braganca Paulista,298,30,17.4,93,3.7,0,2,0,3,3,5,-5,0,5,14
+2021,Esporte Clube Bahia - BA,São Paulo - SP,1 x 0,07/11/2021,18:15,Arena Fonte Nova,Salvador,297,30,27.3,83,4.3,1,0,3,3,0,16,1,2,1,13
+2021,Ceará - CE,Cuiabá Saf - MT,1 x 0,07/11/2021,20:30,Arena Castelão,Fortaleza,296,30,26.6,89,7.2,1,0,1,3,2,14,0,2,2,9
+2021,Atlético Mineiro - MG,America - MG,1 x 0,07/11/2021,16:00,Mineirão,Belo Horizonte,294,30,20.5,74,3.1,1,0,-1,3,4,1,3,4,1,10
+2021,Santos Fc - SP,Palmeiras - SP,0 x 2,07/11/2021,16:00,Vila Belmiro,Santos,293,30,22.8,91,2.4,0,2,-1,1,2,16,4,6,2,3
+2021,Corinthians - SP,Fortaleza - CE,1 x 0,06/11/2021,17:00,Neo Química Arena,Sao Paulo,292,30,18.4,93,2.9,1,0,0,3,3,6,3,6,3,4
+2021,Fluminense - RJ,Sport - PE,1 x 0,06/11/2021,21:00,Maracanã,Rio de Janeiro,291,30,22.3,93,1.8,1,0,2,4,2,9,1,3,2,18
+2021,Internacional - RS,Grêmio - RS,1 x 0,06/11/2021,19:00,Beira-Rio,Porto Alegre,295,30,21.1,87,15.1,1,0,-2,2,4,8,-3,4,7,19
+2021,Sport - PE,America - MG,2 x 3,10/11/2021,21:30,Arena Pernambuco,São Lourenço da Mata,307,31,26.2,91,3.6,2,3,0,3,3,18,2,4,2,11
+2021,Cuiabá Saf - MT,Chapecoense - SC,0 x 0,04/11/2021,21:00,Arena Pantanal,Cuiaba,310,31,25.9,85,2.5,0,0,-1,2,3,11,-4,2,6,20
+2021,Juventude - RS,Internacional - RS,2 x 1,10/11/2021,21:30,Alfredo Jaconi,Caxias do Sul,309,31,16.2,90,9.7,2,1,0,1,1,17,0,3,3,7
+2021,Athletico Paranaense - PR,Ceará - CE,2 x 1,10/11/2021,18:30,Ligga Arena,Curitiba,308,31,16.1,97,7.9,2,1,-2,2,4,12,2,2,0,11
+2021,Fortaleza - CE,São Paulo - SP,1 x 1,10/11/2021,21:30,Arena Castelão,Fortaleza,306,31,26.6,89,7.2,1,1,1,4,3,4,-1,1,2,14
+2021,Flamengo - RJ,Esporte Clube Bahia - BA,3 x 0,11/11/2021,19:00,Maracanã,Rio de Janeiro,301,31,22.3,93,1.8,3,0,-1,4,5,2,4,4,0,15
+2021,Atlético Mineiro - MG,Corinthians - SP,3 x 0,10/11/2021,19:00,Mineirão,Belo Horizonte,304,31,20.5,74,3.1,3,0,1,3,2,1,2,4,2,5
+2021,Santos Fc - SP,Red Bull Bragantino - SP,2 x 0,10/11/2021,19:00,Vila Belmiro,Santos,303,31,22.8,91,2.4,2,0,-3,1,4,16,-2,1,3,6
+2021,Palmeiras - SP,Atlético - GO,4 x 0,10/11/2021,20:30,Allianz Parque,Sao Paulo,302,31,18.4,93,2.9,4,0,5,7,2,3,0,3,3,13
+2021,Grêmio - RS,Fluminense - RJ,1 x 0,09/11/2021,21:30,Arena do Grêmio,Porto Alegre,305,31,21.1,87,15.1,1,0,-5,1,6,19,2,4,2,8
+2021,Esporte Clube Bahia - BA,Atlético Mineiro - MG,2 x 3,02/12/2021,18:00,Arena Fonte Nova,Salvador,317,32,27.3,83,4.3,2,3,-2,1,3,16,3,4,1,1
+2021,Atlético - GO,Santos Fc - SP,0 x 0,13/11/2021,17:00,Antônio Accioly,Goiania,320,32,23.6,77,1.1,0,0,-6,1,7,15,1,3,2,14
+2021,Chapecoense - SC,Juventude - RS,0 x 2,14/11/2021,19:00,Arena Condá,Chapeco,319,32,16.3,85,5.2,0,2,-1,2,3,20,1,3,2,17
+2021,Red Bull Bragantino - SP,Fortaleza - CE,3 x 0,13/11/2021,19:00,Nabi Abi Chedid,Braganca Paulista,318,32,17.4,93,3.7,3,0,-5,0,5,6,-2,2,4,4
+2021,Ceará - CE,Sport - PE,2 x 1,14/11/2021,19:00,Arena Castelão,Fortaleza,316,32,26.6,89,7.2,2,1,1,3,2,12,0,4,4,18
+2021,Fluminense - RJ,Palmeiras - SP,2 x 1,14/11/2021,18:15,Maracanã,Rio de Janeiro,311,32,22.3,93,1.8,2,1,-1,1,2,9,8,9,1,3
+2021,America - MG,Grêmio - RS,3 x 1,13/11/2021,18:30,Independência,Belo Horizonte,314,32,20.5,74,3.1,3,1,1,5,4,10,-2,2,4,19
+2021,São Paulo - SP,Flamengo - RJ,0 x 4,14/11/2021,16:00,Morumbi,Sao Paulo,313,32,18.4,93,2.9,0,4,0,2,2,15,4,6,2,2
+2021,Corinthians - SP,Cuiabá Saf - MT,3 x 2,13/11/2021,21:00,Neo Química Arena,Sao Paulo,312,32,18.4,93,2.9,3,2,-1,2,3,6,0,1,1,12
+2021,Internacional - RS,Athletico Paranaense - PR,2 x 1,13/11/2021,19:00,Beira-Rio,Porto Alegre,315,32,21.1,87,15.1,2,1,-1,2,3,8,2,4,2,11
+2021,Cuiabá Saf - MT,Internacional - RS,1 x 0,17/11/2021,19:00,Arena Pantanal,Cuiaba,330,33,25.9,85,2.5,1,0,-2,2,4,12,1,4,3,7
+2021,Juventude - RS,Fluminense - RJ,1 x 0,17/11/2021,20:30,Alfredo Jaconi,Caxias do Sul,329,33,16.2,90,9.7,1,0,3,5,2,16,1,3,2,8
+2021,Athletico Paranaense - PR,Atlético Mineiro - MG,0 x 1,16/11/2021,16:00,Ligga Arena,Curitiba,328,33,16.1,97,7.9,0,1,2,5,3,12,5,7,2,1
+2021,Sport - PE,Esporte Clube Bahia - BA,1 x 0,18/11/2021,21:00,Arena Pernambuco,São Lourenço da Mata,327,33,26.2,91,3.6,1,0,-3,3,6,18,-3,3,6,17
+2021,Fortaleza - CE,Ceará - CE,0 x 4,17/11/2021,20:00,Arena Castelão,Fortaleza,326,33,26.6,89,7.2,0,4,-4,1,5,6,1,4,3,11
+2021,America - MG,Atlético - GO,0 x 0,17/11/2021,19:00,Independência,Belo Horizonte,324,33,20.5,74,3.1,0,0,2,6,4,10,-4,1,5,15
+2021,Santos Fc - SP,Chapecoense - SC,2 x 0,17/11/2021,19:00,Vila Belmiro,Santos,323,33,22.8,91,2.4,2,0,0,2,2,15,-2,2,4,20
+2021,Palmeiras - SP,São Paulo - SP,0 x 2,17/11/2021,20:30,Allianz Parque,Sao Paulo,322,33,18.4,93,2.9,0,2,5,7,2,3,-5,1,6,16
+2021,Flamengo - RJ,Corinthians - SP,1 x 0,17/11/2021,21:30,Maracanã,Rio de Janeiro,321,33,22.3,93,1.8,1,0,7,9,2,2,-1,4,5,4
+2021,Grêmio - RS,Red Bull Bragantino - SP,3 x 0,16/11/2021,18:00,Arena do Grêmio,Porto Alegre,325,33,21.1,87,15.1,3,0,-2,2,4,19,-1,3,4,5
+2021,Esporte Clube Bahia - BA,Cuiabá Saf - MT,0 x 0,21/11/2021,19:00,Arena Fonte Nova,Salvador,337,34,27.3,83,4.3,0,0,-5,2,7,17,0,3,3,11
+2021,Chapecoense - SC,Grêmio - RS,1 x 3,20/11/2021,19:00,Arena Condá,Chapeco,339,34,16.3,85,5.2,1,3,-4,0,4,20,2,5,3,19
+2021,Red Bull Bragantino - SP,Sport - PE,3 x 0,28/10/2021,19:00,Nabi Abi Chedid,Braganca Paulista,338,34,17.4,93,3.7,3,0,-2,3,5,5,-1,4,5,19
+2021,Atlético - GO,Ceará - CE,1 x 1,20/11/2021,21:00,Antônio Accioly,Goiania,340,34,23.6,77,1.1,1,1,-4,0,4,16,4,7,3,8
+2021,Fortaleza - CE,Palmeiras - SP,1 x 0,20/11/2021,19:00,Arena Castelão,Fortaleza,336,34,26.6,89,7.2,1,0,-7,1,8,6,1,5,4,3
+2021,São Paulo - SP,Athletico Paranaense - PR,0 x 0,24/11/2021,21:30,Morumbi,Sao Paulo,333,34,18.4,93,2.9,0,0,-2,3,5,14,-1,3,4,13
+2021,Atlético Mineiro - MG,Juventude - RS,2 x 0,20/11/2021,19:00,Mineirão,Belo Horizonte,334,34,20.5,74,3.1,2,0,5,7,2,1,4,5,1,16
+2021,Corinthians - SP,Santos Fc - SP,2 x 0,21/11/2021,16:00,Neo Química Arena,Sao Paulo,332,34,18.4,93,2.9,2,0,-3,3,6,6,4,4,0,13
+2021,Fluminense - RJ,America - MG,2 x 0,21/11/2021,17:00,Maracanã,Rio de Janeiro,331,34,22.3,93,1.8,2,0,-1,2,3,10,3,6,3,9
+2021,Internacional - RS,Flamengo - RJ,1 x 2,20/11/2021,21:30,Beira-Rio,Porto Alegre,335,34,21.1,87,15.1,1,2,-1,3,4,8,8,8,0,2
+2021,Atlético - GO,Esporte Clube Bahia - BA,2 x 1,29/11/2021,19:00,Antônio Accioly,Goiania,350,35,23.6,77,1.1,2,1,0,1,1,15,-2,2,4,17
+2021,Juventude - RS,Red Bull Bragantino - SP,1 x 0,30/11/2021,19:00,Alfredo Jaconi,Caxias do Sul,349,35,16.2,90,9.7,1,0,1,3,2,16,3,6,3,5
+2021,Athletico Paranaense - PR,Cuiabá Saf - MT,1 x 0,03/12/2021,19:00,Ligga Arena,Curitiba,348,35,16.1,97,7.9,1,0,-2,1,3,14,0,3,3,12
+2021,Sport - PE,Flamengo - RJ,1 x 1,03/12/2021,20:00,Arena Pernambuco,São Lourenço da Mata,347,35,26.2,91,3.6,1,1,-3,2,5,19,6,7,1,2
+2021,Ceará - CE,Corinthians - SP,2 x 1,25/11/2021,20:00,Arena Castelão,Fortaleza,346,35,26.6,89,7.2,2,1,5,7,2,9,2,5,3,4
+2021,Grêmio - RS,São Paulo - SP,3 x 0,02/12/2021,20:00,Arena do Grêmio,Porto Alegre,345,35,21.1,87,15.1,3,0,3,7,4,18,-2,2,4,15
+2021,America - MG,Chapecoense - SC,3 x 0,30/11/2021,21:00,Independência,Belo Horizonte,344,35,20.5,74,3.1,3,0,0,3,3,10,-6,1,7,20
+2021,Santos Fc - SP,Fortaleza - CE,2 x 0,25/11/2021,19:00,Vila Belmiro,Santos,343,35,22.8,91,2.4,2,0,0,2,2,15,-6,1,7,6
+2021,Palmeiras - SP,Atlético Mineiro - MG,2 x 2,23/11/2021,21:30,Allianz Parque,Sao Paulo,342,35,18.4,93,2.9,2,2,-4,1,5,3,4,6,2,1
+2021,Fluminense - RJ,Internacional - RS,1 x 0,24/11/2021,21:30,Maracanã,Rio de Janeiro,341,35,22.3,93,1.8,1,0,2,4,2,9,-1,3,4,10
+2021,Chapecoense - SC,Atlético - GO,0 x 1,03/12/2021,20:00,Arena Condá,Chapeco,359,36,16.3,85,5.2,0,1,-7,1,8,20,1,3,2,13
+2021,Cuiabá Saf - MT,Palmeiras - SP,1 x 3,30/11/2021,22:00,Arena Pantanal,Cuiaba,360,36,25.9,85,2.5,1,3,0,1,1,14,-3,2,5,3
+2021,Esporte Clube Bahia - BA,Grêmio - RS,3 x 1,26/11/2021,19:00,Arena Fonte Nova,Salvador,357,36,27.3,83,4.3,3,1,-2,1,3,18,8,9,1,17
+2021,Fortaleza - CE,Juventude - RS,1 x 0,03/12/2021,21:00,Arena Castelão,Fortaleza,356,36,26.6,89,7.2,1,0,-5,1,6,6,0,2,2,15
+2021,Red Bull Bragantino - SP,America - MG,1 x 1,27/11/2021,19:30,Nabi Abi Chedid,Braganca Paulista,358,36,17.4,93,3.7,1,1,-1,3,4,6,1,3,2,9
+2021,Atlético Mineiro - MG,Fluminense - RJ,2 x 1,28/11/2021,16:00,Mineirão,Belo Horizonte,354,36,20.5,74,3.1,2,1,3,5,2,1,2,3,1,7
+2021,São Paulo - SP,Sport - PE,2 x 0,27/11/2021,21:30,Morumbi,Sao Paulo,353,36,18.4,93,2.9,2,0,-1,2,3,16,-2,2,4,19
+2021,Corinthians - SP,Athletico Paranaense - PR,1 x 0,28/11/2021,16:00,Neo Química Arena,Sao Paulo,352,36,18.4,93,2.9,1,0,0,3,3,6,0,1,1,12
+2021,Flamengo - RJ,Ceará - CE,2 x 1,30/11/2021,20:00,Maracanã,Rio de Janeiro,351,36,22.3,93,1.8,2,1,2,4,2,2,5,7,2,8
+2021,Internacional - RS,Santos Fc - SP,1 x 1,28/11/2021,19:00,Beira-Rio,Porto Alegre,355,36,21.1,87,15.1,1,1,-3,1,4,10,2,4,2,13
+2021,Cuiabá Saf - MT,Fortaleza - CE,1 x 0,06/12/2021,20:00,Arena Pantanal,Cuiaba,370,37,25.9,85,2.5,1,0,-3,1,4,15,0,2,2,5
+2021,Chapecoense - SC,Sport - PE,0 x 1,06/12/2021,21:00,Arena Condá,Chapeco,369,37,16.3,85,5.2,0,1,-6,1,7,20,-5,1,6,19
+2021,Esporte Clube Bahia - BA,Fluminense - RJ,2 x 0,05/12/2021,16:00,Arena Fonte Nova,Salvador,367,37,27.3,83,4.3,2,0,1,4,3,17,2,4,2,7
+2021,Ceará - CE,America - MG,0 x 0,05/12/2021,19:00,Arena Castelão,Fortaleza,366,37,26.6,89,7.2,0,0,0,4,4,8,1,4,3,9
+2021,Athletico Paranaense - PR,Palmeiras - SP,0 x 0,06/12/2021,19:00,Ligga Arena,Curitiba,368,37,16.1,97,7.9,0,0,0,1,1,14,1,5,4,3
+2021,Atlético Mineiro - MG,Red Bull Bragantino - SP,4 x 3,05/12/2021,16:00,Mineirão,Belo Horizonte,364,37,20.5,74,3.1,4,3,3,6,3,1,2,4,2,6
+2021,São Paulo - SP,Juventude - RS,3 x 1,06/12/2021,19:00,Morumbi,Sao Paulo,363,37,18.4,93,2.9,3,1,-1,2,3,15,-2,1,3,16
+2021,Corinthians - SP,Grêmio - RS,1 x 1,05/12/2021,16:00,Neo Química Arena,Sao Paulo,362,37,18.4,93,2.9,1,1,2,4,2,4,3,7,4,18
+2021,Flamengo - RJ,Santos Fc - SP,0 x 1,06/12/2021,20:00,Maracanã,Rio de Janeiro,361,37,22.3,93,1.8,0,1,2,5,3,2,0,3,3,15
+2021,Internacional - RS,Atlético - GO,1 x 2,06/12/2021,20:00,Beira-Rio,Porto Alegre,365,37,21.1,87,15.1,1,2,-2,2,4,11,2,4,2,13
+2021,Juventude - RS,Corinthians - SP,1 x 0,09/12/2021,21:30,Alfredo Jaconi,Caxias do Sul,379,38,16.2,90,9.7,1,0,-2,2,4,17,0,3,3,4
+2021,Fluminense - RJ,Chapecoense - SC,3 x 0,09/12/2021,21:30,Maracanã,Rio de Janeiro,371,38,22.3,93,1.8,3,0,-2,2,4,7,-5,0,5,20
+2021,Palmeiras - SP,Ceará - CE,1 x 0,09/12/2021,21:30,Arena Barueri,Barueri,372,38,18.4,92,5.1,1,0,2,5,3,3,0,3,3,8
+2021,Santos Fc - SP,Cuiabá Saf - MT,1 x 1,09/12/2021,21:30,Vila Belmiro,Santos,373,38,22.8,91,2.4,1,1,3,4,1,11,-2,2,4,14
+2021,America - MG,São Paulo - SP,2 x 0,09/12/2021,21:30,Independência,Belo Horizonte,374,38,20.5,74,3.1,2,0,3,4,1,8,1,5,4,13
+2021,Grêmio - RS,Atlético Mineiro - MG,4 x 3,09/12/2021,21:30,Arena do Grêmio,Porto Alegre,375,38,21.1,87,15.1,4,3,1,5,4,18,2,8,6,1
+2021,Fortaleza - CE,Esporte Clube Bahia - BA,2 x 1,09/12/2021,21:30,Arena Castelão,Fortaleza,376,38,26.6,89,7.2,2,1,-2,1,3,5,3,6,3,18
+2021,Sport - PE,Athletico Paranaense - PR,1 x 1,09/12/2021,21:30,Arena Pernambuco,São Lourenço da Mata,377,38,26.2,91,3.6,1,1,-1,2,3,19,0,1,1,15
+2021,Red Bull Bragantino - SP,Internacional - RS,1 x 0,09/12/2021,21:30,Nabi Abi Chedid,Braganca Paulista,378,38,17.4,93,3.7,1,0,-2,4,6,7,-2,2,4,12
+2021,Atlético - GO,Flamengo - RJ,2 x 0,09/12/2021,21:30,Antônio Accioly,Goiania,380,38,23.6,77,1.1,2,0,3,5,2,11,0,3,3,2
+2022,Atlético Mineiro - MG,Internacional - RS,2 x 0,10/04/2022,16:00,Mineirão,Belo Horizonte,1,1,20.5,74,3.1,2,0,0,0,0,1,0,0,0,16
+2022,Fluminense - RJ,Santos Fc - SP,0 x 0,09/04/2022,16:30,Maracanã,Rio de Janeiro,2,1,22.3,93,1.8,0,0,0,0,0,2,0,0,0,15
+2022,São Paulo - SP,Athletico Paranaense - PR,4 x 0,10/04/2022,19:00,Morumbi,Sao Paulo,3,1,18.4,93,2.9,4,0,0,0,0,4,0,0,0,19
+2022,Palmeiras - SP,Ceará - CE,2 x 3,09/04/2022,21:00,Allianz Parque,Sao Paulo,4,1,18.4,93,2.9,2,3,0,0,0,5,0,0,0,16
+2022,Botafogo - RJ,Corinthians - SP,1 x 3,10/04/2022,16:00,Nilton Santos,Rio de Janeiro,5,1,22.3,93,1.8,1,3,0,0,0,6,0,0,0,15
+2022,Juventude - RS,Red Bull Bragantino - SP,2 x 2,11/04/2022,20:00,Alfredo Jaconi,Caxias do Sul,6,1,16.2,90,9.7,2,2,0,0,0,7,0,0,0,14
+2022,Fortaleza - CE,Cuiabá Saf - MT,0 x 1,10/04/2022,18:00,Arena Castelão,Fortaleza,7,1,26.6,89,7.2,0,1,0,0,0,9,0,0,0,16
+2022,Atlético - GO,Flamengo - RJ,1 x 1,09/04/2022,19:00,Antônio Accioly,Goiania,8,1,23.6,77,1.1,1,1,0,0,0,10,0,0,0,14
+2022,Avaí - SC,America Saf - MG,1 x 0,10/04/2022,19:00,Ressacada,Florianopolis,9,1,21.5,92,1.8,1,0,0,0,0,12,0,0,0,14
+2022,Coritiba - PR,Goiás - GO,3 x 0,10/04/2022,11:00,Couto Pereira,Curitiba,10,1,16.1,97,7.9,3,0,0,0,0,13,0,0,0,14
+2022,Athletico Paranaense - PR,Atlético Mineiro - MG,0 x 1,17/04/2022,18:00,Ligga Arena,Curitiba,20,2,16.1,97,7.9,0,1,-4,0,4,20,2,2,0,4
+2022,Cuiabá Saf - MT,Fluminense - RJ,0 x 1,16/04/2022,21:00,Arena Pantanal,Cuiaba,19,2,25.9,85,2.5,0,1,1,1,0,7,0,0,0,12
+2022,Goiás - GO,Palmeiras - SP,1 x 1,16/04/2022,16:30,Hailé Pinheiro,Goiania,18,2,23.6,77,1.1,1,1,-3,0,3,19,-1,2,3,14
+2022,Ceará - CE,Botafogo - RJ,1 x 3,17/04/2022,19:00,Arena Castelão,Fortaleza,17,2,26.6,89,7.2,1,3,1,3,2,6,-2,1,3,18
+2022,Internacional - RS,Fortaleza - CE,2 x 1,17/04/2022,18:00,Beira-Rio,Porto Alegre,16,2,21.1,87,15.1,2,1,-2,0,2,19,-1,0,1,17
+2022,Red Bull Bragantino - SP,Atlético - GO,4 x 0,17/04/2022,18:00,Nabi Abi Chedid,Braganca Paulista,13,2,17.4,93,3.7,4,0,0,2,2,12,0,1,1,13
+2022,Corinthians - SP,Avaí - SC,3 x 0,16/04/2022,19:00,Neo Química Arena,Sao Paulo,14,2,18.4,93,2.9,3,0,2,3,1,6,1,1,0,7
+2022,Flamengo - RJ,São Paulo - SP,3 x 1,17/04/2022,16:00,Maracanã,Rio de Janeiro,12,2,22.3,93,1.8,3,1,0,1,1,13,4,4,0,5
+2022,America Saf - MG,Juventude - RS,4 x 1,16/04/2022,19:00,Independência,Belo Horizonte,11,2,20.5,74,3.1,4,1,-1,0,1,18,0,2,2,13
+2022,Santos Fc - SP,Coritiba - PR,2 x 1,17/04/2022,11:00,Vila Belmiro,Santos,15,2,22.8,91,2.4,2,1,0,0,0,14,3,3,0,6
+2022,Fortaleza - CE,Ceará - CE,0 x 1,01/06/2022,20:30,Arena Castelão,Fortaleza,27,3,26.6,89,7.2,0,1,-2,1,3,19,-1,4,5,12
+2022,Athletico Paranaense - PR,Flamengo - RJ,1 x 0,23/04/2022,16:30,Ligga Arena,Curitiba,30,3,16.1,97,7.9,1,0,-5,0,5,20,2,4,2,5
+2022,Avaí - SC,Goiás - GO,3 x 2,25/04/2022,20:00,Ressacada,Florianopolis,29,3,21.5,92,1.8,3,2,-2,1,3,14,-3,1,4,18
+2022,Atlético - GO,Botafogo - RJ,1 x 1,24/04/2022,18:30,Antônio Accioly,Goiania,28,3,23.6,77,1.1,1,1,-4,1,5,19,0,4,4,12
+2022,Juventude - RS,Cuiabá Saf - MT,0 x 1,24/04/2022,18:00,Alfredo Jaconi,Caxias do Sul,26,3,16.2,90,9.7,0,1,-3,3,6,18,0,1,1,13
+2022,Fluminense - RJ,Internacional - RS,0 x 1,23/04/2022,19:00,Maracanã,Rio de Janeiro,22,3,22.3,93,1.8,0,1,1,1,0,9,-1,2,3,14
+2022,Palmeiras - SP,Corinthians - SP,3 x 0,23/04/2022,19:00,Arena Barueri,Barueri,24,3,18.4,92,5.1,3,0,-1,3,4,17,5,6,1,1
+2022,Red Bull Bragantino - SP,São Paulo - SP,1 x 1,23/04/2022,16:30,Nabi Abi Chedid,Braganca Paulista,23,3,17.4,93,3.7,1,1,4,6,2,7,2,5,3,13
+2022,Atlético Mineiro - MG,Coritiba - PR,2 x 2,23/04/2022,21:00,Independência,Belo Horizonte,21,3,20.5,74,3.1,2,2,3,3,0,1,2,4,2,14
+2022,Santos Fc - SP,America Saf - MG,3 x 0,24/04/2022,16:00,Vila Belmiro,Santos,25,3,22.8,91,2.4,3,0,1,2,1,12,2,4,2,15
+2022,Coritiba - PR,Fluminense - RJ,3 x 2,01/05/2022,16:00,Couto Pereira,Curitiba,40,4,16.1,97,7.9,3,2,2,6,4,11,0,1,1,14
+2022,Cuiabá Saf - MT,Atlético - GO,1 x 1,30/04/2022,19:00,Arena Pantanal,Cuiaba,39,4,25.9,85,2.5,1,1,1,2,1,5,-4,2,6,17
+2022,Goiás - GO,Atlético Mineiro - MG,2 x 2,30/04/2022,18:30,Hailé Pinheiro,Goiania,38,4,23.6,77,1.1,2,2,-4,3,7,19,3,5,2,3
+2022,Ceará - CE,Red Bull Bragantino - SP,0 x 1,30/04/2022,16:30,Arena Castelão,Fortaleza,37,4,26.6,89,7.2,0,1,0,5,5,6,4,7,3,9
+2022,Internacional - RS,Avaí - SC,0 x 0,01/05/2022,19:00,Beira-Rio,Porto Alegre,36,4,21.1,87,15.1,0,0,0,3,3,7,-1,4,5,9
+2022,Botafogo - RJ,Juventude - RS,1 x 1,01/05/2022,11:00,Nilton Santos,Rio de Janeiro,35,4,22.3,93,1.8,1,1,0,5,5,13,-4,3,7,19
+2022,São Paulo - SP,Santos Fc - SP,2 x 1,02/05/2022,20:00,Morumbi,Sao Paulo,33,4,18.4,93,2.9,2,1,2,6,4,11,4,5,1,3
+2022,Flamengo - RJ,Palmeiras - SP,0 x 0,20/04/2022,19:30,Maracanã,Rio de Janeiro,32,4,22.3,93,1.8,0,0,1,4,3,13,2,6,4,12
+2022,America Saf - MG,Athletico Paranaense - PR,1 x 0,30/04/2022,16:30,Independência,Belo Horizonte,31,4,20.5,74,3.1,1,0,-1,4,5,15,-4,1,5,17
+2022,Corinthians - SP,Fortaleza - CE,1 x 0,01/05/2022,16:00,Neo Química Arena,Sao Paulo,34,4,18.4,93,2.9,1,0,2,6,4,9,-3,1,4,20
+2022,Fortaleza - CE,São Paulo - SP,1 x 1,08/05/2022,19:00,Arena Castelão,Fortaleza,47,5,26.6,89,7.2,1,1,-3,1,4,20,-1,4,5,5
+2022,Athletico Paranaense - PR,Ceará - CE,1 x 0,07/05/2022,20:30,Ligga Arena,Curitiba,50,5,16.1,97,7.9,1,0,-1,1,2,17,-2,2,4,11
+2022,Avaí - SC,Coritiba - PR,2 x 1,09/05/2022,20:00,Ressacada,Florianopolis,49,5,21.5,92,1.8,2,1,-2,3,5,9,0,6,6,5
+2022,Juventude - RS,Internacional - RS,1 x 1,08/05/2022,19:00,Alfredo Jaconi,Caxias do Sul,46,5,16.2,90,9.7,1,1,-4,2,6,19,2,3,1,9
+2022,Atlético - GO,Goiás - GO,0 x 1,08/05/2022,16:00,Antônio Accioly,Goiania,48,5,23.6,77,1.1,0,1,-4,2,6,18,-1,5,6,19
+2022,Palmeiras - SP,Fluminense - RJ,1 x 1,08/05/2022,16:00,Allianz Parque,Sao Paulo,44,5,18.4,93,2.9,1,1,3,4,1,13,-1,3,4,17
+2022,Red Bull Bragantino - SP,Corinthians - SP,0 x 1,08/05/2022,18:00,Nabi Abi Chedid,Braganca Paulista,43,5,17.4,93,3.7,0,1,5,6,1,3,1,4,3,2
+2022,Santos Fc - SP,Cuiabá Saf - MT,4 x 1,08/05/2022,18:00,Vila Belmiro,Santos,45,5,22.8,91,2.4,4,1,3,6,3,7,0,2,2,9
+2022,Flamengo - RJ,Botafogo - RJ,0 x 1,08/05/2022,11:00,Mané Garrincha,Brasilia,42,5,20.1,88,3.3,0,1,1,3,2,14,2,5,3,15
+2022,Atlético Mineiro - MG,America Saf - MG,1 x 2,07/05/2022,16:30,Independência,Belo Horizonte,41,5,20.5,74,3.1,1,2,1,5,4,6,1,5,4,12
+2022,Coritiba - PR,America Saf - MG,1 x 0,15/05/2022,17:30,Couto Pereira,Curitiba,60,6,16.1,97,7.9,1,0,0,6,6,10,-1,3,4,4
+2022,Avaí - SC,Juventude - RS,1 x 2,15/05/2022,18:00,Ressacada,Florianopolis,59,6,21.5,92,1.8,1,2,2,5,3,4,-1,2,3,18
+2022,Goiás - GO,Santos Fc - SP,1 x 0,15/05/2022,19:00,Hailé Pinheiro,Goiania,58,6,23.6,77,1.1,1,0,0,5,5,18,5,8,3,2
+2022,Ceará - CE,Flamengo - RJ,2 x 2,14/05/2022,16:30,Arena Castelão,Fortaleza,57,6,26.6,89,7.2,2,2,-1,1,2,14,-2,0,2,17
+2022,Internacional - RS,Corinthians - SP,2 x 2,14/05/2022,19:00,Beira-Rio,Porto Alegre,56,6,21.1,87,15.1,2,2,1,2,1,10,-1,2,3,1
+2022,Botafogo - RJ,Fortaleza - CE,3 x 1,15/05/2022,18:00,Nilton Santos,Rio de Janeiro,55,6,22.3,93,1.8,3,1,1,3,2,10,-2,1,3,20
+2022,Palmeiras - SP,Red Bull Bragantino - SP,2 x 0,14/05/2022,16:30,Allianz Parque,Sao Paulo,54,6,18.4,93,2.9,2,0,3,4,1,14,0,2,2,8
+2022,São Paulo - SP,Cuiabá Saf - MT,2 x 1,15/05/2022,16:00,Morumbi,Sao Paulo,53,6,18.4,93,2.9,2,1,1,4,3,9,-2,3,5,14
+2022,Fluminense - RJ,Athletico Paranaense - PR,2 x 1,14/05/2022,21:00,Raulino de Oliveira,Volta Redonda,52,6,19.9,94,0.4,2,1,-2,3,5,18,1,2,1,17
+2022,Atlético Mineiro - MG,Atlético - GO,2 x 0,14/05/2022,19:00,Independência,Belo Horizonte,51,6,20.5,74,3.1,2,0,-1,5,6,10,-1,2,3,19
+2022,Cuiabá Saf - MT,Internacional - RS,1 x 1,21/05/2022,21:00,Arena Pantanal,Cuiaba,69,7,25.9,85,2.5,1,1,-4,3,7,15,0,3,3,10
+2022,Atlético - GO,Coritiba - PR,2 x 0,21/05/2022,16:30,Antônio Accioly,Goiania,68,7,23.6,77,1.1,2,0,-3,1,4,19,1,5,4,6
+2022,Fortaleza - CE,Fluminense - RJ,0 x 1,22/05/2022,16:00,Arena Castelão,Fortaleza,67,7,26.6,89,7.2,0,1,-3,2,5,20,0,5,5,12
+2022,Juventude - RS,Palmeiras - SP,0 x 3,21/05/2022,19:00,Alfredo Jaconi,Caxias do Sul,66,7,16.2,90,9.7,0,3,1,4,3,17,2,3,1,10
+2022,Athletico Paranaense - PR,Avaí - SC,2 x 1,22/05/2022,19:00,Ligga Arena,Curitiba,70,7,16.1,97,7.9,2,1,-1,2,3,18,0,3,3,10
+2022,Corinthians - SP,São Paulo - SP,1 x 1,22/05/2022,16:00,Neo Química Arena,Sao Paulo,64,7,18.4,93,2.9,1,1,2,4,2,1,2,5,3,3
+2022,Red Bull Bragantino - SP,Atlético Mineiro - MG,1 x 1,11/05/2022,20:30,Nabi Abi Chedid,Braganca Paulista,63,7,17.4,93,3.7,1,1,-2,1,3,13,1,5,4,4
+2022,Flamengo - RJ,Goiás - GO,1 x 0,21/05/2022,16:30,Maracanã,Rio de Janeiro,62,7,22.3,93,1.8,1,0,-1,2,3,17,2,4,2,14
+2022,America Saf - MG,Botafogo - RJ,1 x 1,21/05/2022,21:00,Independência,Belo Horizonte,61,7,20.5,74,3.1,1,1,1,3,2,13,3,5,2,5
+2022,Santos Fc - SP,Ceará - CE,0 x 0,21/05/2022,18:30,Arena Barueri,Barueri,65,7,18.4,92,5.1,0,0,1,5,4,7,-2,2,4,17
+2022,Cuiabá Saf - MT,Athletico Paranaense - PR,0 x 1,29/05/2022,18:00,Arena Pantanal,Cuiaba,79,8,25.9,85,2.5,0,1,-4,3,7,17,1,4,3,14
+2022,Goiás - GO,Red Bull Bragantino - SP,1 x 1,28/05/2022,16:30,Hailé Pinheiro,Goiania,78,8,23.6,77,1.1,1,1,1,2,1,16,-3,1,4,13
+2022,Fortaleza - CE,Juventude - RS,1 x 1,28/05/2022,20:30,Arena Castelão,Fortaleza,77,8,26.6,89,7.2,1,1,-3,2,5,20,-2,3,5,19
+2022,Internacional - RS,Atlético - GO,1 x 1,30/05/2022,20:00,Beira-Rio,Porto Alegre,76,8,21.1,87,15.1,1,1,0,4,4,12,-1,2,3,19
+2022,Coritiba - PR,Botafogo - RJ,1 x 0,29/05/2022,16:00,Couto Pereira,Curitiba,80,8,16.1,97,7.9,1,0,-2,2,4,11,3,5,2,5
+2022,Corinthians - SP,America Saf - MG,1 x 1,29/05/2022,18:00,Neo Química Arena,Sao Paulo,74,8,18.4,93,2.9,1,1,1,4,3,1,0,3,3,12
+2022,São Paulo - SP,Ceará - CE,2 x 2,28/05/2022,19:00,Morumbi,Sao Paulo,73,8,18.4,93,2.9,2,2,1,4,3,4,-1,2,3,16
+2022,Fluminense - RJ,Flamengo - RJ,1 x 2,29/05/2022,18:00,Maracanã,Rio de Janeiro,72,8,22.3,93,1.8,1,2,2,4,2,9,0,3,3,14
+2022,Atlético Mineiro - MG,Avaí - SC,2 x 1,29/05/2022,19:00,Mineirão,Belo Horizonte,71,8,20.5,74,3.1,2,1,1,4,3,5,-1,4,5,14
+2022,Santos Fc - SP,Palmeiras - SP,0 x 1,29/05/2022,16:00,Vila Belmiro,Santos,75,8,22.8,91,2.4,0,1,2,4,2,9,5,6,1,5
+2022,Athletico Paranaense - PR,Santos Fc - SP,2 x 2,04/06/2022,19:00,Ligga Arena,Curitiba,90,9,16.1,97,7.9,2,2,1,4,3,8,-2,0,2,9
+2022,Avaí - SC,São Paulo - SP,1 x 1,04/06/2022,19:00,Ressacada,Florianopolis,89,9,21.5,92,1.8,1,1,-3,3,6,14,1,5,4,4
+2022,Atlético - GO,Corinthians - SP,0 x 1,04/06/2022,20:30,Antônio Accioly,Goiania,88,9,23.6,77,1.1,0,1,0,3,3,18,0,4,4,3
+2022,Ceará - CE,Coritiba - PR,1 x 1,04/06/2022,19:00,Arena Castelão,Fortaleza,87,9,26.6,89,7.2,1,1,0,4,4,15,0,2,2,5
+2022,Juventude - RS,Fluminense - RJ,1 x 0,05/06/2022,11:00,Alfredo Jaconi,Caxias do Sul,86,9,16.2,90,9.7,1,0,-2,3,5,18,1,4,3,11
+2022,Botafogo - RJ,Goiás - GO,1 x 2,06/06/2022,20:00,Nilton Santos,Rio de Janeiro,85,9,22.3,93,1.8,1,2,1,4,3,8,0,2,2,17
+2022,Red Bull Bragantino - SP,Internacional - RS,0 x 2,05/06/2022,19:00,Nabi Abi Chedid,Braganca Paulista,83,9,17.4,93,3.7,0,2,-2,2,4,15,0,4,4,12
+2022,Flamengo - RJ,Fortaleza - CE,1 x 2,05/06/2022,16:00,Maracanã,Rio de Janeiro,82,9,22.3,93,1.8,1,2,2,5,3,9,-3,2,5,20
+2022,America Saf - MG,Cuiabá Saf - MT,2 x 1,04/06/2022,16:30,Independência,Belo Horizonte,81,9,20.5,74,3.1,2,1,-1,2,3,12,-2,2,4,18
+2022,Palmeiras - SP,Atlético Mineiro - MG,0 x 0,05/06/2022,16:00,Allianz Parque,Sao Paulo,84,9,18.4,93,2.9,0,0,6,6,0,2,3,5,2,3
+2022,Fortaleza - CE,Goiás - GO,1 x 1,09/06/2022,20:00,Arena Castelão,Fortaleza,97,10,26.6,89,7.2,1,1,0,3,3,20,0,3,3,12
+2022,Coritiba - PR,São Paulo - SP,1 x 1,09/06/2022,20:00,Couto Pereira,Curitiba,100,10,16.1,97,7.9,1,1,-1,2,3,5,0,4,4,4
+2022,Cuiabá Saf - MT,Corinthians - SP,1 x 0,07/06/2022,21:30,Arena Pantanal,Cuiaba,99,10,25.9,85,2.5,1,0,-2,2,4,18,1,3,2,1
+2022,Atlético - GO,Avaí - SC,2 x 1,08/06/2022,20:30,Antônio Accioly,Goiania,98,10,23.6,77,1.1,2,1,1,3,2,19,-2,3,5,14
+2022,Juventude - RS,Athletico Paranaense - PR,1 x 3,08/06/2022,19:00,Alfredo Jaconi,Caxias do Sul,96,10,16.2,90,9.7,1,3,-2,2,4,18,2,5,3,9
+2022,Fluminense - RJ,Atlético Mineiro - MG,5 x 3,08/06/2022,21:30,Maracanã,Rio de Janeiro,92,10,22.3,93,1.8,5,3,-1,2,3,13,1,3,2,3
+2022,Palmeiras - SP,Botafogo - RJ,4 x 0,09/06/2022,19:00,Allianz Parque,Sao Paulo,94,10,18.4,93,2.9,4,0,4,4,0,2,-2,2,4,12
+2022,Red Bull Bragantino - SP,Flamengo - RJ,1 x 0,08/06/2022,20:30,Nabi Abi Chedid,Braganca Paulista,93,10,17.4,93,3.7,1,0,-2,2,4,16,1,4,3,12
+2022,Santos Fc - SP,Internacional - RS,1 x 1,08/06/2022,21:30,Vila Belmiro,Santos,95,10,22.8,91,2.4,1,1,-1,2,3,12,2,4,2,7
+2022,America Saf - MG,Ceará - CE,0 x 2,08/06/2022,19:00,Independência,Belo Horizonte,91,10,20.5,74,3.1,0,2,1,4,3,9,0,3,3,17
+2022,Coritiba - PR,Palmeiras - SP,0 x 2,12/06/2022,18:00,Couto Pereira,Curitiba,110,11,16.1,97,7.9,0,2,1,3,2,6,5,5,0,1
+2022,Cuiabá Saf - MT,Red Bull Bragantino - SP,1 x 1,11/06/2022,19:00,Arena Pantanal,Cuiaba,109,11,25.9,85,2.5,1,1,-1,2,3,17,-1,2,3,11
+2022,Goiás - GO,Ceará - CE,1 x 1,12/06/2022,16:00,Hailé Pinheiro,Goiania,108,11,23.6,77,1.1,1,1,1,4,3,13,2,5,3,12
+2022,Fortaleza - CE,Athletico Paranaense - PR,0 x 0,12/06/2022,19:00,Arena Castelão,Fortaleza,107,11,26.6,89,7.2,0,0,1,4,3,20,3,6,3,4
+2022,Internacional - RS,Flamengo - RJ,3 x 1,11/06/2022,21:00,Beira-Rio,Porto Alegre,106,11,21.1,87,15.1,3,1,2,4,2,6,-1,3,4,14
+2022,Corinthians - SP,Juventude - RS,2 x 0,11/06/2022,16:30,Neo Química Arena,Sao Paulo,104,11,18.4,93,2.9,2,0,0,2,2,3,-1,3,4,19
+2022,São Paulo - SP,America Saf - MG,1 x 0,12/06/2022,16:00,Morumbi,Sao Paulo,103,11,18.4,93,2.9,1,0,0,4,4,6,-1,3,4,11
+2022,Fluminense - RJ,Atlético - GO,0 x 2,11/06/2022,19:00,Maracanã,Rio de Janeiro,102,11,22.3,93,1.8,0,2,0,6,6,8,0,3,3,18
+2022,Atlético Mineiro - MG,Santos Fc - SP,1 x 1,11/06/2022,19:00,Mineirão,Belo Horizonte,101,11,20.5,74,3.1,1,1,-1,5,6,6,-1,3,4,13
+2022,Botafogo - RJ,Avaí - SC,0 x 1,13/06/2022,19:00,Nilton Santos,Rio de Janeiro,105,11,22.3,93,1.8,0,1,-6,1,7,16,-2,3,5,18
+2022,Ceará - CE,Atlético Mineiro - MG,0 x 0,15/06/2022,19:00,Arena Castelão,Fortaleza,117,12,26.6,89,7.2,0,0,2,4,2,10,-2,4,6,5
+2022,Athletico Paranaense - PR,Corinthians - SP,1 x 1,15/06/2022,21:30,Ligga Arena,Curitiba,120,12,16.1,97,7.9,1,1,2,5,3,6,2,3,1,2
+2022,Avaí - SC,Fortaleza - CE,3 x 2,16/06/2022,19:00,Ressacada,Florianopolis,119,12,21.5,92,1.8,3,2,0,3,3,14,1,3,2,20
+2022,Goiás - GO,Internacional - RS,1 x 2,15/06/2022,20:30,Hailé Pinheiro,Goiania,118,12,23.6,77,1.1,1,2,1,4,3,13,4,6,2,4
+2022,Juventude - RS,Santos Fc - SP,1 x 2,14/06/2022,21:30,Alfredo Jaconi,Caxias do Sul,116,12,16.2,90,9.7,1,2,-3,2,5,19,0,4,4,10
+2022,Botafogo - RJ,São Paulo - SP,1 x 0,16/06/2022,16:00,Nilton Santos,Rio de Janeiro,115,12,22.3,93,1.8,1,0,-6,1,7,17,1,3,2,4
+2022,Palmeiras - SP,Atlético - GO,4 x 2,16/06/2022,18:00,Allianz Parque,Sao Paulo,114,12,18.4,93,2.9,4,2,6,6,0,1,2,4,2,16
+2022,Red Bull Bragantino - SP,Coritiba - PR,4 x 2,15/06/2022,19:00,Nabi Abi Chedid,Braganca Paulista,113,12,17.4,93,3.7,4,2,-1,2,3,12,-2,2,4,9
+2022,Flamengo - RJ,Cuiabá Saf - MT,2 x 0,15/06/2022,20:30,Maracanã,Rio de Janeiro,112,12,22.3,93,1.8,2,0,-4,2,6,17,0,3,3,18
+2022,America Saf - MG,Fluminense - RJ,0 x 0,15/06/2022,21:30,Independência,Belo Horizonte,111,12,20.5,74,3.1,0,0,-2,2,4,15,-1,5,6,14
+2022,Coritiba - PR,Athletico Paranaense - PR,0 x 1,19/06/2022,16:00,Couto Pereira,Curitiba,130,13,16.1,97,7.9,0,1,-4,3,7,13,2,4,2,6
+2022,Cuiabá Saf - MT,Ceará - CE,0 x 0,18/06/2022,19:00,Arena Pantanal,Cuiaba,129,13,25.9,85,2.5,0,0,-1,2,3,18,2,3,1,11
+2022,Atlético - GO,Juventude - RS,3 x 1,19/06/2022,18:00,Antônio Accioly,Goiania,128,13,23.6,77,1.1,3,1,1,6,5,17,-5,2,7,19
+2022,Fortaleza - CE,America Saf - MG,1 x 0,19/06/2022,18:00,Arena Castelão,Fortaleza,127,13,26.6,89,7.2,1,0,-1,3,4,20,-3,0,3,14
+2022,Internacional - RS,Botafogo - RJ,2 x 3,19/06/2022,18:00,Beira-Rio,Porto Alegre,126,13,21.1,87,15.1,2,3,3,6,3,3,-4,1,5,15
+2022,Santos Fc - SP,Red Bull Bragantino - SP,2 x 2,18/06/2022,21:00,Vila Belmiro,Santos,125,13,22.8,91,2.4,2,2,1,4,3,8,3,6,3,9
+2022,Corinthians - SP,Goiás - GO,1 x 0,19/06/2022,16:00,Neo Química Arena,Sao Paulo,124,13,18.4,93,2.9,1,0,1,3,2,2,-1,3,4,17
+2022,São Paulo - SP,Palmeiras - SP,1 x 2,20/06/2022,20:00,Morumbi,Sao Paulo,123,13,18.4,93,2.9,1,2,0,2,2,6,8,10,2,1
+2022,Fluminense - RJ,Avaí - SC,2 x 0,19/06/2022,19:00,Maracanã,Rio de Janeiro,122,13,22.3,93,1.8,2,0,0,5,5,14,1,5,4,10
+2022,Atlético Mineiro - MG,Flamengo - RJ,2 x 0,19/06/2022,16:00,Mineirão,Belo Horizonte,121,13,20.5,74,3.1,2,0,-2,4,6,8,-1,3,4,14
+2022,Avaí - SC,Palmeiras - SP,2 x 2,26/06/2022,16:00,Ressacada,Florianopolis,139,14,21.5,92,1.8,2,2,0,4,4,11,5,8,3,1
+2022,Goiás - GO,Cuiabá Saf - MT,1 x 0,26/06/2022,18:00,Hailé Pinheiro,Goiania,138,14,23.6,77,1.1,1,0,-2,2,4,17,-2,1,3,18
+2022,Ceará - CE,Atlético - GO,1 x 1,26/06/2022,18:00,Arena Castelão,Fortaleza,137,14,26.6,89,7.2,1,1,0,1,1,13,2,7,5,14
+2022,Internacional - RS,Coritiba - PR,3 x 0,24/06/2022,21:30,Beira-Rio,Porto Alegre,136,14,21.1,87,15.1,3,0,2,7,5,4,-5,2,7,16
+2022,Athletico Paranaense - PR,Red Bull Bragantino - SP,4 x 2,25/06/2022,16:30,Ligga Arena,Curitiba,140,14,16.1,97,7.9,4,2,1,2,1,5,2,7,5,8
+2022,Corinthians - SP,Santos Fc - SP,0 x 0,25/06/2022,19:00,Neo Química Arena,Sao Paulo,134,14,18.4,93,2.9,0,0,3,4,1,2,1,5,4,6
+2022,São Paulo - SP,Juventude - RS,0 x 0,26/06/2022,18:00,Morumbi,Sao Paulo,133,14,18.4,93,2.9,0,0,-1,2,3,7,-5,2,7,20
+2022,Flamengo - RJ,America Saf - MG,3 x 0,25/06/2022,19:00,Maracanã,Rio de Janeiro,132,14,22.3,93,1.8,3,0,-2,3,5,15,-2,0,2,16
+2022,Atlético Mineiro - MG,Fortaleza - CE,3 x 2,25/06/2022,21:00,Mineirão,Belo Horizonte,131,14,20.5,74,3.1,3,2,2,3,1,5,0,3,3,20
+2022,Botafogo - RJ,Fluminense - RJ,0 x 1,26/06/2022,16:00,Nilton Santos,Rio de Janeiro,135,14,22.3,93,1.8,0,1,1,4,3,11,0,2,2,10
+2022,Coritiba - PR,Fortaleza - CE,2 x 1,03/07/2022,18:00,Couto Pereira,Curitiba,150,15,16.1,97,7.9,2,1,-6,2,8,16,-1,5,6,20
+2022,Avaí - SC,Cuiabá Saf - MT,1 x 2,03/07/2022,11:00,Ressacada,Florianopolis,149,15,21.5,92,1.8,1,2,-1,5,6,12,-3,0,3,18
+2022,Atlético - GO,São Paulo - SP,1 x 2,03/07/2022,16:00,Antônio Accioly,Goiania,148,15,23.6,77,1.1,1,2,0,6,6,15,-2,1,3,8
+2022,Ceará - CE,Internacional - RS,1 x 1,02/07/2022,19:00,Arena Castelão,Fortaleza,147,15,26.6,89,7.2,1,1,0,1,1,14,3,7,4,3
+2022,Juventude - RS,Atlético Mineiro - MG,1 x 2,02/07/2022,16:30,Alfredo Jaconi,Caxias do Sul,146,15,16.2,90,9.7,1,2,-3,2,5,19,3,5,2,4
+2022,Santos Fc - SP,Flamengo - RJ,1 x 2,02/07/2022,19:00,Vila Belmiro,Santos,145,15,22.8,91,2.4,1,2,1,4,3,8,3,5,2,10
+2022,Palmeiras - SP,Athletico Paranaense - PR,0 x 2,02/07/2022,21:00,Allianz Parque,Sao Paulo,144,15,18.4,93,2.9,0,2,3,8,5,1,3,6,3,5
+2022,Red Bull Bragantino - SP,Botafogo - RJ,0 x 1,04/07/2022,20:00,Nabi Abi Chedid,Braganca Paulista,143,15,17.4,93,3.7,0,1,0,8,8,10,1,4,3,12
+2022,Fluminense - RJ,Corinthians - SP,4 x 0,02/07/2022,16:30,Maracanã,Rio de Janeiro,142,15,22.3,93,1.8,4,0,3,3,0,8,1,2,1,4
+2022,America Saf - MG,Goiás - GO,1 x 0,03/07/2022,18:00,Independência,Belo Horizonte,141,15,20.5,74,3.1,1,0,-4,0,4,18,-1,2,3,15
+2022,Cuiabá Saf - MT,Botafogo - RJ,2 x 0,10/07/2022,19:00,Arena Pantanal,Cuiaba,159,16,25.9,85,2.5,2,0,0,2,2,18,1,4,3,9
+2022,Goiás - GO,Athletico Paranaense - PR,2 x 1,09/07/2022,20:30,Hailé Pinheiro,Goiania,158,16,23.6,77,1.1,2,1,-1,1,2,18,5,7,2,3
+2022,Fortaleza - CE,Palmeiras - SP,0 x 0,10/07/2022,18:00,Arena Castelão,Fortaleza,157,16,26.6,89,7.2,0,0,-1,4,5,20,-1,4,5,1
+2022,Internacional - RS,America Saf - MG,1 x 0,11/07/2022,20:00,Beira-Rio,Porto Alegre,156,16,21.1,87,15.1,1,0,2,6,4,5,-3,1,4,17
+2022,Coritiba - PR,Juventude - RS,2 x 2,10/07/2022,11:00,Couto Pereira,Curitiba,160,16,16.1,97,7.9,2,2,-3,2,5,16,-3,2,5,20
+2022,Corinthians - SP,Flamengo - RJ,1 x 0,10/07/2022,16:00,Neo Química Arena,Sao Paulo,154,16,18.4,93,2.9,1,0,-3,1,4,5,2,5,3,8
+2022,Red Bull Bragantino - SP,Avaí - SC,4 x 0,09/07/2022,16:30,Nabi Abi Chedid,Braganca Paulista,153,16,17.4,93,3.7,4,0,-3,4,7,14,-3,3,6,16
+2022,Fluminense - RJ,Ceará - CE,2 x 1,09/07/2022,19:00,Maracanã,Rio de Janeiro,152,16,22.3,93,1.8,2,1,7,7,0,6,0,2,2,15
+2022,Atlético Mineiro - MG,São Paulo - SP,0 x 0,10/07/2022,18:00,Mineirão,Belo Horizonte,151,16,20.5,74,3.1,0,0,4,7,3,4,0,3,3,7
+2022,Santos Fc - SP,Atlético - GO,1 x 0,10/07/2022,18:00,Vila Belmiro,Santos,155,16,22.8,91,2.4,1,0,-1,3,4,12,1,5,4,18
+2022,Avaí - SC,Santos Fc - SP,1 x 0,16/07/2022,19:00,Ressacada,Florianopolis,169,17,21.5,92,1.8,1,0,-5,3,8,17,0,2,2,8
+2022,Atlético - GO,Fortaleza - CE,0 x 1,17/07/2022,18:00,Antônio Accioly,Goiania,168,17,23.6,77,1.1,0,1,-2,2,4,18,-2,3,5,20
+2022,Ceará - CE,Corinthians - SP,3 x 1,16/07/2022,21:00,Arena Castelão,Fortaleza,167,17,26.6,89,7.2,3,1,-1,3,4,16,-3,1,4,2
+2022,Juventude - RS,Goiás - GO,0 x 0,17/07/2022,11:00,Alfredo Jaconi,Caxias do Sul,166,17,16.2,90,9.7,0,0,-1,3,4,20,1,3,2,14
+2022,Athletico Paranaense - PR,Internacional - RS,0 x 0,16/07/2022,16:30,Ligga Arena,Curitiba,170,17,16.1,97,7.9,0,0,3,7,4,6,4,5,1,3
+2022,Palmeiras - SP,Cuiabá Saf - MT,1 x 0,18/07/2022,20:00,Allianz Parque,Sao Paulo,164,17,18.4,93,2.9,1,0,-2,2,4,1,2,4,2,15
+2022,São Paulo - SP,Fluminense - RJ,2 x 2,17/07/2022,16:00,Morumbi,Sao Paulo,163,17,18.4,93,2.9,2,2,1,2,1,7,6,7,1,6
+2022,Flamengo - RJ,Coritiba - PR,2 x 0,16/07/2022,19:00,Mané Garrincha,Brasilia,162,17,20.1,88,3.3,2,0,3,5,2,11,-2,4,6,15
+2022,America Saf - MG,Red Bull Bragantino - SP,0 x 3,17/07/2022,19:00,Independência,Belo Horizonte,161,17,20.5,74,3.1,0,3,-3,1,4,17,1,6,5,10
+2022,Botafogo - RJ,Atlético Mineiro - MG,0 x 1,17/07/2022,18:00,Nilton Santos,Rio de Janeiro,165,17,22.3,93,1.8,0,1,-2,1,3,13,2,5,3,4
+2022,Athletico Paranaense - PR,Atlético - GO,4 x 1,20/07/2022,19:30,Ligga Arena,Curitiba,180,18,16.1,97,7.9,4,1,1,3,2,6,-3,1,4,18
+2022,Cuiabá Saf - MT,Atlético Mineiro - MG,1 x 1,21/07/2022,19:00,Arena Pantanal,Cuiaba,179,18,25.9,85,2.5,1,1,2,4,2,15,2,3,1,2
+2022,Goiás - GO,Fluminense - RJ,2 x 3,20/07/2022,19:00,Hailé Pinheiro,Goiania,178,18,23.6,77,1.1,2,3,0,2,2,12,5,8,3,6
+2022,Ceará - CE,Avaí - SC,1 x 0,19/07/2022,21:30,Arena Castelão,Fortaleza,177,18,26.6,89,7.2,1,0,1,5,4,11,-4,2,6,14
+2022,Internacional - RS,São Paulo - SP,3 x 3,20/07/2022,20:30,Beira-Rio,Porto Alegre,176,18,21.1,87,15.1,3,3,1,2,1,5,1,4,3,8
+2022,Santos Fc - SP,Botafogo - RJ,2 x 0,20/07/2022,21:30,Vila Belmiro,Santos,175,18,22.8,91,2.4,2,0,-1,2,3,11,-2,1,3,13
+2022,Red Bull Bragantino - SP,Fortaleza - CE,2 x 1,20/07/2022,19:00,Nabi Abi Chedid,Braganca Paulista,173,18,17.4,93,3.7,2,1,6,7,1,9,0,2,2,19
+2022,Flamengo - RJ,Juventude - RS,4 x 0,20/07/2022,20:30,Mané Garrincha,Brasilia,172,18,20.1,88,3.3,4,0,2,4,2,10,-1,3,4,20
+2022,America Saf - MG,Palmeiras - SP,0 x 1,21/07/2022,20:00,Independência,Belo Horizonte,171,18,20.5,74,3.1,0,1,-3,1,4,17,-1,1,2,1
+2022,Corinthians - SP,Coritiba - PR,3 x 1,20/07/2022,21:30,Neo Química Arena,Sao Paulo,174,18,18.4,93,2.9,3,1,-5,2,7,6,-1,4,5,16
+2022,Fortaleza - CE,Santos Fc - SP,0 x 0,24/07/2022,19:00,Arena Castelão,Fortaleza,187,19,26.6,89,7.2,0,0,0,2,2,19,2,3,1,9
+2022,Avaí - SC,Flamengo - RJ,1 x 2,24/07/2022,11:00,Ressacada,Florianopolis,189,19,21.5,92,1.8,1,2,-4,1,5,14,5,6,1,8
+2022,Atlético - GO,America Saf - MG,0 x 1,24/07/2022,18:00,Antônio Accioly,Goiania,188,19,23.6,77,1.1,0,1,-5,1,6,18,-5,0,5,17
+2022,Juventude - RS,Ceará - CE,1 x 0,24/07/2022,16:00,Alfredo Jaconi,Caxias do Sul,186,19,16.2,90,9.7,1,0,-4,2,6,20,2,5,3,11
+2022,Coritiba - PR,Cuiabá Saf - MT,1 x 0,25/07/2022,20:00,Couto Pereira,Curitiba,190,19,16.1,97,7.9,1,0,-4,3,7,17,1,3,2,16
+2022,Palmeiras - SP,Internacional - RS,2 x 1,24/07/2022,16:00,Allianz Parque,Sao Paulo,184,19,18.4,93,2.9,2,1,2,2,0,1,1,4,3,7
+2022,São Paulo - SP,Goiás - GO,3 x 3,23/07/2022,19:00,Morumbi,Sao Paulo,183,19,18.4,93,2.9,3,3,0,5,5,10,0,4,4,13
+2022,Fluminense - RJ,Red Bull Bragantino - SP,2 x 1,24/07/2022,16:00,Raulino de Oliveira,Volta Redonda,182,19,19.9,94,0.4,2,1,2,7,5,4,8,9,1,8
+2022,Atlético Mineiro - MG,Corinthians - SP,1 x 2,24/07/2022,18:00,Mineirão,Belo Horizonte,181,19,20.5,74,3.1,1,2,1,2,1,3,1,5,4,4
+2022,Botafogo - RJ,Athletico Paranaense - PR,2 x 0,23/07/2022,21:00,Nilton Santos,Rio de Janeiro,185,19,22.3,93,1.8,2,0,-5,0,5,14,2,5,3,5
+2022,Athletico Paranaense - PR,São Paulo - SP,1 x 0,31/07/2022,16:00,Ligga Arena,Curitiba,200,20,16.1,97,7.9,1,0,1,4,3,5,0,8,8,10
+2022,Cuiabá Saf - MT,Fortaleza - CE,0 x 1,31/07/2022,18:00,Arena Pantanal,Cuiaba,199,20,25.9,85,2.5,0,1,-2,1,3,17,0,2,2,20
+2022,Goiás - GO,Coritiba - PR,1 x 0,30/07/2022,16:30,Hailé Pinheiro,Goiania,198,20,23.6,77,1.1,1,0,-1,5,6,13,-3,2,5,14
+2022,Ceará - CE,Palmeiras - SP,1 x 2,30/07/2022,16:30,Arena Castelão,Fortaleza,197,20,26.6,89,7.2,1,2,2,4,2,12,3,4,1,1
+2022,Internacional - RS,Atlético Mineiro - MG,3 x 0,31/07/2022,16:00,Beira-Rio,Porto Alegre,196,20,21.1,87,15.1,3,0,-1,4,5,7,0,3,3,5
+2022,Santos Fc - SP,Fluminense - RJ,2 x 2,01/08/2022,20:00,Vila Belmiro,Santos,195,20,22.8,91,2.4,2,2,1,2,1,9,2,7,5,3
+2022,Corinthians - SP,Botafogo - RJ,1 x 0,30/07/2022,19:00,Neo Química Arena,Sao Paulo,194,20,18.4,93,2.9,1,0,1,6,5,3,-1,2,3,13
+2022,Red Bull Bragantino - SP,Juventude - RS,1 x 0,31/07/2022,19:00,Nabi Abi Chedid,Braganca Paulista,193,20,17.4,93,3.7,1,0,3,6,3,8,-3,1,4,20
+2022,Flamengo - RJ,Atlético - GO,4 x 1,30/07/2022,20:30,Maracanã,Rio de Janeiro,192,20,22.3,93,1.8,4,1,7,8,1,8,-5,1,6,19
+2022,America Saf - MG,Avaí - SC,3 x 1,31/07/2022,18:00,Independência,Belo Horizonte,191,20,20.5,74,3.1,3,1,-3,1,4,15,-1,2,3,16
+2022,Avaí - SC,Corinthians - SP,1 x 1,06/08/2022,19:00,Ressacada,Florianopolis,209,21,21.5,92,1.8,1,1,-4,2,6,16,4,6,2,2
+2022,Atlético - GO,Red Bull Bragantino - SP,2 x 1,06/08/2022,19:00,Antônio Accioly,Goiania,208,21,23.6,77,1.1,2,1,-7,2,9,19,1,4,3,8
+2022,Fortaleza - CE,Internacional - RS,3 x 0,07/08/2022,18:00,Arena Castelão,Fortaleza,207,21,26.6,89,7.2,3,0,0,2,2,19,2,7,5,6
+2022,Juventude - RS,America Saf - MG,0 x 1,06/08/2022,16:30,Alfredo Jaconi,Caxias do Sul,206,21,16.2,90,9.7,0,1,-4,1,5,20,2,4,2,14
+2022,Coritiba - PR,Santos Fc - SP,1 x 2,08/08/2022,20:00,Couto Pereira,Curitiba,210,21,16.1,97,7.9,1,2,-2,2,4,15,2,4,2,9
+2022,Palmeiras - SP,Goiás - GO,3 x 0,07/08/2022,16:00,Allianz Parque,Sao Paulo,204,21,18.4,93,2.9,3,0,3,5,2,1,0,6,6,12
+2022,São Paulo - SP,Flamengo - RJ,0 x 2,06/08/2022,20:30,Morumbi,Sao Paulo,203,21,18.4,93,2.9,0,2,-1,6,7,11,8,10,2,5
+2022,Fluminense - RJ,Cuiabá Saf - MT,1 x 0,07/08/2022,16:00,Maracanã,Rio de Janeiro,202,21,22.3,93,1.8,1,0,2,7,5,4,-2,1,3,18
+2022,Atlético Mineiro - MG,Athletico Paranaense - PR,2 x 3,07/08/2022,19:00,Mineirão,Belo Horizonte,201,21,20.5,74,3.1,2,3,-4,2,6,7,2,5,3,5
+2022,Botafogo - RJ,Ceará - CE,1 x 1,06/08/2022,16:30,Nilton Santos,Rio de Janeiro,205,21,22.3,93,1.8,1,1,-1,2,3,14,-1,2,3,13
+2022,Cuiabá Saf - MT,Juventude - RS,1 x 0,13/08/2022,20:30,Arena Pantanal,Cuiaba,219,22,25.9,85,2.5,1,0,-3,0,3,18,-1,1,2,20
+2022,Goiás - GO,Avaí - SC,1 x 1,13/08/2022,16:30,Hailé Pinheiro,Goiania,218,22,23.6,77,1.1,1,1,-2,4,6,13,-3,3,6,17
+2022,Ceará - CE,Fortaleza - CE,0 x 1,14/08/2022,16:00,Arena Castelão,Fortaleza,217,22,26.6,89,7.2,0,1,-2,2,4,13,4,4,0,18
+2022,Internacional - RS,Fluminense - RJ,3 x 0,14/08/2022,19:00,Beira-Rio,Porto Alegre,216,22,21.1,87,15.1,3,0,-1,4,5,6,2,5,3,3
+2022,Coritiba - PR,Atlético Mineiro - MG,0 x 1,14/08/2022,11:00,Couto Pereira,Curitiba,220,22,16.1,97,7.9,0,1,-1,2,3,18,-5,3,8,7
+2022,Corinthians - SP,Palmeiras - SP,0 x 1,13/08/2022,19:00,Neo Química Arena,Sao Paulo,214,22,18.4,93,2.9,0,1,2,4,2,2,5,7,2,1
+2022,São Paulo - SP,Red Bull Bragantino - SP,3 x 0,14/08/2022,16:00,Morumbi,Sao Paulo,213,22,18.4,93,2.9,3,0,-3,3,6,11,-1,3,4,8
+2022,Flamengo - RJ,Athletico Paranaense - PR,5 x 0,14/08/2022,16:00,Maracanã,Rio de Janeiro,212,22,22.3,93,1.8,5,0,6,8,2,5,0,4,4,4
+2022,America Saf - MG,Santos Fc - SP,1 x 0,14/08/2022,18:00,Independência,Belo Horizonte,211,22,20.5,74,3.1,1,0,4,5,1,11,1,4,3,8
+2022,Botafogo - RJ,Atlético - GO,0 x 0,13/08/2022,21:00,Nilton Santos,Rio de Janeiro,215,22,22.3,93,1.8,0,0,1,3,2,14,-3,3,6,19
+2022,Athletico Paranaense - PR,America Saf - MG,1 x 1,21/08/2022,18:00,Ligga Arena,Curitiba,230,23,16.1,97,7.9,1,1,-3,4,7,5,4,5,1,10
+2022,Avaí - SC,Internacional - RS,0 x 1,22/08/2022,20:00,Ressacada,Florianopolis,229,23,21.5,92,1.8,0,1,-2,3,5,17,3,6,3,6
+2022,Atlético - GO,Cuiabá Saf - MT,1 x 1,21/08/2022,18:00,Antônio Accioly,Goiania,228,23,23.6,77,1.1,1,1,-2,3,5,19,-1,1,2,16
+2022,Fortaleza - CE,Corinthians - SP,1 x 0,21/08/2022,18:00,Arena Castelão,Fortaleza,227,23,26.6,89,7.2,1,0,5,5,0,15,0,2,2,4
+2022,Juventude - RS,Botafogo - RJ,2 x 2,21/08/2022,11:00,Alfredo Jaconi,Caxias do Sul,226,23,16.2,90,9.7,2,2,-3,0,3,20,-1,1,2,14
+2022,Santos Fc - SP,São Paulo - SP,1 x 0,21/08/2022,19:00,Vila Belmiro,Santos,225,23,22.8,91,2.4,1,0,0,4,4,9,0,3,3,11
+2022,Red Bull Bragantino - SP,Ceará - CE,1 x 1,21/08/2022,18:00,Nabi Abi Chedid,Braganca Paulista,223,23,17.4,93,3.7,1,1,-3,2,5,10,-2,2,4,15
+2022,Fluminense - RJ,Coritiba - PR,5 x 2,20/08/2022,19:00,Maracanã,Rio de Janeiro,222,23,22.3,93,1.8,5,2,-2,3,5,5,-3,1,4,18
+2022,Atlético Mineiro - MG,Goiás - GO,0 x 1,20/08/2022,16:30,Mineirão,Belo Horizonte,221,23,20.5,74,3.1,0,1,-3,3,6,7,-2,2,4,15
+2022,Palmeiras - SP,Flamengo - RJ,1 x 1,21/08/2022,16:00,Allianz Parque,Sao Paulo,224,23,18.4,93,2.9,1,1,5,6,1,1,10,11,1,3
+2022,Ceará - CE,Athletico Paranaense - PR,0 x 0,27/08/2022,21:00,Arena Castelão,Fortaleza,237,24,26.6,89,7.2,0,0,-1,2,3,15,-4,4,8,6
+2022,Coritiba - PR,Avaí - SC,1 x 0,27/08/2022,16:30,Couto Pereira,Curitiba,240,24,16.1,97,7.9,1,0,-5,3,8,19,-1,2,3,17
+2022,Cuiabá Saf - MT,Santos Fc - SP,0 x 0,28/08/2022,18:00,Arena Pantanal,Cuiaba,239,24,25.9,85,2.5,0,0,0,2,2,17,1,3,2,8
+2022,Goiás - GO,Atlético - GO,2 x 1,27/08/2022,16:30,Hailé Pinheiro,Goiania,238,24,23.6,77,1.1,2,1,-2,2,4,12,1,3,2,19
+2022,Internacional - RS,Juventude - RS,4 x 0,29/08/2022,20:00,Beira-Rio,Porto Alegre,236,24,21.1,87,15.1,4,0,1,4,3,4,-2,2,4,20
+2022,Botafogo - RJ,Flamengo - RJ,0 x 1,28/08/2022,18:00,Nilton Santos,Rio de Janeiro,235,24,22.3,93,1.8,0,1,0,3,3,15,7,8,1,4
+2022,Corinthians - SP,Red Bull Bragantino - SP,1 x 0,29/08/2022,21:30,Neo Química Arena,Sao Paulo,234,24,18.4,93,2.9,1,0,-2,1,3,5,-4,2,6,10
+2022,São Paulo - SP,Fortaleza - CE,0 x 1,28/08/2022,16:00,Morumbi,Sao Paulo,233,24,18.4,93,2.9,0,1,0,3,3,12,5,5,0,14
+2022,Fluminense - RJ,Palmeiras - SP,1 x 1,27/08/2022,19:00,Maracanã,Rio de Janeiro,232,24,22.3,93,1.8,1,1,1,6,5,5,4,5,1,1
+2022,America Saf - MG,Atlético Mineiro - MG,1 x 1,28/08/2022,16:00,Independência,Belo Horizonte,231,24,20.5,74,3.1,1,1,2,3,1,11,-1,3,4,7
+2022,Athletico Paranaense - PR,Fluminense - RJ,1 x 0,03/09/2022,19:00,Ligga Arena,Curitiba,250,25,16.1,97,7.9,1,0,-5,1,6,6,0,6,6,4
+2022,Cuiabá Saf - MT,São Paulo - SP,1 x 1,04/09/2022,19:00,Arena Pantanal,Cuiaba,249,25,25.9,85,2.5,1,1,1,2,1,16,1,3,2,13
+2022,Atlético - GO,Atlético Mineiro - MG,0 x 2,04/09/2022,18:00,Antônio Accioly,Goiania,248,25,23.6,77,1.1,0,2,-1,2,3,19,0,2,2,7
+2022,Fortaleza - CE,Botafogo - RJ,1 x 3,04/09/2022,16:00,Arena Castelão,Fortaleza,247,25,26.6,89,7.2,1,3,3,3,0,13,-1,2,3,15
+2022,Juventude - RS,Avaí - SC,1 x 1,03/09/2022,16:30,Alfredo Jaconi,Caxias do Sul,246,25,16.2,90,9.7,1,1,-5,2,7,20,-2,1,3,18
+2022,Corinthians - SP,Internacional - RS,2 x 2,04/09/2022,16:00,Neo Química Arena,Sao Paulo,244,25,18.4,93,2.9,2,2,-1,1,2,5,8,8,0,3
+2022,Red Bull Bragantino - SP,Palmeiras - SP,2 x 2,03/09/2022,19:00,Nabi Abi Chedid,Braganca Paulista,243,25,17.4,93,3.7,2,2,-4,1,5,11,1,3,2,1
+2022,Flamengo - RJ,Ceará - CE,1 x 1,04/09/2022,11:00,Maracanã,Rio de Janeiro,242,25,22.3,93,1.8,1,1,6,7,1,2,-1,1,2,15
+2022,America Saf - MG,Coritiba - PR,2 x 0,03/09/2022,20:30,Independência,Belo Horizonte,241,25,20.5,74,3.1,2,0,1,3,2,11,-3,3,6,17
+2022,Santos Fc - SP,Goiás - GO,1 x 2,05/09/2022,20:00,Vila Belmiro,Santos,245,25,22.8,91,2.4,1,2,0,1,1,9,2,4,2,11
+2022,Ceará - CE,Santos Fc - SP,2 x 1,10/09/2022,16:30,Arena Castelão,Fortaleza,257,26,26.6,89,7.2,2,1,0,2,2,15,0,2,2,10
+2022,Coritiba - PR,Atlético - GO,2 x 0,11/09/2022,16:00,Couto Pereira,Curitiba,260,26,16.1,97,7.9,2,0,-4,3,7,17,-3,2,5,19
+2022,Avaí - SC,Athletico Paranaense - PR,1 x 1,11/09/2022,11:00,Ressacada,Florianopolis,259,26,21.5,92,1.8,1,1,-2,1,3,18,1,2,1,6
+2022,Goiás - GO,Flamengo - RJ,1 x 1,11/09/2022,19:00,Hailé Pinheiro,Goiania,258,26,23.6,77,1.1,1,1,3,5,2,8,1,3,2,2
+2022,Internacional - RS,Cuiabá Saf - MT,1 x 0,10/09/2022,16:30,Beira-Rio,Porto Alegre,256,26,21.1,87,15.1,1,0,5,7,2,3,0,2,2,17
+2022,Atlético Mineiro - MG,Red Bull Bragantino - SP,1 x 1,07/09/2022,17:00,Mineirão,Belo Horizonte,251,26,20.5,74,3.1,1,1,1,3,2,7,-1,3,4,11
+2022,Palmeiras - SP,Juventude - RS,2 x 1,10/09/2022,21:00,Allianz Parque,Sao Paulo,254,26,18.4,93,2.9,2,1,0,4,4,1,-4,3,7,20
+2022,São Paulo - SP,Corinthians - SP,1 x 1,11/09/2022,16:00,Morumbi,Sao Paulo,253,26,18.4,93,2.9,1,1,-2,1,3,13,0,3,3,4
+2022,Fluminense - RJ,Fortaleza - CE,2 x 1,10/09/2022,19:00,Maracanã,Rio de Janeiro,252,26,22.3,93,1.8,2,1,2,6,4,6,0,3,3,14
+2022,Botafogo - RJ,America Saf - MG,0 x 0,11/09/2022,11:00,Nilton Santos,Rio de Janeiro,255,26,22.3,93,1.8,0,0,1,5,4,15,2,4,2,9
+2022,Ceará - CE,São Paulo - SP,0 x 2,18/09/2022,16:00,Arena Castelão,Fortaleza,267,27,26.6,89,7.2,0,2,1,3,2,13,-1,2,3,12
+2022,Athletico Paranaense - PR,Cuiabá Saf - MT,2 x 2,18/09/2022,19:00,Ligga Arena,Curitiba,270,27,16.1,97,7.9,2,2,1,2,1,6,-1,1,2,17
+2022,Avaí - SC,Atlético Mineiro - MG,1 x 0,17/09/2022,16:30,Ressacada,Florianopolis,269,27,21.5,92,1.8,1,0,-1,2,3,18,2,4,2,7
+2022,Atlético - GO,Internacional - RS,1 x 2,19/09/2022,20:00,Antônio Accioly,Goiania,268,27,23.6,77,1.1,1,2,-5,1,6,19,5,7,2,2
+2022,Juventude - RS,Fortaleza - CE,1 x 1,18/09/2022,18:00,Alfredo Jaconi,Caxias do Sul,266,27,16.2,90,9.7,1,1,-5,2,7,20,-2,3,5,15
+2022,America Saf - MG,Corinthians - SP,1 x 0,18/09/2022,18:00,Independência,Belo Horizonte,261,27,20.5,74,3.1,1,0,2,3,1,9,1,4,3,5
+2022,Palmeiras - SP,Santos Fc - SP,1 x 0,18/09/2022,18:30,Allianz Parque,Sao Paulo,264,27,18.4,93,2.9,1,0,1,5,4,1,-2,2,4,10
+2022,Red Bull Bragantino - SP,Goiás - GO,1 x 1,18/09/2022,11:00,Nabi Abi Chedid,Braganca Paulista,263,27,17.4,93,3.7,1,1,-1,3,4,12,2,5,3,9
+2022,Flamengo - RJ,Fluminense - RJ,1 x 2,18/09/2022,16:00,Maracanã,Rio de Janeiro,262,27,22.3,93,1.8,1,2,1,3,2,3,0,3,3,4
+2022,Botafogo - RJ,Coritiba - PR,2 x 0,17/09/2022,19:00,Nilton Santos,Rio de Janeiro,265,27,22.3,93,1.8,2,0,1,3,2,15,1,3,2,16
+2022,Coritiba - PR,Ceará - CE,1 x 0,28/09/2022,19:00,Couto Pereira,Curitiba,280,28,16.1,97,7.9,1,0,-2,2,4,17,-1,3,4,14
+2022,Cuiabá Saf - MT,America Saf - MG,2 x 1,28/09/2022,21:00,Arena Pantanal,Cuiaba,279,28,25.9,85,2.5,2,1,-1,3,4,18,3,3,0,8
+2022,Goiás - GO,Botafogo - RJ,0 x 1,28/09/2022,21:45,Hailé Pinheiro,Goiania,278,28,23.6,77,1.1,0,1,1,4,3,9,4,5,1,13
+2022,Fortaleza - CE,Flamengo - RJ,3 x 2,28/09/2022,19:00,Arena Castelão,Fortaleza,277,28,26.6,89,7.2,3,2,-3,3,6,15,-1,3,4,4
+2022,Internacional - RS,Red Bull Bragantino - SP,0 x 0,28/09/2022,21:45,Beira-Rio,Porto Alegre,276,28,21.1,87,15.1,0,0,2,5,3,2,0,4,4,13
+2022,Corinthians - SP,Atlético - GO,2 x 1,28/09/2022,19:00,Neo Química Arena,Sao Paulo,274,28,18.4,93,2.9,2,1,-1,3,4,5,-5,1,6,19
+2022,São Paulo - SP,Avaí - SC,4 x 0,25/09/2022,20:00,Morumbi,Sao Paulo,273,28,18.4,93,2.9,4,0,2,4,2,12,1,3,2,18
+2022,Fluminense - RJ,Juventude - RS,4 x 0,28/09/2022,19:00,Maracanã,Rio de Janeiro,272,28,22.3,93,1.8,4,0,1,4,3,3,-1,3,4,20
+2022,Atlético Mineiro - MG,Palmeiras - SP,0 x 1,28/09/2022,21:45,Mineirão,Belo Horizonte,271,28,20.5,74,3.1,0,1,1,3,2,7,2,5,3,1
+2022,Santos Fc - SP,Athletico Paranaense - PR,2 x 0,27/09/2022,21:00,Vila Belmiro,Santos,275,28,22.8,91,2.4,2,0,-3,2,5,13,1,4,3,6
+2022,Ceará - CE,America Saf - MG,1 x 2,01/10/2022,15:00,Arena Castelão,Fortaleza,287,29,26.6,89,7.2,1,2,-2,2,4,15,0,2,2,8
+2022,Avaí - SC,Atlético - GO,1 x 2,01/10/2022,19:00,Ressacada,Florianopolis,289,29,21.5,92,1.8,1,2,-3,2,5,18,-4,2,6,19
+2022,Goiás - GO,Fortaleza - CE,0 x 1,01/10/2022,19:00,Hailé Pinheiro,Goiania,288,29,23.6,77,1.1,0,1,-1,2,3,12,0,5,5,14
+2022,Athletico Paranaense - PR,Juventude - RS,2 x 0,01/10/2022,19:00,Ligga Arena,Curitiba,290,29,16.1,97,7.9,2,0,-2,3,5,6,-5,2,7,20
+2022,Internacional - RS,Santos Fc - SP,1 x 0,01/10/2022,15:00,Beira-Rio,Porto Alegre,286,29,21.1,87,15.1,1,0,2,3,1,3,0,3,3,10
+2022,São Paulo - SP,Coritiba - PR,3 x 1,20/10/2022,20:00,Morumbi,Sao Paulo,283,29,18.4,93,2.9,3,1,6,7,1,9,1,3,2,16
+2022,Corinthians - SP,Cuiabá Saf - MT,2 x 0,01/10/2022,21:00,Neo Química Arena,Sao Paulo,284,29,18.4,93,2.9,2,0,0,3,3,4,0,4,4,17
+2022,Flamengo - RJ,Red Bull Bragantino - SP,4 x 1,01/10/2022,19:00,Maracanã,Rio de Janeiro,282,29,22.3,93,1.8,4,1,-2,4,6,6,0,2,2,14
+2022,Atlético Mineiro - MG,Fluminense - RJ,2 x 0,01/10/2022,15:00,Mineirão,Belo Horizonte,281,29,20.5,74,3.1,2,0,-2,1,3,9,6,8,2,3
+2022,Botafogo - RJ,Palmeiras - SP,1 x 3,03/10/2022,20:00,Nilton Santos,Rio de Janeiro,285,29,22.3,93,1.8,1,3,3,3,0,12,3,4,1,1
+2022,Athletico Paranaense - PR,Fortaleza - CE,1 x 1,05/10/2022,19:30,Ligga Arena,Curitiba,300,30,16.1,97,7.9,1,1,0,4,4,6,2,5,3,11
+2022,Avaí - SC,Botafogo - RJ,1 x 2,06/10/2022,20:00,Ressacada,Florianopolis,299,30,21.5,92,1.8,1,2,-4,2,6,18,1,4,3,12
+2022,Atlético - GO,Fluminense - RJ,3 x 2,05/10/2022,19:00,Antônio Accioly,Goiania,298,30,23.6,77,1.1,3,2,-1,4,5,19,3,6,3,3
+2022,Ceará - CE,Goiás - GO,1 x 1,05/10/2022,19:00,Arena Castelão,Fortaleza,297,30,26.6,89,7.2,1,1,-4,1,5,15,-2,1,3,13
+2022,Juventude - RS,Corinthians - SP,2 x 2,04/10/2022,21:30,Alfredo Jaconi,Caxias do Sul,296,30,16.2,90,9.7,2,2,-6,1,7,20,2,4,2,4
+2022,Palmeiras - SP,Coritiba - PR,4 x 0,06/10/2022,19:00,Allianz Parque,Sao Paulo,294,30,18.4,93,2.9,4,0,4,5,1,1,-3,2,5,16
+2022,Red Bull Bragantino - SP,Cuiabá Saf - MT,2 x 1,05/10/2022,19:00,Nabi Abi Chedid,Braganca Paulista,293,30,17.4,93,3.7,2,1,-3,2,5,14,-1,4,5,17
+2022,Flamengo - RJ,Internacional - RS,0 x 0,05/10/2022,21:30,Maracanã,Rio de Janeiro,292,30,22.3,93,1.8,0,0,1,7,6,5,2,3,1,2
+2022,America Saf - MG,São Paulo - SP,1 x 2,06/10/2022,20:00,Independência,Belo Horizonte,291,30,20.5,74,3.1,1,2,1,4,3,8,8,9,1,9
+2022,Santos Fc - SP,Atlético Mineiro - MG,1 x 2,05/10/2022,21:30,Vila Belmiro,Santos,295,30,22.8,91,2.4,1,2,0,2,2,14,0,2,2,8
+2022,Fortaleza - CE,Avaí - SC,2 x 0,09/10/2022,16:00,Arena Castelão,Fortaleza,307,31,26.6,89,7.2,2,0,2,5,3,12,-6,2,8,19
+2022,Coritiba - PR,Red Bull Bragantino - SP,2 x 1,09/10/2022,18:00,Couto Pereira,Curitiba,310,31,16.1,97,7.9,2,1,-5,2,7,16,-2,3,5,12
+2022,Cuiabá Saf - MT,Flamengo - RJ,1 x 2,08/10/2022,19:00,Arena Pantanal,Cuiaba,309,31,25.9,85,2.5,1,2,-2,3,5,17,2,6,4,5
+2022,Atlético - GO,Palmeiras - SP,1 x 1,10/10/2022,18:30,Antônio Accioly,Goiania,308,31,23.6,77,1.1,1,1,1,6,5,18,7,8,1,1
+2022,Internacional - RS,Goiás - GO,4 x 2,09/10/2022,11:00,Beira-Rio,Porto Alegre,306,31,21.1,87,15.1,4,2,1,1,0,2,-2,1,3,13
+2022,Atlético Mineiro - MG,Ceará - CE,0 x 0,09/10/2022,18:00,Mineirão,Belo Horizonte,301,31,20.5,74,3.1,0,0,2,4,2,7,-2,2,4,16
+2022,Corinthians - SP,Athletico Paranaense - PR,2 x 1,08/10/2022,21:00,Neo Química Arena,Sao Paulo,304,31,18.4,93,2.9,2,1,3,6,3,5,0,3,3,6
+2022,São Paulo - SP,Botafogo - RJ,0 x 1,09/10/2022,16:00,Morumbi,Sao Paulo,303,31,18.4,93,2.9,0,1,7,9,2,8,0,4,4,11
+2022,Fluminense - RJ,America Saf - MG,0 x 2,09/10/2022,18:00,Maracanã,Rio de Janeiro,302,31,22.3,93,1.8,0,2,1,6,5,5,-1,4,5,10
+2022,Santos Fc - SP,Juventude - RS,4 x 1,10/10/2022,20:00,Vila Belmiro,Santos,305,31,22.8,91,2.4,4,1,0,3,3,14,-6,2,8,20
+2022,Ceará - CE,Cuiabá Saf - MT,1 x 1,16/10/2022,16:00,Arena Castelão,Fortaleza,317,32,26.6,89,7.2,1,1,-1,2,3,16,-4,2,6,17
+2022,Athletico Paranaense - PR,Coritiba - PR,1 x 0,16/10/2022,19:00,Ligga Arena,Curitiba,320,32,16.1,97,7.9,1,0,1,4,3,6,-5,3,8,16
+2022,Avaí - SC,Fluminense - RJ,0 x 3,16/10/2022,19:00,Ressacada,Florianopolis,319,32,21.5,92,1.8,0,3,-4,2,6,19,-5,2,7,5
+2022,Goiás - GO,Corinthians - SP,0 x 0,29/10/2022,19:30,Hailé Pinheiro,Goiania,318,32,23.6,77,1.1,0,0,-3,3,6,14,3,6,3,4
+2022,Juventude - RS,Atlético - GO,1 x 1,16/10/2022,18:00,Alfredo Jaconi,Caxias do Sul,316,32,16.2,90,9.7,1,1,-5,3,8,20,2,6,4,18
+2022,America Saf - MG,Fortaleza - CE,1 x 2,15/10/2022,20:30,Independência,Belo Horizonte,311,32,20.5,74,3.1,1,2,2,5,3,8,3,4,1,11
+2022,Palmeiras - SP,São Paulo - SP,0 x 0,16/10/2022,16:00,Allianz Parque,Sao Paulo,314,32,18.4,93,2.9,0,0,6,8,2,1,2,5,3,10
+2022,Red Bull Bragantino - SP,Santos Fc - SP,0 x 2,17/10/2022,20:00,Nabi Abi Chedid,Braganca Paulista,313,32,17.4,93,3.7,0,2,-3,4,7,14,1,5,4,12
+2022,Flamengo - RJ,Atlético Mineiro - MG,1 x 0,15/10/2022,20:30,Maracanã,Rio de Janeiro,312,32,22.3,93,1.8,1,0,4,6,2,5,3,4,1,7
+2022,Botafogo - RJ,Internacional - RS,0 x 1,16/10/2022,18:00,Nilton Santos,Rio de Janeiro,315,32,22.3,93,1.8,0,1,0,4,4,12,3,5,2,2
+2022,Coritiba - PR,Internacional - RS,1 x 1,23/10/2022,18:00,Couto Pereira,Curitiba,330,33,16.1,97,7.9,1,1,-4,2,6,16,3,5,2,2
+2022,Cuiabá Saf - MT,Goiás - GO,1 x 2,23/10/2022,18:00,Arena Pantanal,Cuiaba,329,33,25.9,85,2.5,1,2,-2,3,5,17,-2,3,5,13
+2022,Atlético - GO,Ceará - CE,1 x 0,23/10/2022,18:00,Antônio Accioly,Goiania,328,33,23.6,77,1.1,1,0,1,5,4,18,0,2,2,16
+2022,Fortaleza - CE,Atlético Mineiro - MG,0 x 0,24/10/2022,20:00,Arena Castelão,Fortaleza,327,33,26.6,89,7.2,0,0,3,5,2,10,0,2,2,7
+2022,Juventude - RS,São Paulo - SP,1 x 2,23/10/2022,16:00,Alfredo Jaconi,Caxias do Sul,326,33,16.2,90,9.7,1,2,-3,4,7,20,0,2,2,10
+2022,Palmeiras - SP,Avaí - SC,3 x 0,22/10/2022,21:00,Allianz Parque,Sao Paulo,324,33,18.4,93,2.9,3,0,4,5,1,1,-6,1,7,19
+2022,Red Bull Bragantino - SP,Athletico Paranaense - PR,4 x 2,22/10/2022,16:30,Nabi Abi Chedid,Braganca Paulista,323,33,17.4,93,3.7,4,2,-2,3,5,14,0,3,3,6
+2022,Fluminense - RJ,Botafogo - RJ,2 x 2,23/10/2022,16:00,Maracanã,Rio de Janeiro,322,33,22.3,93,1.8,2,2,0,5,5,5,1,3,2,12
+2022,America Saf - MG,Flamengo - RJ,1 x 2,22/10/2022,19:00,Independência,Belo Horizonte,321,33,20.5,74,3.1,1,2,0,4,4,10,2,3,1,3
+2022,Santos Fc - SP,Corinthians - SP,0 x 1,22/10/2022,19:00,Vila Belmiro,Santos,325,33,22.8,91,2.4,0,1,4,7,3,12,1,4,3,5
+2022,Fortaleza - CE,Coritiba - PR,3 x 1,27/10/2022,19:00,Arena Castelão,Fortaleza,337,34,26.6,89,7.2,3,1,3,4,1,9,0,3,3,15
+2022,Cuiabá Saf - MT,Avaí - SC,1 x 0,27/10/2022,20:00,Arena Pantanal,Cuiaba,339,34,25.9,85,2.5,1,0,-2,3,5,18,-8,0,8,19
+2022,Goiás - GO,America Saf - MG,2 x 2,26/10/2022,21:45,Hailé Pinheiro,Goiania,338,34,23.6,77,1.1,2,2,-1,4,5,13,0,4,4,10
+2022,Athletico Paranaense - PR,Palmeiras - SP,1 x 3,25/10/2022,21:45,Ligga Arena,Curitiba,340,34,16.1,97,7.9,1,3,-2,4,6,6,3,4,1,1
+2022,Internacional - RS,Ceará - CE,2 x 1,26/10/2022,21:45,Beira-Rio,Porto Alegre,336,34,21.1,87,15.1,2,1,3,6,3,2,-1,1,2,16
+2022,São Paulo - SP,Atlético - GO,2 x 1,27/10/2022,19:00,Morumbi,Sao Paulo,333,34,18.4,93,2.9,2,1,0,2,2,9,1,3,2,18
+2022,Corinthians - SP,Fluminense - RJ,0 x 2,26/10/2022,21:45,Neo Química Arena,Sao Paulo,334,34,18.4,93,2.9,0,2,2,3,1,4,1,5,4,5
+2022,Flamengo - RJ,Santos Fc - SP,3 x 2,25/10/2022,21:45,Maracanã,Rio de Janeiro,332,34,22.3,93,1.8,3,2,3,5,2,3,4,6,2,12
+2022,Atlético Mineiro - MG,Juventude - RS,1 x 0,27/10/2022,19:30,Mineirão,Belo Horizonte,331,34,20.5,74,3.1,1,0,-1,0,1,8,-4,3,7,20
+2022,Botafogo - RJ,Red Bull Bragantino - SP,2 x 1,26/10/2022,19:30,Nilton Santos,Rio de Janeiro,335,34,22.3,93,1.8,2,1,0,3,3,11,-1,5,6,14
+2022,Athletico Paranaense - PR,Goiás - GO,3 x 2,02/11/2022,16:00,Ligga Arena,Curitiba,350,35,16.1,97,7.9,3,2,-3,4,7,7,1,4,3,13
+2022,Avaí - SC,Red Bull Bragantino - SP,1 x 2,02/11/2022,19:00,Ressacada,Florianopolis,349,35,21.5,92,1.8,1,2,-7,0,7,19,-1,5,6,14
+2022,Atlético - GO,Santos Fc - SP,2 x 3,02/11/2022,19:00,Antônio Accioly,Goiania,348,35,23.6,77,1.1,2,3,0,3,3,18,0,4,4,13
+2022,Ceará - CE,Fluminense - RJ,0 x 1,31/10/2022,20:00,Arena Castelão,Fortaleza,347,35,26.6,89,7.2,0,1,-2,2,4,16,5,7,2,4
+2022,Juventude - RS,Coritiba - PR,0 x 1,02/11/2022,19:00,Alfredo Jaconi,Caxias do Sul,346,35,16.2,90,9.7,0,1,-2,2,4,20,-3,2,5,15
+2022,Botafogo - RJ,Cuiabá Saf - MT,0 x 2,01/11/2022,19:00,Nilton Santos,Rio de Janeiro,345,35,22.3,93,1.8,0,2,0,4,4,10,0,3,3,17
+2022,Palmeiras - SP,Fortaleza - CE,4 x 0,02/11/2022,21:30,Allianz Parque,Sao Paulo,344,35,18.4,93,2.9,4,0,5,6,1,1,3,5,2,9
+2022,São Paulo - SP,Atlético Mineiro - MG,2 x 2,01/11/2022,21:30,Morumbi,Sao Paulo,343,35,18.4,93,2.9,2,2,2,4,2,8,0,1,1,7
+2022,Flamengo - RJ,Corinthians - SP,1 x 2,02/11/2022,21:30,Maracanã,Rio de Janeiro,342,35,22.3,93,1.8,1,2,3,6,3,3,-1,1,2,5
+2022,America Saf - MG,Internacional - RS,1 x 0,02/11/2022,16:00,Independência,Belo Horizonte,341,35,20.5,74,3.1,1,0,-2,4,6,12,2,4,2,2
+2022,Cuiabá Saf - MT,Palmeiras - SP,1 x 1,06/11/2022,18:30,Arena Pantanal,Cuiaba,359,36,25.9,85,2.5,1,1,2,4,2,16,9,10,1,1
+2022,Coritiba - PR,Flamengo - RJ,1 x 0,06/11/2022,16:00,Couto Pereira,Curitiba,360,36,16.1,97,7.9,1,0,-1,3,4,16,1,6,5,3
+2022,Fortaleza - CE,Atlético - GO,1 x 1,06/11/2022,16:00,Arena Castelão,Fortaleza,357,36,26.6,89,7.2,1,1,-2,3,5,10,-1,4,5,18
+2022,Internacional - RS,Athletico Paranaense - PR,2 x 0,05/11/2022,21:00,Beira-Rio,Porto Alegre,356,36,21.1,87,15.1,2,0,0,3,3,2,-3,6,9,6
+2022,Goiás - GO,Juventude - RS,1 x 0,05/11/2022,19:00,Hailé Pinheiro,Goiania,358,36,23.6,77,1.1,1,0,0,6,6,14,-3,1,4,20
+2022,Corinthians - SP,Ceará - CE,1 x 0,05/11/2022,20:30,Neo Química Arena,Sao Paulo,354,36,18.4,93,2.9,1,0,0,3,3,5,-3,1,4,17
+2022,Red Bull Bragantino - SP,America Saf - MG,1 x 4,05/11/2022,19:00,Nabi Abi Chedid,Braganca Paulista,353,36,17.4,93,3.7,1,4,2,7,5,14,0,4,4,10
+2022,Fluminense - RJ,São Paulo - SP,3 x 1,05/11/2022,16:30,Maracanã,Rio de Janeiro,352,36,22.3,93,1.8,3,1,3,5,2,5,2,6,4,9
+2022,Atlético Mineiro - MG,Botafogo - RJ,0 x 2,07/11/2022,20:00,Mineirão,Belo Horizonte,351,36,20.5,74,3.1,0,2,1,3,2,7,-1,4,5,11
+2022,Santos Fc - SP,Avaí - SC,1 x 1,05/11/2022,16:30,Arena Barueri,Barueri,355,36,18.4,92,5.1,1,1,-1,5,6,12,-5,1,6,19
+2022,Coritiba - PR,Corinthians - SP,2 x 2,09/11/2022,19:00,Couto Pereira,Curitiba,370,37,16.1,97,7.9,2,2,0,3,3,15,0,3,3,4
+2022,Avaí - SC,Ceará - CE,2 x 0,09/11/2022,19:00,Ressacada,Florianopolis,369,37,21.5,92,1.8,2,0,-2,2,4,19,-3,1,4,17
+2022,Fortaleza - CE,Red Bull Bragantino - SP,6 x 0,09/11/2022,20:30,Arena Castelão,Fortaleza,367,37,26.6,89,7.2,6,0,-2,4,6,11,-3,4,7,14
+2022,Juventude - RS,Flamengo - RJ,2 x 2,09/11/2022,21:30,Alfredo Jaconi,Caxias do Sul,366,37,16.2,90,9.7,2,2,-3,0,3,20,-1,4,5,5
+2022,Atlético - GO,Athletico Paranaense - PR,1 x 1,09/11/2022,21:30,Antônio Accioly,Goiania,368,37,23.6,77,1.1,1,1,-2,4,6,18,-3,4,7,6
+2022,Palmeiras - SP,America Saf - MG,2 x 1,09/11/2022,21:30,Allianz Parque,Sao Paulo,364,37,18.4,93,2.9,2,1,6,8,2,1,4,7,3,9
+2022,São Paulo - SP,Internacional - RS,0 x 1,08/11/2022,21:30,Morumbi,Sao Paulo,363,37,18.4,93,2.9,0,1,-1,5,6,10,2,4,2,2
+2022,Fluminense - RJ,Goiás - GO,3 x 0,09/11/2022,19:00,Maracanã,Rio de Janeiro,362,37,22.3,93,1.8,3,0,5,6,1,4,0,5,5,13
+2022,Atlético Mineiro - MG,Cuiabá Saf - MT,3 x 0,10/11/2022,20:00,Mineirão,Belo Horizonte,361,37,20.5,74,3.1,3,0,-1,3,4,8,3,4,1,16
+2022,Botafogo - RJ,Santos Fc - SP,3 x 0,10/11/2022,20:00,Nilton Santos,Rio de Janeiro,365,37,22.3,93,1.8,3,0,1,4,3,11,0,6,6,12
+2022,Cuiabá Saf - MT,Coritiba - PR,2 x 1,13/11/2022,16:00,Arena Pantanal,Cuiaba,379,38,25.9,85,2.5,2,1,-1,3,4,16,2,4,2,15
+2022,America Saf - MG,Atlético - GO,1 x 1,13/11/2022,16:00,Independência,Belo Horizonte,371,38,20.5,74,3.1,1,1,3,6,3,10,-1,4,5,17
+2022,Flamengo - RJ,Avaí - SC,1 x 2,12/11/2022,16:00,Maracanã,Rio de Janeiro,372,38,22.3,93,1.8,1,2,-2,3,5,5,1,4,3,19
+2022,Red Bull Bragantino - SP,Fluminense - RJ,0 x 1,13/11/2022,16:00,Nabi Abi Chedid,Braganca Paulista,373,38,17.4,93,3.7,0,1,-8,3,11,14,6,7,1,3
+2022,Corinthians - SP,Atlético Mineiro - MG,0 x 1,13/11/2022,16:00,Neo Química Arena,Sao Paulo,374,38,18.4,93,2.9,0,1,2,5,3,4,1,5,4,6
+2022,Santos Fc - SP,Fortaleza - CE,0 x 2,13/11/2022,16:00,Vila Belmiro,Santos,375,38,22.8,91,2.4,0,2,-2,4,6,12,2,7,5,10
+2022,Internacional - RS,Palmeiras - SP,3 x 0,13/11/2022,16:00,Beira-Rio,Porto Alegre,376,38,21.1,87,15.1,3,0,2,3,1,2,5,7,2,1
+2022,Ceará - CE,Juventude - RS,4 x 1,13/11/2022,16:00,Arena Castelão,Fortaleza,377,38,26.6,89,7.2,4,1,-4,0,4,19,-2,2,4,20
+2022,Goiás - GO,São Paulo - SP,0 x 4,13/11/2022,16:00,Hailé Pinheiro,Goiania,378,38,23.6,77,1.1,0,4,-3,3,6,13,-3,3,6,11
+2022,Athletico Paranaense - PR,Botafogo - RJ,3 x 0,13/11/2022,16:00,Ligga Arena,Curitiba,380,38,16.1,97,7.9,3,0,-1,4,5,8,3,5,2,10
+2023,Flamengo - RJ,Coritiba S.a.f. - PR,3 x 0,16/04/2023,16:00,Maracanã,Rio de Janeiro,1,1,22.3,93,1.8,3,0,0,0,0,1,0,0,0,18
+2023,Botafogo - RJ,São Paulo - SP,2 x 1,15/04/2023,18:30,Nilton Santos,Rio de Janeiro,2,1,22.3,93,1.8,2,1,0,0,0,2,0,0,0,13
+2023,Palmeiras - SP,Cuiabá Saf - MT,2 x 1,15/04/2023,16:00,Allianz Parque,Sao Paulo,3,1,18.4,93,2.9,2,1,0,0,0,3,0,0,0,18
+2023,Corinthians - SP,Cruzeiro Saf - MG,2 x 1,16/04/2023,16:00,Neo Química Arena,Sao Paulo,4,1,18.4,93,2.9,2,1,0,0,0,4,0,0,0,15
+2023,Red Bull Bragantino - SP,Bahia - BA,2 x 1,15/04/2023,18:30,Nabi Abi Chedid,Braganca Paulista,5,1,17.4,93,3.7,2,1,0,0,0,5,0,0,0,16
+2023,Atlético Mineiro Saf - MG,Vasco da Gama S.a.f. - RJ,1 x 2,15/04/2023,21:00,Mineirão,Belo Horizonte,6,1,20.5,74,3.1,1,2,0,0,0,6,0,0,0,12
+2023,Grêmio - RS,Santos Fc - SP,1 x 0,16/04/2023,18:30,Alfredo Jaconi,Caxias do Sul,7,1,16.2,90,9.7,1,0,0,0,0,7,0,0,0,12
+2023,Athletico Paranaense - PR,Goiás - GO,2 x 0,15/04/2023,18:30,Ligga Arena,Curitiba,8,1,16.1,97,7.9,2,0,0,0,0,8,0,0,0,12
+2023,Fortaleza - CE,Internacional - RS,1 x 1,15/04/2023,18:30,Arena Castelão,Fortaleza,9,1,26.6,89,7.2,1,1,0,0,0,9,0,0,0,12
+2023,America Saf - MG,Fluminense - RJ,0 x 3,15/04/2023,16:00,Independência,Belo Horizonte,10,1,20.5,74,3.1,0,3,0,0,0,11,0,0,0,12
+2023,Cuiabá Saf - MT,Red Bull Bragantino - SP,1 x 1,22/04/2023,18:30,Arena Pantanal,Cuiaba,20,2,25.9,85,2.5,1,1,-1,1,2,16,1,2,1,7
+2023,Bahia - BA,Botafogo - RJ,1 x 2,24/04/2023,20:00,Arena Fonte Nova,Salvador,19,2,27.3,83,4.3,1,2,-1,1,2,16,1,2,1,5
+2023,Coritiba S.a.f. - PR,Fortaleza - CE,0 x 3,23/04/2023,18:30,Couto Pereira,Curitiba,18,2,16.1,97,7.9,0,3,-3,0,3,20,0,1,1,10
+2023,Internacional - RS,Flamengo - RJ,2 x 1,23/04/2023,11:00,Beira-Rio,Porto Alegre,17,2,21.1,87,15.1,2,1,0,1,1,11,3,3,0,4
+2023,Cruzeiro Saf - MG,Grêmio - RS,1 x 0,22/04/2023,21:00,Independência,Belo Horizonte,16,2,20.5,74,3.1,1,0,-1,1,2,15,1,1,0,11
+2023,São Paulo - SP,America Saf - MG,3 x 0,22/04/2023,18:30,Morumbi,Sao Paulo,13,2,18.4,93,2.9,3,0,-1,1,2,15,-3,0,3,19
+2023,Santos Fc - SP,Atlético Mineiro Saf - MG,0 x 0,23/04/2023,16:00,Vila Belmiro,Santos,14,2,22.8,91,2.4,0,0,-1,0,1,16,-1,1,2,15
+2023,Vasco da Gama S.a.f. - RJ,Palmeiras - SP,2 x 2,23/04/2023,16:00,Maracanã,Rio de Janeiro,12,2,22.3,93,1.8,2,2,1,2,1,11,1,2,1,9
+2023,Fluminense - RJ,Athletico Paranaense - PR,2 x 0,22/04/2023,16:00,Maracanã,Rio de Janeiro,11,2,22.3,93,1.8,2,0,3,3,0,7,2,2,0,10
+2023,Goiás - GO,Corinthians - SP,3 x 1,23/04/2023,19:00,Hailé Pinheiro,Goiania,15,2,23.6,77,1.1,3,1,-2,0,2,18,1,2,1,10
+2023,Internacional - RS,Goiás - GO,1 x 0,30/04/2023,18:30,Beira-Rio,Porto Alegre,27,3,21.1,87,15.1,1,0,1,3,2,7,0,3,3,10
+2023,Cuiabá Saf - MT,Grêmio - RS,1 x 2,30/04/2023,18:30,Arena Pantanal,Cuiaba,30,3,25.9,85,2.5,1,2,-1,2,3,15,0,1,1,12
+2023,Fortaleza - CE,Fluminense - RJ,4 x 2,29/04/2023,16:30,Arena Castelão,Fortaleza,29,3,26.6,89,7.2,4,2,3,4,1,5,5,5,0,2
+2023,Coritiba S.a.f. - PR,São Paulo - SP,1 x 1,29/04/2023,16:30,Couto Pereira,Curitiba,28,3,16.1,97,7.9,1,1,-6,0,6,20,2,4,2,10
+2023,Atlético Mineiro Saf - MG,Athletico Paranaense - PR,2 x 1,29/04/2023,21:00,Independência,Belo Horizonte,26,3,20.5,74,3.1,2,1,-1,1,2,15,0,2,2,11
+2023,Vasco da Gama S.a.f. - RJ,Bahia - BA,0 x 1,01/05/2023,20:00,São Januário,Rio de Janeiro,22,3,22.3,93,1.8,0,1,1,4,3,8,-2,2,4,19
+2023,Santos Fc - SP,America Saf - MG,3 x 2,29/04/2023,18:30,Vila Belmiro,Santos,24,3,22.8,91,2.4,3,2,-1,0,1,17,-6,0,6,20
+2023,Palmeiras - SP,Corinthians - SP,2 x 1,29/04/2023,18:30,Allianz Parque,Sao Paulo,23,3,18.4,93,2.9,2,1,1,4,3,7,-1,3,4,14
+2023,Flamengo - RJ,Botafogo - RJ,2 x 3,30/04/2023,16:00,Maracanã,Rio de Janeiro,21,3,22.3,93,1.8,2,3,2,4,2,12,2,4,2,5
+2023,Red Bull Bragantino - SP,Cruzeiro Saf - MG,0 x 3,29/04/2023,18:30,Nabi Abi Chedid,Braganca Paulista,25,3,17.4,93,3.7,0,3,1,3,2,8,0,2,2,13
+2023,America Saf - MG,Cuiabá Saf - MT,1 x 2,07/05/2023,11:00,Independência,Belo Horizonte,40,4,20.5,74,3.1,1,2,-7,2,9,20,-2,3,5,18
+2023,Bahia - BA,Coritiba S.a.f. - PR,3 x 1,07/05/2023,16:00,Arena Fonte Nova,Salvador,39,4,27.3,83,4.3,3,1,-1,3,4,17,-6,1,7,19
+2023,Athletico Paranaense - PR,Flamengo - RJ,2 x 1,07/05/2023,16:00,Ligga Arena,Curitiba,38,4,16.1,97,7.9,2,1,-1,3,4,16,1,6,5,15
+2023,Grêmio - RS,Red Bull Bragantino - SP,3 x 3,07/05/2023,18:30,Arena do Grêmio,Porto Alegre,37,4,21.1,87,15.1,3,3,1,3,2,8,-2,3,5,15
+2023,Cruzeiro Saf - MG,Santos Fc - SP,2 x 1,06/05/2023,16:00,Independência,Belo Horizonte,36,4,20.5,74,3.1,2,1,3,5,2,7,0,3,3,14
+2023,Goiás - GO,Palmeiras - SP,0 x 5,07/05/2023,18:30,Hailé Pinheiro,Goiania,35,4,23.6,77,1.1,0,5,-1,3,4,17,2,6,4,4
+2023,São Paulo - SP,Internacional - RS,2 x 0,07/05/2023,16:00,Morumbi,Sao Paulo,33,4,18.4,93,2.9,2,0,2,5,3,11,2,4,2,5
+2023,Botafogo - RJ,Atlético Mineiro Saf - MG,2 x 0,07/05/2023,18:30,Nilton Santos,Rio de Janeiro,32,4,22.3,93,1.8,2,0,3,7,4,3,0,3,3,13
+2023,Fluminense - RJ,Vasco da Gama S.a.f. - RJ,1 x 1,06/05/2023,21:00,Maracanã,Rio de Janeiro,31,4,22.3,93,1.8,1,1,3,7,4,8,0,4,4,12
+2023,Corinthians - SP,Fortaleza - CE,1 x 1,08/05/2023,20:00,Neo Química Arena,Sao Paulo,34,4,18.4,93,2.9,1,1,-2,4,6,17,5,8,3,4
+2023,Internacional - RS,Athletico Paranaense - PR,0 x 2,10/05/2023,19:00,Beira-Rio,Porto Alegre,47,5,21.1,87,15.1,0,2,0,3,3,8,-2,3,5,10
+2023,Cuiabá Saf - MT,Atlético Mineiro Saf - MG,0 x 4,10/05/2023,20:00,Arena Pantanal,Cuiaba,50,5,25.9,85,2.5,0,4,0,4,4,13,-1,2,3,16
+2023,Fortaleza - CE,São Paulo - SP,0 x 0,11/05/2023,20:00,Arena Castelão,Fortaleza,49,5,26.6,89,7.2,0,0,5,8,3,5,5,6,1,6
+2023,Cruzeiro Saf - MG,Fluminense - RJ,0 x 2,10/05/2023,21:30,Mineirão,Belo Horizonte,46,5,20.5,74,3.1,0,2,5,6,1,4,0,5,5,7
+2023,Coritiba S.a.f. - PR,Vasco da Gama S.a.f. - RJ,1 x 1,11/05/2023,19:00,Couto Pereira,Curitiba,48,5,16.1,97,7.9,1,1,-5,2,7,19,-1,3,4,12
+2023,Santos Fc - SP,Bahia - BA,3 x 0,10/05/2023,19:00,Vila Belmiro,Santos,44,5,22.8,91,2.4,3,0,0,4,4,14,2,5,3,11
+2023,Palmeiras - SP,Grêmio - RS,4 x 1,10/05/2023,21:30,Allianz Parque,Sao Paulo,43,5,18.4,93,2.9,4,1,6,9,3,2,0,5,5,10
+2023,Red Bull Bragantino - SP,America Saf - MG,2 x 2,10/05/2023,19:00,Nabi Abi Chedid,Braganca Paulista,45,5,17.4,93,3.7,2,2,-3,4,7,14,-5,3,8,20
+2023,Botafogo - RJ,Corinthians - SP,3 x 0,11/05/2023,19:30,Nilton Santos,Rio de Janeiro,42,5,22.3,93,1.8,3,0,4,7,3,2,-3,3,6,15
+2023,Flamengo - RJ,Goiás - GO,2 x 0,10/05/2023,20:00,Maracanã,Rio de Janeiro,41,5,22.3,93,1.8,2,0,-3,4,7,17,-4,3,7,18
+2023,America Saf - MG,Cruzeiro Saf - MG,0 x 4,14/05/2023,18:30,Independência,Belo Horizonte,60,6,20.5,74,3.1,0,4,-2,5,7,20,2,5,3,6
+2023,Bahia - BA,Flamengo - RJ,2 x 3,13/05/2023,16:00,Arena Fonte Nova,Salvador,59,6,27.3,83,4.3,2,3,0,4,4,15,0,5,5,12
+2023,Athletico Paranaense - PR,Coritiba S.a.f. - PR,3 x 2,14/05/2023,18:30,Ligga Arena,Curitiba,58,6,16.1,97,7.9,3,2,2,5,3,7,-2,3,5,19
+2023,Grêmio - RS,Fortaleza - CE,0 x 0,14/05/2023,16:00,Arena do Grêmio,Porto Alegre,57,6,21.1,87,15.1,0,0,-2,6,8,11,2,5,3,6
+2023,Atlético Mineiro Saf - MG,Internacional - RS,2 x 0,13/05/2023,21:00,Mineirão,Belo Horizonte,56,6,20.5,74,3.1,2,0,3,6,3,10,-3,1,4,12
+2023,Goiás - GO,Botafogo - RJ,2 x 1,14/05/2023,18:30,Hailé Pinheiro,Goiania,55,6,23.6,77,1.1,2,1,-8,0,8,18,6,8,2,1
+2023,Corinthians - SP,São Paulo - SP,1 x 1,14/05/2023,16:00,Neo Química Arena,Sao Paulo,54,6,18.4,93,2.9,1,1,-4,2,6,17,2,3,1,9
+2023,Palmeiras - SP,Red Bull Bragantino - SP,1 x 1,13/05/2023,18:30,Allianz Parque,Sao Paulo,53,6,18.4,93,2.9,1,1,9,11,2,2,-3,5,8,14
+2023,Vasco da Gama S.a.f. - RJ,Santos Fc - SP,0 x 1,14/05/2023,16:00,São Januário,Rio de Janeiro,52,6,22.3,93,1.8,0,1,-1,2,3,14,3,7,4,11
+2023,Fluminense - RJ,Cuiabá Saf - MT,2 x 0,13/05/2023,18:30,Maracanã,Rio de Janeiro,51,6,22.3,93,1.8,2,0,0,5,5,5,-4,3,7,18
+2023,Bahia - BA,Goiás - GO,1 x 1,20/05/2023,16:00,Arena Fonte Nova,Salvador,69,7,27.3,83,4.3,1,1,-2,5,7,15,-6,2,8,16
+2023,Coritiba S.a.f. - PR,Atlético Mineiro Saf - MG,1 x 2,20/05/2023,18:30,Couto Pereira,Curitiba,68,7,16.1,97,7.9,1,2,-3,4,7,19,4,6,2,7
+2023,Grêmio - RS,Internacional - RS,3 x 1,21/05/2023,18:30,Arena do Grêmio,Porto Alegre,67,7,21.1,87,15.1,3,1,-3,4,7,11,-6,0,6,14
+2023,Cruzeiro Saf - MG,Cuiabá Saf - MT,0 x 1,22/05/2023,20:00,Arena do Jacaré,Sete Lagoas,66,7,19.6,79,4.7,0,1,3,6,3,5,-5,2,7,18
+2023,America Saf - MG,Fortaleza - CE,2 x 1,20/05/2023,18:30,Independência,Belo Horizonte,70,7,20.5,74,3.1,2,1,-5,3,8,20,0,1,1,8
+2023,Santos Fc - SP,Palmeiras - SP,0 x 0,20/05/2023,21:00,Vila Belmiro,Santos,64,7,22.8,91,2.4,0,0,3,5,2,9,8,10,2,2
+2023,São Paulo - SP,Vasco da Gama S.a.f. - RJ,4 x 2,20/05/2023,18:30,Morumbi,Sao Paulo,63,7,18.4,93,2.9,4,2,2,3,1,10,-1,2,3,17
+2023,Botafogo - RJ,Fluminense - RJ,1 x 0,20/05/2023,18:30,Nilton Santos,Rio de Janeiro,62,7,22.3,93,1.8,1,0,4,6,2,2,4,5,1,3
+2023,Flamengo - RJ,Corinthians - SP,1 x 0,21/05/2023,16:00,Maracanã,Rio de Janeiro,61,7,22.3,93,1.8,1,0,2,6,4,11,-3,2,5,18
+2023,Red Bull Bragantino - SP,Athletico Paranaense - PR,2 x 0,20/05/2023,18:30,Nabi Abi Chedid,Braganca Paulista,65,7,17.4,93,3.7,2,0,0,6,6,12,4,7,3,8
+2023,Fortaleza - CE,Vasco da Gama S.a.f. - RJ,2 x 0,27/05/2023,16:00,Arena Castelão,Fortaleza,79,8,26.6,89,7.2,2,0,-1,1,2,11,-3,3,6,17
+2023,Athletico Paranaense - PR,Grêmio - RS,1 x 2,27/05/2023,16:00,Ligga Arena,Curitiba,78,8,16.1,97,7.9,1,2,1,5,4,9,-1,4,5,11
+2023,Internacional - RS,Bahia - BA,2 x 0,28/05/2023,16:00,Beira-Rio,Porto Alegre,77,8,21.1,87,15.1,2,0,-6,1,7,15,-4,3,7,13
+2023,Atlético Mineiro Saf - MG,Palmeiras - SP,1 x 1,28/05/2023,18:30,Mineirão,Belo Horizonte,76,8,20.5,74,3.1,1,1,7,8,1,6,3,5,2,2
+2023,Cuiabá Saf - MT,Coritiba S.a.f. - PR,1 x 1,27/05/2023,18:30,Arena Pantanal,Cuiaba,80,8,25.9,85,2.5,1,1,-5,1,6,15,-2,4,6,20
+2023,Corinthians - SP,Fluminense - RJ,2 x 0,28/05/2023,16:00,Neo Química Arena,Sao Paulo,74,8,18.4,93,2.9,2,0,-4,1,5,18,3,4,1,6
+2023,São Paulo - SP,Goiás - GO,2 x 1,27/05/2023,21:00,Morumbi,Sao Paulo,73,8,18.4,93,2.9,2,1,2,5,3,7,-1,3,4,17
+2023,Botafogo - RJ,America Saf - MG,2 x 0,28/05/2023,19:00,Nilton Santos,Rio de Janeiro,72,8,22.3,93,1.8,2,0,3,5,2,1,-3,4,7,19
+2023,Flamengo - RJ,Cruzeiro Saf - MG,1 x 1,27/05/2023,18:30,Maracanã,Rio de Janeiro,71,8,22.3,93,1.8,1,1,4,6,2,9,1,4,3,8
+2023,Red Bull Bragantino - SP,Santos Fc - SP,2 x 0,28/05/2023,18:30,Nabi Abi Chedid,Braganca Paulista,75,8,17.4,93,3.7,2,0,2,5,3,12,4,4,0,11
+2023,America Saf - MG,Corinthians - SP,2 x 0,03/06/2023,18:30,Independência,Belo Horizonte,90,9,20.5,74,3.1,2,0,-5,2,7,19,1,3,2,14
+2023,Fortaleza - CE,Bahia - BA,0 x 0,03/06/2023,16:00,Arena Castelão,Fortaleza,89,9,26.6,89,7.2,0,0,1,3,2,6,-3,3,6,16
+2023,Athletico Paranaense - PR,Botafogo - RJ,1 x 0,03/06/2023,18:30,Ligga Arena,Curitiba,88,9,16.1,97,7.9,1,0,-2,4,6,11,2,4,2,1
+2023,Grêmio - RS,São Paulo - SP,2 x 1,04/06/2023,16:00,Arena do Grêmio,Porto Alegre,87,9,21.1,87,15.1,2,1,3,5,2,7,3,7,4,3
+2023,Cruzeiro Saf - MG,Atlético Mineiro Saf - MG,0 x 1,03/06/2023,18:30,Parque do Sabiá,Uberlandia,86,9,20.3,76,3.9,0,1,3,5,2,8,3,5,2,7
+2023,Goiás - GO,Cuiabá Saf - MT,0 x 1,04/06/2023,18:30,Hailé Pinheiro,Goiania,85,9,23.6,77,1.1,0,1,0,4,4,17,-1,2,3,16
+2023,Palmeiras - SP,Coritiba S.a.f. - PR,3 x 1,04/06/2023,18:30,Allianz Parque,Sao Paulo,83,9,18.4,93,2.9,3,1,0,2,2,4,-2,4,6,20
+2023,Vasco da Gama S.a.f. - RJ,Flamengo - RJ,1 x 4,05/06/2023,20:00,Maracanã,Rio de Janeiro,82,9,22.3,93,1.8,1,4,-5,2,7,19,2,5,3,8
+2023,Fluminense - RJ,Red Bull Bragantino - SP,2 x 1,04/06/2023,16:00,Maracanã,Rio de Janeiro,81,9,22.3,93,1.8,2,1,-1,2,3,9,4,5,1,11
+2023,Santos Fc - SP,Internacional - RS,1 x 1,03/06/2023,21:00,Vila Belmiro,Santos,84,9,22.8,91,2.4,1,1,-1,1,2,12,-2,3,5,14
+2023,Internacional - RS,Vasco da Gama S.a.f. - RJ,2 x 1,11/06/2023,16:00,Beira-Rio,Porto Alegre,97,10,21.1,87,15.1,2,1,0,4,4,13,-7,3,10,19
+2023,America Saf - MG,Athletico Paranaense - PR,2 x 2,11/06/2023,11:00,Mineirão,Belo Horizonte,100,10,20.5,74,3.1,2,2,1,4,3,18,-2,2,4,8
+2023,Bahia - BA,Cruzeiro Saf - MG,2 x 2,10/06/2023,18:30,Arena Fonte Nova,Salvador,99,10,27.3,83,4.3,2,2,-2,1,3,15,-2,1,3,11
+2023,Coritiba S.a.f. - PR,Santos Fc - SP,0 x 0,10/06/2023,16:00,Couto Pereira,Curitiba,98,10,16.1,97,7.9,0,0,-3,3,6,20,-2,1,3,13
+2023,Atlético Mineiro Saf - MG,Red Bull Bragantino - SP,1 x 1,10/06/2023,18:30,Mineirão,Belo Horizonte,96,10,20.5,74,3.1,1,1,2,4,2,3,3,5,2,12
+2023,Botafogo - RJ,Fortaleza - CE,2 x 0,10/06/2023,21:00,Nilton Santos,Rio de Janeiro,92,10,22.3,93,1.8,2,0,2,3,1,1,1,3,2,9
+2023,Corinthians - SP,Cuiabá Saf - MT,1 x 1,10/06/2023,18:30,Neo Química Arena,Sao Paulo,94,10,18.4,93,2.9,1,1,-1,2,3,16,2,3,1,14
+2023,São Paulo - SP,Palmeiras - SP,0 x 2,11/06/2023,16:00,Morumbi,Sao Paulo,93,10,18.4,93,2.9,0,2,2,7,5,8,2,4,2,2
+2023,Goiás - GO,Fluminense - RJ,2 x 2,11/06/2023,18:30,Hailé Pinheiro,Goiania,95,10,23.6,77,1.1,2,2,-2,2,4,18,-2,2,4,6
+2023,Flamengo - RJ,Grêmio - RS,3 x 0,11/06/2023,18:30,Maracanã,Rio de Janeiro,91,10,22.3,93,1.8,3,0,4,6,2,6,4,7,3,5
+2023,Cuiabá Saf - MT,Botafogo - RJ,0 x 1,22/06/2023,20:00,Arena Pantanal,Cuiaba,110,11,25.9,85,2.5,0,1,1,3,2,14,3,4,1,1
+2023,Bahia - BA,Palmeiras - SP,1 x 0,21/06/2023,21:30,Arena Fonte Nova,Salvador,109,11,27.3,83,4.3,1,0,-2,2,4,15,4,6,2,2
+2023,Coritiba S.a.f. - PR,Internacional - RS,0 x 1,22/06/2023,20:00,Couto Pereira,Curitiba,108,11,16.1,97,7.9,0,1,-2,2,4,20,3,5,2,12
+2023,Grêmio - RS,America Saf - MG,3 x 1,22/06/2023,19:00,Arena do Grêmio,Porto Alegre,107,11,21.1,87,15.1,3,1,-1,4,5,6,0,4,4,18
+2023,Cruzeiro Saf - MG,Fortaleza - CE,0 x 1,21/06/2023,19:00,Mineirão,Belo Horizonte,106,11,20.5,74,3.1,0,1,-1,3,4,10,0,2,2,11
+2023,Santos Fc - SP,Corinthians - SP,0 x 2,21/06/2023,20:00,Vila Belmiro,Santos,104,11,22.8,91,2.4,0,2,-2,1,3,13,0,3,3,16
+2023,São Paulo - SP,Athletico Paranaense - PR,2 x 1,21/06/2023,19:00,Morumbi,Sao Paulo,103,11,18.4,93,2.9,2,1,-2,3,5,10,0,4,4,9
+2023,Vasco da Gama S.a.f. - RJ,Goiás - GO,0 x 1,22/06/2023,20:00,São Januário,Rio de Janeiro,102,11,22.3,93,1.8,0,1,-6,2,8,19,-2,3,5,17
+2023,Fluminense - RJ,Atlético Mineiro Saf - MG,1 x 1,21/06/2023,21:30,Raulino de Oliveira,Volta Redonda,101,11,19.9,94,0.4,1,1,-1,4,5,7,1,3,2,5
+2023,Red Bull Bragantino - SP,Flamengo - RJ,4 x 0,22/06/2023,21:30,Nabi Abi Chedid,Braganca Paulista,105,11,17.4,93,3.7,4,0,1,4,3,12,6,8,2,4
+2023,Grêmio - RS,Coritiba S.a.f. - PR,5 x 1,25/06/2023,16:00,Arena do Grêmio,Porto Alegre,117,12,21.1,87,15.1,5,1,0,5,5,3,-3,1,4,20
+2023,America Saf - MG,Internacional - RS,1 x 2,25/06/2023,18:30,Independência,Belo Horizonte,120,12,20.5,74,3.1,1,2,0,5,5,18,2,4,2,10
+2023,Fortaleza - CE,Atlético Mineiro Saf - MG,2 x 1,24/06/2023,18:30,Arena Castelão,Fortaleza,119,12,26.6,89,7.2,2,1,-1,1,2,10,1,3,2,6
+2023,Athletico Paranaense - PR,Corinthians - SP,1 x 0,24/06/2023,16:00,Ligga Arena,Curitiba,118,12,16.1,97,7.9,1,0,0,4,4,11,0,3,3,15
+2023,Cruzeiro Saf - MG,São Paulo - SP,1 x 0,24/06/2023,21:00,Independência,Belo Horizonte,116,12,20.5,74,3.1,1,0,-2,2,4,12,-2,3,5,10
+2023,Red Bull Bragantino - SP,Goiás - GO,2 x 0,25/06/2023,18:30,Nabi Abi Chedid,Braganca Paulista,115,12,17.4,93,3.7,2,0,3,6,3,11,0,3,3,17
+2023,Santos Fc - SP,Flamengo - RJ,2 x 3,25/06/2023,18:30,Vila Belmiro,Santos,114,12,22.8,91,2.4,2,3,-2,1,3,13,2,7,5,7
+2023,Palmeiras - SP,Botafogo - RJ,0 x 1,25/06/2023,16:00,Allianz Parque,Sao Paulo,113,12,18.4,93,2.9,0,1,3,5,2,3,2,3,1,1
+2023,Vasco da Gama S.a.f. - RJ,Cuiabá Saf - MT,1 x 0,26/06/2023,21:00,Luso Brasileiro,Rio de Janeiro,112,12,22.3,93,1.8,1,0,-5,2,7,19,0,2,2,16
+2023,Fluminense - RJ,Bahia - BA,2 x 1,24/06/2023,18:30,Maracanã,Rio de Janeiro,111,12,22.3,93,1.8,2,1,1,5,4,10,1,3,2,14
+2023,Cuiabá Saf - MT,Santos Fc - SP,3 x 0,02/07/2023,18:30,Arena Pantanal,Cuiaba,130,13,25.9,85,2.5,3,0,-2,1,3,16,-3,2,5,13
+2023,Bahia - BA,Grêmio - RS,1 x 2,01/07/2023,18:30,Arena Fonte Nova,Salvador,129,13,27.3,83,4.3,1,2,0,4,4,15,3,8,5,2
+2023,Athletico Paranaense - PR,Palmeiras - SP,2 x 2,02/07/2023,16:00,Ligga Arena,Curitiba,128,13,16.1,97,7.9,2,2,0,4,4,10,0,2,2,3
+2023,Internacional - RS,Cruzeiro Saf - MG,0 x 0,01/07/2023,21:00,Beira-Rio,Porto Alegre,127,13,21.1,87,15.1,0,0,3,5,2,9,0,3,3,12
+2023,Atlético Mineiro Saf - MG,America Saf - MG,2 x 2,02/07/2023,16:00,Mineirão,Belo Horizonte,126,13,20.5,74,3.1,2,2,-1,3,4,10,-3,4,7,19
+2023,Goiás - GO,Coritiba S.a.f. - PR,1 x 2,03/07/2023,20:00,Hailé Pinheiro,Goiania,125,13,23.6,77,1.1,1,2,-1,3,4,17,-5,1,6,20
+2023,Corinthians - SP,Red Bull Bragantino - SP,0 x 1,02/07/2023,11:00,Neo Química Arena,Sao Paulo,124,13,18.4,93,2.9,0,1,1,3,2,15,6,7,1,7
+2023,São Paulo - SP,Fluminense - RJ,1 x 0,01/07/2023,16:00,Morumbi,Sao Paulo,123,13,18.4,93,2.9,1,0,-2,2,4,11,1,5,4,6
+2023,Botafogo - RJ,Vasco da Gama S.a.f. - RJ,2 x 0,02/07/2023,16:00,Nilton Santos,Rio de Janeiro,122,13,22.3,93,1.8,2,0,4,4,0,1,-1,2,3,18
+2023,Flamengo - RJ,Fortaleza - CE,2 x 0,01/07/2023,18:30,Maracanã,Rio de Janeiro,121,13,22.3,93,1.8,2,0,0,6,6,5,0,3,3,9
+2023,Fortaleza - CE,Athletico Paranaense - PR,1 x 0,09/07/2023,18:30,Arena Castelão,Fortaleza,139,14,26.6,89,7.2,1,0,0,3,3,10,0,4,4,11
+2023,Coritiba S.a.f. - PR,America Saf - MG,3 x 1,08/07/2023,18:30,Couto Pereira,Curitiba,138,14,16.1,97,7.9,3,1,-4,3,7,20,-3,4,7,19
+2023,Grêmio - RS,Botafogo - RJ,0 x 2,09/07/2023,18:30,Arena do Grêmio,Porto Alegre,137,14,21.1,87,15.1,0,2,7,10,3,2,4,4,0,1
+2023,Atlético Mineiro Saf - MG,Corinthians - SP,0 x 1,08/07/2023,18:30,Mineirão,Belo Horizonte,136,14,20.5,74,3.1,0,1,-1,4,5,10,0,2,2,16
+2023,Cuiabá Saf - MT,Bahia - BA,1 x 1,08/07/2023,16:00,Arena Pantanal,Cuiaba,140,14,25.9,85,2.5,1,1,1,3,2,13,-1,3,4,16
+2023,Santos Fc - SP,Goiás - GO,4 x 3,09/07/2023,11:00,Vila Belmiro,Santos,134,14,22.8,91,2.4,4,3,-6,2,8,15,-2,2,4,17
+2023,Palmeiras - SP,Flamengo - RJ,1 x 1,08/07/2023,21:00,Allianz Parque,Sao Paulo,133,14,18.4,93,2.9,1,1,-2,2,4,4,-1,5,6,3
+2023,Vasco da Gama S.a.f. - RJ,Cruzeiro Saf - MG,0 x 1,08/07/2023,16:00,São Januário,Rio de Janeiro,132,14,22.3,93,1.8,0,1,-2,1,3,19,0,1,1,12
+2023,Fluminense - RJ,Internacional - RS,2 x 0,09/07/2023,16:00,Maracanã,Rio de Janeiro,131,14,22.3,93,1.8,2,0,0,3,3,7,2,3,1,10
+2023,Red Bull Bragantino - SP,São Paulo - SP,0 x 0,09/07/2023,16:00,Nabi Abi Chedid,Braganca Paulista,135,14,17.4,93,3.7,0,0,7,7,0,6,1,3,2,8
+2023,America Saf - MG,Vasco da Gama S.a.f. - RJ,0 x 1,25/09/2023,20:00,Independência,Belo Horizonte,150,15,20.5,74,3.1,0,1,-3,4,7,20,-2,1,3,19
+2023,Fortaleza - CE,Cuiabá Saf - MT,0 x 1,16/07/2023,16:00,Arena Castelão,Fortaleza,149,15,26.6,89,7.2,0,1,0,3,3,7,2,4,2,14
+2023,Athletico Paranaense - PR,Bahia - BA,2 x 0,16/07/2023,18:30,Ligga Arena,Curitiba,148,15,16.1,97,7.9,2,0,0,3,3,12,-2,3,5,16
+2023,Internacional - RS,Palmeiras - SP,0 x 0,16/07/2023,18:30,Beira-Rio,Porto Alegre,147,15,21.1,87,15.1,0,0,-1,2,3,11,-1,3,4,4
+2023,Cruzeiro Saf - MG,Coritiba S.a.f. - PR,0 x 0,16/07/2023,11:00,Independência,Belo Horizonte,146,15,20.5,74,3.1,0,0,2,2,0,11,-1,6,7,19
+2023,Goiás - GO,Atlético Mineiro Saf - MG,0 x 0,17/07/2023,20:00,Hailé Pinheiro,Goiania,145,15,23.6,77,1.1,0,0,-4,4,8,18,-2,3,5,12
+2023,Corinthians - SP,Grêmio - RS,4 x 4,18/09/2023,21:00,Neo Química Arena,Sao Paulo,144,15,18.4,93,2.9,4,4,-1,1,2,15,3,7,4,3
+2023,São Paulo - SP,Santos Fc - SP,4 x 1,16/07/2023,16:00,Morumbi,Sao Paulo,143,15,18.4,93,2.9,4,1,0,1,1,9,-3,6,9,14
+2023,Botafogo - RJ,Red Bull Bragantino - SP,2 x 0,15/07/2023,21:00,Nilton Santos,Rio de Janeiro,142,15,22.3,93,1.8,2,0,5,5,0,1,3,3,0,6
+2023,Fluminense - RJ,Flamengo - RJ,0 x 0,16/07/2023,16:00,Maracanã,Rio de Janeiro,141,15,22.3,93,1.8,0,0,2,4,2,6,3,6,3,3
+2023,Bahia - BA,Corinthians - SP,0 x 0,22/07/2023,18:30,Arena Fonte Nova,Salvador,159,16,27.3,83,4.3,0,0,-3,2,5,16,0,5,5,14
+2023,Coritiba S.a.f. - PR,Fluminense - RJ,2 x 0,24/07/2023,19:00,Couto Pereira,Curitiba,158,16,16.1,97,7.9,2,0,3,5,2,19,1,2,1,6
+2023,Grêmio - RS,Atlético Mineiro Saf - MG,1 x 0,22/07/2023,21:00,Arena do Grêmio,Porto Alegre,157,16,21.1,87,15.1,1,0,-1,6,7,3,-1,2,3,12
+2023,Cruzeiro Saf - MG,Goiás - GO,0 x 1,23/07/2023,16:00,Independência,Belo Horizonte,156,16,20.5,74,3.1,0,1,1,1,0,10,-2,4,6,19
+2023,Cuiabá Saf - MT,São Paulo - SP,2 x 1,22/07/2023,18:30,Arena Pantanal,Cuiaba,160,16,25.9,85,2.5,2,1,4,5,1,13,4,5,1,5
+2023,Santos Fc - SP,Botafogo - RJ,2 x 2,23/07/2023,16:00,Vila Belmiro,Santos,154,16,22.8,91,2.4,2,2,-5,5,10,15,6,6,0,1
+2023,Palmeiras - SP,Fortaleza - CE,3 x 1,22/07/2023,16:00,Allianz Parque,Sao Paulo,153,16,18.4,93,2.9,3,1,0,3,3,4,-2,1,3,8
+2023,Vasco da Gama S.a.f. - RJ,Athletico Paranaense - PR,0 x 2,23/07/2023,18:30,São Januário,Rio de Janeiro,152,16,22.3,93,1.8,0,2,-2,1,3,19,1,4,3,8
+2023,Flamengo - RJ,America Saf - MG,1 x 1,22/07/2023,16:00,Maracanã,Rio de Janeiro,151,16,22.3,93,1.8,1,1,2,3,1,4,-3,3,6,20
+2023,Red Bull Bragantino - SP,Internacional - RS,0 x 0,23/07/2023,16:00,Nabi Abi Chedid,Braganca Paulista,155,16,17.4,93,3.7,0,0,-1,1,2,8,-2,0,2,12
+2023,Fortaleza - CE,Red Bull Bragantino - SP,0 x 3,29/07/2023,18:30,Arena Castelão,Fortaleza,169,17,26.6,89,7.2,0,3,-2,2,4,9,-2,0,2,7
+2023,Athletico Paranaense - PR,Cruzeiro Saf - MG,3 x 3,29/07/2023,16:00,Ligga Arena,Curitiba,168,17,16.1,97,7.9,3,3,3,4,1,6,0,1,1,11
+2023,Internacional - RS,Cuiabá Saf - MT,1 x 2,29/07/2023,16:00,Beira-Rio,Porto Alegre,167,17,21.1,87,15.1,1,2,-2,0,2,11,2,4,2,12
+2023,Atlético Mineiro Saf - MG,Flamengo - RJ,1 x 2,29/07/2023,21:00,Independência,Belo Horizonte,166,17,20.5,74,3.1,1,2,-2,0,2,13,0,2,2,4
+2023,America Saf - MG,Palmeiras - SP,1 x 4,30/07/2023,16:00,Independência,Belo Horizonte,170,17,20.5,74,3.1,1,4,-3,2,5,20,2,4,2,4
+2023,Corinthians - SP,Vasco da Gama S.a.f. - RJ,3 x 1,29/07/2023,18:30,Neo Química Arena,Sao Paulo,164,17,18.4,93,2.9,3,1,1,5,4,14,-2,1,3,19
+2023,São Paulo - SP,Bahia - BA,0 x 0,30/07/2023,11:00,Morumbi,Sao Paulo,163,17,18.4,93,2.9,0,0,2,5,3,7,-2,1,3,17
+2023,Botafogo - RJ,Coritiba S.a.f. - PR,4 x 1,30/07/2023,16:00,Nilton Santos,Rio de Janeiro,162,17,22.3,93,1.8,4,1,4,6,2,1,4,5,1,18
+2023,Fluminense - RJ,Santos Fc - SP,1 x 0,29/07/2023,16:00,Maracanã,Rio de Janeiro,161,17,22.3,93,1.8,1,0,0,2,2,8,-2,7,9,15
+2023,Goiás - GO,Grêmio - RS,1 x 1,30/07/2023,18:30,Hailé Pinheiro,Goiania,165,17,23.6,77,1.1,1,1,0,4,4,17,-1,5,6,4
+2023,Cuiabá Saf - MT,Flamengo - RJ,3 x 0,06/08/2023,20:00,Arena Pantanal,Cuiaba,180,18,25.9,85,2.5,3,0,3,5,2,9,1,3,2,3
+2023,Bahia - BA,America Saf - MG,3 x 1,06/08/2023,18:30,Arena Fonte Nova,Salvador,179,18,27.3,83,4.3,3,1,-2,0,2,17,-4,2,6,20
+2023,Coritiba S.a.f. - PR,Red Bull Bragantino - SP,0 x 1,06/08/2023,18:30,Couto Pereira,Curitiba,178,18,16.1,97,7.9,0,1,-1,3,4,18,1,3,2,5
+2023,Internacional - RS,Corinthians - SP,2 x 2,05/08/2023,18:30,Beira-Rio,Porto Alegre,177,18,21.1,87,15.1,2,2,-1,1,2,12,2,7,5,14
+2023,Cruzeiro Saf - MG,Botafogo - RJ,0 x 0,06/08/2023,18:30,Mineirão,Belo Horizonte,176,18,20.5,74,3.1,0,0,-1,3,4,11,5,8,3,1
+2023,Goiás - GO,Fortaleza - CE,1 x 0,05/08/2023,18:30,Hailé Pinheiro,Goiania,175,18,23.6,77,1.1,1,0,1,2,1,17,-6,1,7,12
+2023,São Paulo - SP,Atlético Mineiro Saf - MG,0 x 2,06/08/2023,16:00,Morumbi,Sao Paulo,173,18,18.4,93,2.9,0,2,2,5,3,9,-2,1,3,13
+2023,Vasco da Gama S.a.f. - RJ,Grêmio - RS,1 x 0,06/08/2023,16:00,São Januário,Rio de Janeiro,172,18,22.3,93,1.8,1,0,-3,2,5,19,1,6,5,5
+2023,Fluminense - RJ,Palmeiras - SP,2 x 1,05/08/2023,21:00,Maracanã,Rio de Janeiro,171,18,22.3,93,1.8,2,1,-1,1,2,6,5,7,2,2
+2023,Santos Fc - SP,Athletico Paranaense - PR,1 x 1,05/08/2023,16:00,Vila Belmiro,Santos,174,18,22.8,91,2.4,1,1,-4,3,7,17,4,7,3,8
+2023,Grêmio - RS,Fluminense - RJ,2 x 1,13/08/2023,16:00,Arena do Grêmio,Porto Alegre,187,19,21.1,87,15.1,2,1,0,2,2,6,0,3,3,5
+2023,Fortaleza - CE,Santos Fc - SP,4 x 0,13/08/2023,18:30,Arena Castelão,Fortaleza,189,19,26.6,89,7.2,4,0,-6,1,7,13,-1,3,4,17
+2023,Athletico Paranaense - PR,Cuiabá Saf - MT,2 x 0,15/08/2023,20:00,Ligga Arena,Curitiba,188,19,16.1,97,7.9,2,0,2,6,4,7,5,7,2,8
+2023,Atlético Mineiro Saf - MG,Bahia - BA,1 x 0,13/08/2023,11:00,Mineirão,Belo Horizonte,186,19,20.5,74,3.1,1,0,0,3,3,11,2,3,1,16
+2023,America Saf - MG,Goiás - GO,0 x 1,13/08/2023,16:00,Independência,Belo Horizonte,190,19,20.5,74,3.1,0,1,-5,3,8,20,2,3,1,15
+2023,Corinthians - SP,Coritiba S.a.f. - PR,3 x 1,13/08/2023,16:00,Neo Química Arena,Sao Paulo,184,19,18.4,93,2.9,3,1,2,5,3,15,-2,3,5,19
+2023,Palmeiras - SP,Cruzeiro Saf - MG,1 x 0,14/08/2023,19:00,Allianz Parque,Sao Paulo,183,19,18.4,93,2.9,1,0,4,8,4,3,-1,3,4,12
+2023,Botafogo - RJ,Internacional - RS,3 x 1,12/08/2023,21:00,Nilton Santos,Rio de Janeiro,182,19,22.3,93,1.8,3,1,3,6,3,1,-1,3,4,14
+2023,Flamengo - RJ,São Paulo - SP,1 x 1,13/08/2023,18:30,Maracanã,Rio de Janeiro,181,19,22.3,93,1.8,1,1,-2,3,5,5,-3,1,4,10
+2023,Red Bull Bragantino - SP,Vasco da Gama S.a.f. - RJ,1 x 1,14/08/2023,21:00,Nabi Abi Chedid,Braganca Paulista,185,19,17.4,93,3.7,1,1,4,4,0,5,-3,2,5,18
+2023,Cuiabá Saf - MT,Palmeiras - SP,0 x 2,19/08/2023,18:30,Arena Pantanal,Cuiaba,200,20,25.9,85,2.5,0,2,2,5,3,8,3,6,3,2
+2023,Bahia - BA,Red Bull Bragantino - SP,4 x 0,20/08/2023,16:00,Arena Fonte Nova,Salvador,199,20,27.3,83,4.3,4,0,1,3,2,16,4,5,1,4
+2023,Coritiba S.a.f. - PR,Flamengo - RJ,2 x 3,20/08/2023,16:00,Couto Pereira,Curitiba,198,20,16.1,97,7.9,2,3,-6,2,8,19,-2,3,5,4
+2023,Internacional - RS,Fortaleza - CE,0 x 1,19/08/2023,16:00,Beira-Rio,Porto Alegre,197,20,21.1,87,15.1,0,1,-3,4,7,14,0,4,4,11
+2023,Cruzeiro Saf - MG,Corinthians - SP,1 x 1,19/08/2023,21:00,Mineirão,Belo Horizonte,196,20,20.5,74,3.1,1,1,-1,3,4,12,4,8,4,13
+2023,Goiás - GO,Athletico Paranaense - PR,1 x 1,21/08/2023,20:00,Hailé Pinheiro,Goiania,195,20,23.6,77,1.1,1,1,2,3,1,15,2,6,4,6
+2023,Santos Fc - SP,Grêmio - RS,2 x 1,20/08/2023,16:00,Vila Belmiro,Santos,194,20,22.8,91,2.4,2,1,-5,1,6,17,0,3,3,4
+2023,São Paulo - SP,Botafogo - RJ,0 x 0,19/08/2023,16:00,Morumbi,Sao Paulo,193,20,18.4,93,2.9,0,0,-2,1,3,10,5,7,2,1
+2023,Vasco da Gama S.a.f. - RJ,Atlético Mineiro Saf - MG,1 x 0,20/08/2023,11:00,Maracanã,Rio de Janeiro,192,20,22.3,93,1.8,1,0,-1,3,4,18,2,4,2,11
+2023,Fluminense - RJ,America Saf - MG,3 x 1,19/08/2023,18:30,Maracanã,Rio de Janeiro,191,20,22.3,93,1.8,3,1,1,4,3,7,-6,2,8,20
+2023,Fortaleza - CE,Coritiba S.a.f. - PR,3 x 1,27/08/2023,18:30,Presidente Vargas,Fortaleza,209,21,26.6,89,7.2,3,1,4,5,1,8,-4,3,7,19
+2023,Athletico Paranaense - PR,Fluminense - RJ,2 x 2,27/08/2023,18:30,Ligga Arena,Curitiba,208,21,16.1,97,7.9,2,2,2,4,2,6,2,6,4,4
+2023,Grêmio - RS,Cruzeiro Saf - MG,3 x 0,27/08/2023,19:00,Arena do Grêmio,Porto Alegre,207,21,21.1,87,15.1,3,0,-1,3,4,5,-1,1,2,12
+2023,Atlético Mineiro Saf - MG,Santos Fc - SP,2 x 0,27/08/2023,16:00,ARENA MRV,Belo Horizonte,206,21,20.5,74,3.1,2,0,2,3,1,11,-3,3,6,17
+2023,America Saf - MG,São Paulo - SP,2 x 1,27/08/2023,16:00,Independência,Belo Horizonte,210,21,20.5,74,3.1,2,1,-5,2,7,20,-2,1,3,10
+2023,Corinthians - SP,Goiás - GO,1 x 1,26/08/2023,21:00,Neo Química Arena,Sao Paulo,204,21,18.4,93,2.9,1,1,2,6,4,13,2,3,1,15
+2023,Palmeiras - SP,Vasco da Gama S.a.f. - RJ,1 x 0,27/08/2023,18:30,Allianz Parque,Sao Paulo,203,21,18.4,93,2.9,1,0,2,4,2,2,2,3,1,18
+2023,Botafogo - RJ,Bahia - BA,3 x 0,27/08/2023,16:00,Nilton Santos,Rio de Janeiro,202,21,22.3,93,1.8,3,0,2,3,1,1,5,7,2,16
+2023,Flamengo - RJ,Internacional - RS,0 x 0,26/08/2023,18:30,Maracanã,Rio de Janeiro,201,21,22.3,93,1.8,0,0,-2,4,6,4,-3,3,6,14
+2023,Red Bull Bragantino - SP,Cuiabá Saf - MT,2 x 0,27/08/2023,11:00,Nabi Abi Chedid,Braganca Paulista,205,21,17.4,93,3.7,2,0,-3,2,5,7,-1,3,4,11
+2023,Bahia - BA,Vasco da Gama S.a.f. - RJ,1 x 1,03/09/2023,18:30,Arena Fonte Nova,Salvador,219,22,27.3,83,4.3,1,1,0,4,4,16,0,2,2,18
+2023,Athletico Paranaense - PR,Atlético Mineiro Saf - MG,1 x 1,02/09/2023,16:00,Ligga Arena,Curitiba,218,22,16.1,97,7.9,1,1,2,5,3,7,2,3,1,9
+2023,Grêmio - RS,Cuiabá Saf - MT,2 x 0,03/09/2023,11:00,Arena do Grêmio,Porto Alegre,217,22,21.1,87,15.1,2,0,3,6,3,3,-6,0,6,11
+2023,Cruzeiro Saf - MG,Red Bull Bragantino - SP,0 x 0,03/09/2023,18:30,Mineirão,Belo Horizonte,216,22,20.5,74,3.1,0,0,-4,1,5,13,-2,3,5,6
+2023,America Saf - MG,Santos Fc - SP,2 x 0,03/09/2023,18:30,Independência,Belo Horizonte,220,22,20.5,74,3.1,2,0,-2,3,5,20,-5,2,7,17
+2023,Corinthians - SP,Palmeiras - SP,0 x 0,03/09/2023,16:00,Neo Química Arena,Sao Paulo,214,22,18.4,93,2.9,0,0,2,5,3,13,4,4,0,2
+2023,São Paulo - SP,Coritiba S.a.f. - PR,2 x 1,27/09/2023,19:00,Morumbi,Sao Paulo,213,22,18.4,93,2.9,2,1,-1,2,3,10,-5,4,9,20
+2023,Botafogo - RJ,Flamengo - RJ,1 x 2,02/09/2023,21:00,Nilton Santos,Rio de Janeiro,212,22,22.3,93,1.8,1,2,5,6,1,1,1,4,3,4
+2023,Fluminense - RJ,Fortaleza - CE,1 x 0,03/09/2023,16:00,Raulino de Oliveira,Volta Redonda,211,22,19.9,94,0.4,1,0,1,6,5,6,7,8,1,8
+2023,Goiás - GO,Internacional - RS,0 x 0,02/09/2023,16:00,Hailé Pinheiro,Goiania,215,22,23.6,77,1.1,0,0,1,3,2,15,-3,1,4,14
+2023,Cuiabá Saf - MT,America Saf - MG,2 x 2,15/09/2023,20:00,Arena Pantanal,Cuiaba,230,23,25.9,85,2.5,2,2,-6,0,6,11,1,5,4,19
+2023,Fortaleza - CE,Corinthians - SP,2 x 1,14/09/2023,19:00,Arena Castelão,Fortaleza,229,23,26.6,89,7.2,2,1,2,4,2,8,0,2,2,12
+2023,Coritiba S.a.f. - PR,Bahia - BA,2 x 4,14/09/2023,20:00,Couto Pereira,Curitiba,228,23,16.1,97,7.9,2,4,-4,4,8,20,1,5,4,16
+2023,Internacional - RS,São Paulo - SP,2 x 1,13/09/2023,21:30,Beira-Rio,Porto Alegre,227,23,21.1,87,15.1,2,1,-1,0,1,14,0,3,3,10
+2023,Atlético Mineiro Saf - MG,Botafogo - RJ,1 x 0,16/09/2023,21:00,ARENA MRV,Belo Horizonte,226,23,20.5,74,3.1,1,0,1,3,2,9,2,4,2,1
+2023,Red Bull Bragantino - SP,Grêmio - RS,2 x 0,14/09/2023,21:30,Nabi Abi Chedid,Braganca Paulista,225,23,17.4,93,3.7,2,0,-2,2,4,6,4,6,2,3
+2023,Palmeiras - SP,Goiás - GO,1 x 0,15/09/2023,21:30,Allianz Parque,Sao Paulo,223,23,18.4,93,2.9,1,0,3,3,0,2,0,2,2,16
+2023,Vasco da Gama S.a.f. - RJ,Fluminense - RJ,4 x 2,16/09/2023,16:00,Nilton Santos,Rio de Janeiro,222,23,22.3,93,1.8,4,2,0,2,2,18,3,6,3,6
+2023,Flamengo - RJ,Athletico Paranaense - PR,0 x 3,13/09/2023,21:30,Kleber Andrade,Cariacica,221,23,23.2,85,9.4,0,3,2,5,3,5,0,4,4,9
+2023,Santos Fc - SP,Cruzeiro Saf - MG,0 x 3,14/09/2023,19:00,Vila Belmiro,Santos,224,23,22.8,91,2.4,0,3,-3,2,5,18,-3,1,4,14
+2023,Grêmio - RS,Palmeiras - SP,1 x 0,21/09/2023,21:30,Arena do Grêmio,Porto Alegre,237,24,21.1,87,15.1,1,0,3,5,2,3,2,2,0,2
+2023,America Saf - MG,Red Bull Bragantino - SP,0 x 2,19/09/2023,21:30,Independência,Belo Horizonte,240,24,20.5,74,3.1,0,2,3,6,3,19,4,4,0,4
+2023,Bahia - BA,Santos Fc - SP,1 x 2,18/09/2023,20:00,Arena Fonte Nova,Salvador,239,24,27.3,83,4.3,1,2,-1,5,6,15,-7,0,7,18
+2023,Athletico Paranaense - PR,Internacional - RS,2 x 1,21/09/2023,19:30,Ligga Arena,Curitiba,238,24,16.1,97,7.9,2,1,3,6,3,7,1,2,1,13
+2023,Atlético Mineiro Saf - MG,Cuiabá Saf - MT,1 x 0,23/09/2023,21:00,ARENA MRV,Belo Horizonte,236,24,20.5,74,3.1,1,0,3,4,1,9,-4,2,6,12
+2023,Goiás - GO,Flamengo - RJ,0 x 0,20/09/2023,19:00,Hailé Pinheiro,Goiania,235,24,23.6,77,1.1,0,0,-1,1,2,16,-2,2,4,6
+2023,Corinthians - SP,Botafogo - RJ,1 x 0,22/09/2023,20:00,Neo Química Arena,Sao Paulo,234,24,18.4,93,2.9,1,0,-1,2,3,14,1,4,3,1
+2023,São Paulo - SP,Fortaleza - CE,1 x 2,20/09/2023,21:30,Morumbi,Sao Paulo,233,24,18.4,93,2.9,1,2,-1,4,5,10,2,5,3,9
+2023,Vasco da Gama S.a.f. - RJ,Coritiba S.a.f. - PR,5 x 1,21/09/2023,19:00,São Januário,Rio de Janeiro,232,24,22.3,93,1.8,5,1,1,5,4,18,-5,4,9,20
+2023,Fluminense - RJ,Cruzeiro Saf - MG,1 x 0,20/09/2023,21:30,Maracanã,Rio de Janeiro,231,24,22.3,93,1.8,1,0,-1,5,6,7,0,3,3,12
+2023,Cuiabá Saf - MT,Fluminense - RJ,3 x 0,30/09/2023,18:30,Arena Pantanal,Cuiaba,250,25,25.9,85,2.5,3,0,-3,2,5,13,0,4,4,5
+2023,Fortaleza - CE,Grêmio - RS,1 x 1,30/09/2023,16:00,Arena Castelão,Fortaleza,249,25,26.6,89,7.2,1,1,1,4,3,8,1,3,2,3
+2023,Coritiba S.a.f. - PR,Athletico Paranaense - PR,2 x 0,01/10/2023,16:00,Couto Pereira,Curitiba,248,25,16.1,97,7.9,2,0,-7,4,11,20,4,6,2,6
+2023,Internacional - RS,Atlético Mineiro Saf - MG,0 x 2,30/09/2023,21:00,Beira-Rio,Porto Alegre,247,25,21.1,87,15.1,0,2,0,3,3,14,2,3,1,9
+2023,Cruzeiro Saf - MG,America Saf - MG,1 x 1,01/10/2023,16:00,Mineirão,Belo Horizonte,246,25,20.5,74,3.1,1,1,2,3,1,13,0,4,4,19
+2023,Santos Fc - SP,Vasco da Gama S.a.f. - RJ,4 x 1,01/10/2023,16:00,Vila Belmiro,Santos,244,25,22.8,91,2.4,4,1,-4,2,6,18,6,10,4,15
+2023,São Paulo - SP,Corinthians - SP,2 x 1,30/09/2023,18:30,Morumbi,Sao Paulo,243,25,18.4,93,2.9,2,1,-1,4,5,11,0,2,2,13
+2023,Botafogo - RJ,Goiás - GO,1 x 1,02/10/2023,20:00,Nilton Santos,Rio de Janeiro,242,25,22.3,93,1.8,1,1,-3,1,4,1,-1,0,1,16
+2023,Flamengo - RJ,Bahia - BA,1 x 0,30/09/2023,16:00,Maracanã,Rio de Janeiro,241,25,22.3,93,1.8,1,0,-2,2,4,8,1,6,5,18
+2023,Red Bull Bragantino - SP,Palmeiras - SP,2 x 1,01/10/2023,18:30,Nabi Abi Chedid,Braganca Paulista,245,25,17.4,93,3.7,2,1,4,4,0,5,0,1,1,2
+2023,Internacional - RS,Grêmio - RS,3 x 2,08/10/2023,16:00,Beira-Rio,Porto Alegre,257,26,21.1,87,15.1,3,2,-2,3,5,14,-1,2,3,4
+2023,Cuiabá Saf - MT,Cruzeiro Saf - MG,0 x 0,14/10/2023,21:00,Arena Pantanal,Cuiaba,260,26,25.9,85,2.5,0,0,2,5,3,11,2,4,2,13
+2023,Fortaleza - CE,America Saf - MG,3 x 2,08/10/2023,18:30,Arena Castelão,Fortaleza,259,26,26.6,89,7.2,3,2,2,5,3,9,-2,3,5,19
+2023,Athletico Paranaense - PR,Red Bull Bragantino - SP,1 x 1,08/10/2023,18:30,Ligga Arena,Curitiba,258,26,16.1,97,7.9,1,1,2,5,3,9,5,6,1,2
+2023,Atlético Mineiro Saf - MG,Coritiba S.a.f. - PR,1 x 2,08/10/2023,18:30,ARENA MRV,Belo Horizonte,256,26,20.5,74,3.1,1,2,4,4,0,9,-4,5,9,20
+2023,Fluminense - RJ,Botafogo - RJ,0 x 2,08/10/2023,16:00,Maracanã,Rio de Janeiro,251,26,22.3,93,1.8,0,2,-4,3,7,8,-2,1,3,1
+2023,Corinthians - SP,Flamengo - RJ,1 x 1,07/10/2023,21:00,Neo Química Arena,Sao Paulo,254,26,18.4,93,2.9,1,1,-1,3,4,14,-2,1,3,5
+2023,Palmeiras - SP,Santos Fc - SP,1 x 2,08/10/2023,16:00,Arena Barueri,Barueri,253,26,18.4,92,5.1,1,2,-1,2,3,3,1,6,5,16
+2023,Vasco da Gama S.a.f. - RJ,São Paulo - SP,0 x 0,07/10/2023,18:30,São Januário,Rio de Janeiro,252,26,22.3,93,1.8,0,0,3,10,7,17,-1,4,5,10
+2023,Goiás - GO,Bahia - BA,4 x 6,07/10/2023,16:00,Hailé Pinheiro,Goiania,255,26,23.6,77,1.1,4,6,-1,1,2,16,0,5,5,18
+2023,Grêmio - RS,Athletico Paranaense - PR,1 x 2,18/10/2023,19:00,Arena do Grêmio,Porto Alegre,267,27,21.1,87,15.1,1,2,0,4,4,4,-1,3,4,7
+2023,America Saf - MG,Botafogo - RJ,1 x 2,18/10/2023,20:00,Independência,Belo Horizonte,270,27,20.5,74,3.1,1,2,-3,3,6,20,1,3,2,1
+2023,Bahia - BA,Internacional - RS,1 x 0,18/10/2023,21:30,Arena Fonte Nova,Salvador,269,27,27.3,83,4.3,1,0,0,7,7,16,-2,4,6,12
+2023,Coritiba S.a.f. - PR,Cuiabá Saf - MT,0 x 3,18/10/2023,20:00,Couto Pereira,Curitiba,268,27,16.1,97,7.9,0,3,-1,5,6,19,2,3,1,11
+2023,Cruzeiro Saf - MG,Flamengo - RJ,0 x 2,19/10/2023,19:00,Mineirão,Belo Horizonte,266,27,20.5,74,3.1,0,2,-1,1,2,13,1,2,1,5
+2023,Fluminense - RJ,Corinthians - SP,3 x 3,19/10/2023,21:30,Maracanã,Rio de Janeiro,261,27,22.3,93,1.8,3,3,-4,1,5,8,0,3,3,14
+2023,Santos Fc - SP,Red Bull Bragantino - SP,1 x 3,19/10/2023,20:00,Vila Belmiro,Santos,264,27,22.8,91,2.4,1,3,5,8,3,16,3,5,2,3
+2023,Palmeiras - SP,Atlético Mineiro Saf - MG,0 x 2,19/10/2023,19:00,Allianz Parque,Sao Paulo,263,27,18.4,93,2.9,0,2,-3,2,5,4,2,4,2,9
+2023,Vasco da Gama S.a.f. - RJ,Fortaleza - CE,1 x 0,18/10/2023,21:30,São Januário,Rio de Janeiro,262,27,22.3,93,1.8,1,0,1,6,5,17,2,6,4,8
+2023,Goiás - GO,São Paulo - SP,2 x 0,18/10/2023,21:30,Hailé Pinheiro,Goiania,265,27,23.6,77,1.1,2,0,-2,5,7,18,0,3,3,11
+2023,Cuiabá Saf - MT,Goiás - GO,1 x 1,21/10/2023,18:30,Arena Pantanal,Cuiaba,280,28,25.9,85,2.5,1,1,6,6,0,10,0,7,7,17
+2023,Bahia - BA,Fortaleza - CE,2 x 0,21/10/2023,18:30,Arena Fonte Nova,Salvador,279,28,27.3,83,4.3,2,0,2,7,5,15,0,4,4,8
+2023,Coritiba S.a.f. - PR,Palmeiras - SP,0 x 2,22/10/2023,18:30,Couto Pereira,Curitiba,278,28,16.1,97,7.9,0,2,0,4,4,19,-4,2,6,4
+2023,Internacional - RS,Santos Fc - SP,7 x 1,22/10/2023,16:00,Beira-Rio,Porto Alegre,277,28,21.1,87,15.1,7,1,-2,3,5,14,2,7,5,18
+2023,Atlético Mineiro Saf - MG,Cruzeiro Saf - MG,0 x 1,22/10/2023,16:00,ARENA MRV,Belo Horizonte,276,28,20.5,74,3.1,0,1,3,5,2,7,-2,1,3,15
+2023,Corinthians - SP,America Saf - MG,1 x 1,22/10/2023,18:30,Neo Química Arena,Sao Paulo,274,28,18.4,93,2.9,1,1,-1,5,6,15,-2,4,6,20
+2023,São Paulo - SP,Grêmio - RS,3 x 0,21/10/2023,18:30,Morumbi,Sao Paulo,273,28,18.4,93,2.9,3,0,-1,2,3,11,-2,4,6,6
+2023,Botafogo - RJ,Athletico Paranaense - PR,1 x 1,22/10/2023,15:00,Nilton Santos,Rio de Janeiro,272,28,22.3,93,1.8,1,1,3,5,2,1,-1,3,4,5
+2023,Flamengo - RJ,Vasco da Gama S.a.f. - RJ,1 x 0,22/10/2023,16:00,Maracanã,Rio de Janeiro,271,28,22.3,93,1.8,1,0,3,4,1,4,-2,2,4,17
+2023,Red Bull Bragantino - SP,Fluminense - RJ,1 x 0,22/10/2023,18:30,Nabi Abi Chedid,Braganca Paulista,275,28,17.4,93,3.7,1,0,3,6,3,3,-5,3,8,9
+2023,Grêmio - RS,Flamengo - RJ,3 x 2,25/10/2023,21:30,Arena do Grêmio,Porto Alegre,287,29,21.1,87,15.1,3,2,-5,3,8,6,3,4,1,3
+2023,Fortaleza - CE,Botafogo - RJ,2 x 2,23/11/2023,19:00,Arena Castelão,Fortaleza,289,29,26.6,89,7.2,2,2,-2,3,5,8,3,5,2,1
+2023,Athletico Paranaense - PR,America Saf - MG,3 x 2,25/10/2023,19:00,Ligga Arena,Curitiba,288,29,16.1,97,7.9,3,2,1,4,3,6,-2,4,6,20
+2023,Cuiabá Saf - MT,Corinthians - SP,0 x 1,25/10/2023,21:30,Arena Pantanal,Cuiaba,290,29,25.9,85,2.5,0,1,3,4,1,11,0,5,5,15
+2023,Cruzeiro Saf - MG,Bahia - BA,3 x 0,25/10/2023,20:00,Mineirão,Belo Horizonte,286,29,20.5,74,3.1,3,0,-1,1,2,14,5,9,4,15
+2023,Palmeiras - SP,São Paulo - SP,5 x 0,25/10/2023,20:00,Allianz Parque,Sao Paulo,283,29,18.4,93,2.9,5,0,-1,3,4,5,1,3,2,10
+2023,Santos Fc - SP,Coritiba S.a.f. - PR,2 x 1,26/10/2023,21:30,Vila Belmiro,Santos,284,29,22.8,91,2.4,2,1,-7,4,11,18,-4,2,6,19
+2023,Vasco da Gama S.a.f. - RJ,Internacional - RS,1 x 2,26/10/2023,19:00,São Januário,Rio de Janeiro,282,29,22.3,93,1.8,1,2,0,1,1,18,6,10,4,14
+2023,Fluminense - RJ,Goiás - GO,5 x 3,25/10/2023,19:00,Raulino de Oliveira,Volta Redonda,281,29,19.9,94,0.4,5,3,-3,3,6,9,0,7,7,17
+2023,Red Bull Bragantino - SP,Atlético Mineiro Saf - MG,1 x 2,25/10/2023,19:00,Nabi Abi Chedid,Braganca Paulista,285,29,17.4,93,3.7,1,2,3,5,2,2,0,3,3,8
+2023,America Saf - MG,Grêmio - RS,3 x 4,28/10/2023,19:00,Independência,Belo Horizonte,300,30,20.5,74,3.1,3,4,-2,4,6,20,-3,4,7,6
+2023,Fortaleza - CE,Cruzeiro Saf - MG,0 x 1,18/11/2023,18:30,Arena Castelão,Fortaleza,299,30,26.6,89,7.2,0,1,-3,2,5,9,2,4,2,12
+2023,Athletico Paranaense - PR,São Paulo - SP,1 x 1,29/10/2023,16:00,Ligga Arena,Curitiba,298,30,16.1,97,7.9,1,1,2,6,4,6,-4,3,7,11
+2023,Internacional - RS,Coritiba S.a.f. - PR,3 x 4,29/10/2023,18:30,Beira-Rio,Porto Alegre,297,30,21.1,87,15.1,3,4,6,9,3,12,-6,1,7,19
+2023,Atlético Mineiro Saf - MG,Fluminense - RJ,2 x 0,28/10/2023,21:00,ARENA MRV,Belo Horizonte,296,30,20.5,74,3.1,2,0,2,4,2,7,1,8,7,8
+2023,Corinthians - SP,Santos Fc - SP,1 x 1,29/10/2023,18:30,Neo Química Arena,Sao Paulo,294,30,18.4,93,2.9,1,1,1,5,4,14,-7,4,11,16
+2023,Palmeiras - SP,Bahia - BA,1 x 0,28/10/2023,19:00,Allianz Parque,Sao Paulo,293,30,18.4,93,2.9,1,0,5,7,2,3,0,3,3,15
+2023,Botafogo - RJ,Cuiabá Saf - MT,0 x 1,29/10/2023,20:00,Nilton Santos,Rio de Janeiro,292,30,22.3,93,1.8,0,1,1,5,4,1,2,4,2,14
+2023,Flamengo - RJ,Red Bull Bragantino - SP,1 x 0,23/11/2023,21:30,Maracanã,Rio de Janeiro,291,30,22.3,93,1.8,1,0,2,5,3,4,2,5,3,3
+2023,Goiás - GO,Vasco da Gama S.a.f. - RJ,1 x 1,29/10/2023,16:00,Hailé Pinheiro,Goiania,295,30,23.6,77,1.1,1,1,0,6,6,17,-1,2,3,18
+2023,Internacional - RS,America Saf - MG,1 x 1,01/11/2023,19:00,Beira-Rio,Porto Alegre,307,31,21.1,87,15.1,1,1,6,12,6,13,-2,6,8,20
+2023,Cuiabá Saf - MT,Vasco da Gama S.a.f. - RJ,0 x 2,02/11/2023,17:00,Arena Pantanal,Cuiaba,310,31,25.9,85,2.5,0,2,0,2,2,11,-2,2,4,18
+2023,Bahia - BA,Fluminense - RJ,1 x 0,31/10/2023,19:00,Arena Fonte Nova,Salvador,309,31,27.3,83,4.3,1,0,-2,2,4,15,-1,5,6,8
+2023,Coritiba S.a.f. - PR,Grêmio - RS,1 x 2,01/11/2023,20:00,Couto Pereira,Curitiba,308,31,16.1,97,7.9,1,2,-2,5,7,19,-1,7,8,5
+2023,Atlético Mineiro Saf - MG,Fortaleza - CE,3 x 1,01/11/2023,21:30,ARENA MRV,Belo Horizonte,306,31,20.5,74,3.1,3,1,2,4,2,6,-3,2,5,9
+2023,Flamengo - RJ,Santos Fc - SP,1 x 2,01/11/2023,20:00,Mané Garrincha,Brasilia,301,31,20.1,88,3.3,1,2,1,4,3,3,-5,4,9,17
+2023,Corinthians - SP,Athletico Paranaense - PR,1 x 0,01/11/2023,19:00,Neo Química Arena,Sao Paulo,304,31,18.4,93,2.9,1,0,1,3,2,14,1,5,4,7
+2023,São Paulo - SP,Cruzeiro Saf - MG,1 x 0,02/11/2023,20:00,Morumbi,Sao Paulo,303,31,18.4,93,2.9,1,0,-2,4,6,13,5,5,0,10
+2023,Botafogo - RJ,Palmeiras - SP,3 x 4,01/11/2023,21:30,Nilton Santos,Rio de Janeiro,302,31,22.3,93,1.8,3,4,-1,3,4,1,8,8,0,2
+2023,Goiás - GO,Red Bull Bragantino - SP,0 x 2,02/11/2023,18:00,Hailé Pinheiro,Goiania,305,31,23.6,77,1.1,0,2,-2,5,7,18,-1,2,3,6
+2023,Grêmio - RS,Bahia - BA,1 x 0,04/11/2023,19:30,Arena do Grêmio,Porto Alegre,317,32,21.1,87,15.1,1,0,3,9,6,5,-3,1,4,15
+2023,America Saf - MG,Atlético Mineiro Saf - MG,1 x 1,04/11/2023,19:30,Parque do Sabiá,Uberlandia,320,32,20.3,76,3.9,1,1,-2,6,8,20,5,7,2,6
+2023,Fortaleza - CE,Flamengo - RJ,0 x 2,05/11/2023,16:00,Arena Castelão,Fortaleza,319,32,26.6,89,7.2,0,2,-3,3,6,9,-1,4,5,6
+2023,Coritiba S.a.f. - PR,Goiás - GO,0 x 1,05/11/2023,18:30,Couto Pereira,Curitiba,318,32,16.1,97,7.9,0,1,-1,6,7,19,-4,4,8,18
+2023,Cruzeiro Saf - MG,Internacional - RS,1 x 2,05/11/2023,16:00,Mineirão,Belo Horizonte,316,32,20.5,74,3.1,1,2,3,4,1,11,0,6,6,14
+2023,Fluminense - RJ,São Paulo - SP,1 x 0,22/11/2023,21:30,Maracanã,Rio de Janeiro,311,32,22.3,93,1.8,1,0,-1,5,6,8,-4,2,6,10
+2023,Santos Fc - SP,Cuiabá Saf - MT,0 x 0,06/11/2023,21:00,Vila Belmiro,Santos,314,32,22.8,91,2.4,0,0,2,5,3,16,-2,1,3,14
+2023,Palmeiras - SP,Athletico Paranaense - PR,1 x 0,04/11/2023,21:30,Arena Barueri,Barueri,313,32,18.4,92,5.1,1,0,7,10,3,2,0,4,4,7
+2023,Vasco da Gama S.a.f. - RJ,Botafogo - RJ,1 x 0,06/11/2023,19:00,São Januário,Rio de Janeiro,312,32,22.3,93,1.8,1,0,1,4,3,18,-2,5,7,1
+2023,Red Bull Bragantino - SP,Corinthians - SP,1 x 0,05/11/2023,16:00,Nabi Abi Chedid,Braganca Paulista,315,32,17.4,93,3.7,1,0,0,3,3,5,2,3,1,14
+2023,America Saf - MG,Coritiba S.a.f. - PR,0 x 3,08/11/2023,19:00,Independência,Belo Horizonte,330,33,20.5,74,3.1,0,3,-1,5,6,20,-1,5,6,19
+2023,Bahia - BA,Cuiabá Saf - MT,0 x 3,09/11/2023,20:00,Arena Fonte Nova,Salvador,329,33,27.3,83,4.3,0,3,-1,1,2,16,-1,1,2,12
+2023,Athletico Paranaense - PR,Fortaleza - CE,1 x 1,08/11/2023,20:00,Ligga Arena,Curitiba,328,33,16.1,97,7.9,1,1,-2,1,3,7,-5,1,6,10
+2023,Internacional - RS,Fluminense - RJ,0 x 0,08/11/2023,19:00,Beira-Rio,Porto Alegre,327,33,21.1,87,15.1,0,0,0,6,6,12,-2,1,3,8
+2023,Cruzeiro Saf - MG,Vasco da Gama S.a.f. - RJ,2 x 2,22/11/2023,19:00,Mineirão,Belo Horizonte,326,33,20.5,74,3.1,2,2,-1,2,3,13,3,4,1,17
+2023,Corinthians - SP,Atlético Mineiro Saf - MG,1 x 1,09/11/2023,19:00,Neo Química Arena,Sao Paulo,324,33,18.4,93,2.9,1,1,0,2,2,14,4,6,2,6
+2023,São Paulo - SP,Red Bull Bragantino - SP,1 x 0,08/11/2023,20:00,Vila Belmiro,Santos,323,33,22.8,91,2.4,1,0,0,2,2,12,2,3,1,3
+2023,Botafogo - RJ,Grêmio - RS,3 x 4,09/11/2023,20:00,São Januário,Rio de Janeiro,322,33,22.3,93,1.8,3,4,-3,3,6,1,3,7,4,5
+2023,Flamengo - RJ,Palmeiras - SP,3 x 0,08/11/2023,21:30,Maracanã,Rio de Janeiro,321,33,22.3,93,1.8,3,0,2,4,2,5,3,6,3,2
+2023,Goiás - GO,Santos Fc - SP,0 x 1,09/11/2023,19:00,Hailé Pinheiro,Goiania,325,33,23.6,77,1.1,0,1,-1,2,3,18,1,3,2,16
+2023,Grêmio - RS,Corinthians - SP,0 x 1,12/11/2023,16:00,Arena do Grêmio,Porto Alegre,337,34,21.1,87,15.1,0,1,3,7,4,4,0,2,2,14
+2023,Bahia - BA,Athletico Paranaense - PR,1 x 1,12/11/2023,18:30,Arena Fonte Nova,Salvador,339,34,27.3,83,4.3,1,1,-3,1,4,17,-2,1,3,7
+2023,Coritiba S.a.f. - PR,Cruzeiro Saf - MG,1 x 0,11/11/2023,16:00,Durival Britto,Curitiba,338,34,16.1,97,7.9,1,0,1,4,3,19,-2,3,5,14
+2023,Cuiabá Saf - MT,Fortaleza - CE,2 x 1,12/11/2023,18:30,Arena Pantanal,Cuiaba,340,34,25.9,85,2.5,2,1,1,3,2,11,-4,2,6,12
+2023,Atlético Mineiro Saf - MG,Goiás - GO,2 x 1,12/11/2023,18:30,ARENA MRV,Belo Horizonte,336,34,20.5,74,3.1,2,1,2,5,3,6,-2,1,3,18
+2023,Palmeiras - SP,Internacional - RS,3 x 0,11/11/2023,21:00,Arena Barueri,Barueri,333,34,18.4,92,5.1,3,0,-1,5,6,2,1,3,2,13
+2023,Santos Fc - SP,São Paulo - SP,0 x 0,12/11/2023,18:30,Vila Belmiro,Santos,334,34,22.8,91,2.4,0,0,2,3,1,15,1,2,1,10
+2023,Vasco da Gama S.a.f. - RJ,America Saf - MG,2 x 1,12/11/2023,18:30,São Januário,Rio de Janeiro,332,34,22.3,93,1.8,2,1,3,5,2,17,-3,2,5,20
+2023,Flamengo - RJ,Fluminense - RJ,1 x 1,11/11/2023,18:30,Maracanã,Rio de Janeiro,331,34,22.3,93,1.8,1,1,4,6,2,3,0,1,1,8
+2023,Red Bull Bragantino - SP,Botafogo - RJ,2 x 2,12/11/2023,16:00,Nabi Abi Chedid,Braganca Paulista,335,34,17.4,93,3.7,2,2,2,3,1,5,-3,6,9,2
+2023,America Saf - MG,Flamengo - RJ,0 x 3,26/11/2023,18:30,Parque do Sabiá,Uberlandia,350,35,20.3,76,3.9,0,3,-4,2,6,20,5,6,1,3
+2023,Fortaleza - CE,Palmeiras - SP,2 x 2,26/11/2023,18:30,Arena Castelão,Fortaleza,349,35,26.6,89,7.2,2,2,-3,2,5,12,1,4,3,2
+2023,Athletico Paranaense - PR,Vasco da Gama S.a.f. - RJ,0 x 0,25/11/2023,19:30,Ligga Arena,Curitiba,348,35,16.1,97,7.9,0,0,-1,2,3,7,2,5,3,16
+2023,Internacional - RS,Red Bull Bragantino - SP,1 x 0,26/11/2023,18:30,Beira-Rio,Porto Alegre,347,35,21.1,87,15.1,1,0,-2,2,4,13,0,3,3,4
+2023,Atlético Mineiro Saf - MG,Grêmio - RS,3 x 0,26/11/2023,16:00,ARENA MRV,Belo Horizonte,346,35,20.5,74,3.1,3,0,1,4,3,6,1,5,4,5
+2023,Goiás - GO,Cruzeiro Saf - MG,0 x 1,27/11/2023,21:00,Hailé Pinheiro,Goiania,345,35,23.6,77,1.1,0,1,-1,2,3,18,-2,3,5,16
+2023,Corinthians - SP,Bahia - BA,1 x 5,24/11/2023,21:00,Neo Química Arena,Sao Paulo,344,35,18.4,93,2.9,1,5,0,2,2,14,-4,1,5,17
+2023,São Paulo - SP,Cuiabá Saf - MT,0 x 0,26/11/2023,18:30,Morumbi,Sao Paulo,343,35,18.4,93,2.9,0,0,0,1,1,10,4,5,1,9
+2023,Botafogo - RJ,Santos Fc - SP,1 x 1,26/11/2023,16:00,Nilton Santos,Rio de Janeiro,342,35,22.3,93,1.8,1,1,-2,5,7,3,1,1,0,16
+2023,Fluminense - RJ,Coritiba S.a.f. - PR,2 x 1,25/11/2023,21:00,Maracanã,Rio de Janeiro,341,35,22.3,93,1.8,2,1,1,2,1,8,3,4,1,19
+2023,Bahia - BA,São Paulo - SP,0 x 1,29/11/2023,20:00,Arena Fonte Nova,Salvador,359,36,27.3,83,4.3,0,1,1,6,5,17,1,1,0,10
+2023,Cuiabá Saf - MT,Internacional - RS,0 x 2,29/11/2023,20:00,Arena Pantanal,Cuiaba,360,36,25.9,85,2.5,0,2,4,5,1,10,-2,1,3,11
+2023,Grêmio - RS,Goiás - GO,2 x 1,30/11/2023,19:00,Arena do Grêmio,Porto Alegre,357,36,21.1,87,15.1,2,1,-3,4,7,6,-3,1,4,18
+2023,Cruzeiro Saf - MG,Athletico Paranaense - PR,1 x 1,30/11/2023,20:00,Mineirão,Belo Horizonte,356,36,20.5,74,3.1,1,1,0,3,3,13,0,2,2,8
+2023,Coritiba S.a.f. - PR,Botafogo - RJ,1 x 1,29/11/2023,21:30,Couto Pereira,Curitiba,358,36,16.1,97,7.9,1,1,3,5,2,19,-1,6,7,3
+2023,Santos Fc - SP,Fluminense - RJ,0 x 3,29/11/2023,19:00,Vila Belmiro,Santos,354,36,22.8,91,2.4,0,3,1,2,1,15,1,3,2,8
+2023,Palmeiras - SP,America Saf - MG,4 x 0,29/11/2023,21:30,Allianz Parque,Sao Paulo,353,36,18.4,93,2.9,4,0,0,5,5,1,-7,1,8,20
+2023,Vasco da Gama S.a.f. - RJ,Corinthians - SP,2 x 4,28/11/2023,21:30,São Januário,Rio de Janeiro,352,36,22.3,93,1.8,2,4,1,4,3,16,-3,3,6,14
+2023,Flamengo - RJ,Atlético Mineiro Saf - MG,0 x 3,29/11/2023,19:30,Maracanã,Rio de Janeiro,351,36,22.3,93,1.8,0,3,6,7,1,3,4,6,2,5
+2023,Red Bull Bragantino - SP,Fortaleza - CE,1 x 2,30/11/2023,20:30,Nabi Abi Chedid,Braganca Paulista,355,36,17.4,93,3.7,1,2,-2,2,4,6,-1,4,5,14
+2023,America Saf - MG,Bahia - BA,3 x 2,03/12/2023,18:30,Independência,Belo Horizonte,370,37,20.5,74,3.1,3,2,-8,1,9,20,3,6,3,17
+2023,Fortaleza - CE,Goiás - GO,1 x 0,03/12/2023,18:30,Arena Castelão,Fortaleza,369,37,26.6,89,7.2,1,0,0,5,5,11,-3,2,5,18
+2023,Grêmio - RS,Vasco da Gama S.a.f. - RJ,1 x 0,03/12/2023,18:30,Arena do Grêmio,Porto Alegre,367,37,21.1,87,15.1,1,0,-3,2,5,5,-1,4,5,16
+2023,Atlético Mineiro Saf - MG,São Paulo - SP,2 x 1,02/12/2023,21:00,Mineirão,Belo Horizonte,366,37,20.5,74,3.1,2,1,7,8,1,4,1,1,0,10
+2023,Athletico Paranaense - PR,Santos Fc - SP,3 x 0,03/12/2023,18:30,Ligga Arena,Curitiba,368,37,16.1,97,7.9,3,0,0,2,2,8,-3,1,4,15
+2023,Corinthians - SP,Internacional - RS,1 x 2,02/12/2023,18:00,Neo Química Arena,Sao Paulo,364,37,18.4,93,2.9,1,2,-1,6,7,13,0,3,3,11
+2023,Palmeiras - SP,Fluminense - RJ,1 x 0,03/12/2023,16:00,Allianz Parque,Sao Paulo,363,37,18.4,93,2.9,1,0,7,9,2,1,4,6,2,8
+2023,Botafogo - RJ,Cruzeiro Saf - MG,0 x 0,03/12/2023,18:30,Nilton Santos,Rio de Janeiro,362,37,22.3,93,1.8,0,0,0,4,4,4,0,2,2,14
+2023,Flamengo - RJ,Cuiabá Saf - MT,2 x 1,03/12/2023,16:00,Maracanã,Rio de Janeiro,361,37,22.3,93,1.8,2,1,0,4,4,5,-1,2,3,12
+2023,Red Bull Bragantino - SP,Coritiba S.a.f. - PR,1 x 0,03/12/2023,18:30,Nabi Abi Chedid,Braganca Paulista,365,37,17.4,93,3.7,1,0,-2,3,5,6,0,3,3,19
+2023,Bahia - BA,Atlético Mineiro Saf - MG,4 x 1,06/12/2023,21:30,Arena Fonte Nova,Salvador,379,38,27.3,83,4.3,4,1,2,7,5,17,7,8,1,2
+2023,Fluminense - RJ,Grêmio - RS,2 x 3,06/12/2023,21:30,Maracanã,Rio de Janeiro,371,38,22.3,93,1.8,2,3,3,5,2,8,-1,3,4,4
+2023,Vasco da Gama S.a.f. - RJ,Red Bull Bragantino - SP,2 x 1,06/12/2023,21:30,São Januário,Rio de Janeiro,372,38,22.3,93,1.8,2,1,-3,2,5,17,-1,2,3,6
+2023,São Paulo - SP,Flamengo - RJ,1 x 0,06/12/2023,21:30,Morumbi,Sao Paulo,373,38,18.4,93,2.9,1,0,0,2,2,11,1,5,4,4
+2023,Santos Fc - SP,Fortaleza - CE,1 x 2,06/12/2023,21:30,Vila Belmiro,Santos,374,38,22.8,91,2.4,1,2,-6,1,7,17,2,5,3,11
+2023,Goiás - GO,America Saf - MG,1 x 0,06/12/2023,19:00,Hailé Pinheiro,Goiania,375,38,23.6,77,1.1,1,0,-3,1,4,18,-6,3,9,20
+2023,Cruzeiro Saf - MG,Palmeiras - SP,1 x 1,06/12/2023,21:30,Mineirão,Belo Horizonte,376,38,20.5,74,3.1,1,1,1,2,1,14,5,7,2,1
+2023,Internacional - RS,Botafogo - RJ,3 x 1,06/12/2023,21:30,Beira-Rio,Porto Alegre,377,38,21.1,87,15.1,3,1,4,5,1,11,0,2,2,5
+2023,Coritiba S.a.f. - PR,Corinthians - SP,0 x 2,06/12/2023,21:30,Couto Pereira,Curitiba,378,38,16.1,97,7.9,0,2,-2,2,4,19,-3,6,9,14
+2023,Cuiabá Saf - MT,Athletico Paranaense - PR,3 x 0,06/12/2023,21:30,Arena Pantanal,Cuiaba,380,38,25.9,85,2.5,3,0,-3,1,4,13,3,4,1,7
+2024,Internacional - RS,Bahia - BA,2 x 1,13/04/2024,18:30,Beira-Rio,Porto Alegre,1,1,21.1,87,15.1,2,1,0,0,0,1,0,0,0,13
+2024,Cruzeiro Saf - MG,Botafogo - RJ,3 x 2,14/04/2024,17:00,Mineirão,Belo Horizonte,2,1,20.5,74,3.1,3,2,0,0,0,2,0,0,0,14
+2024,Vitória - BA,Palmeiras - SP,0 x 1,14/04/2024,18:30,Manoel Barradas,Salvador,3,1,27.3,83,4.3,0,1,0,0,0,3,0,0,0,14
+2024,Fluminense - RJ,Red Bull Bragantino - SP,2 x 2,13/04/2024,21:00,Maracanã,Rio de Janeiro,4,1,22.3,93,1.8,2,2,0,0,0,4,0,0,0,14
+2024,Vasco da Gama S.a.f. - RJ,Grêmio - RS,2 x 1,14/04/2024,16:00,São Januário,Rio de Janeiro,5,1,22.3,93,1.8,2,1,0,0,0,6,0,0,0,12
+2024,Corinthians - SP,Atlético Mineiro Saf - MG,0 x 0,14/04/2024,16:00,Neo Química Arena,Sao Paulo,6,1,18.4,93,2.9,0,0,0,0,0,7,0,0,0,12
+2024,São Paulo - SP,Fortaleza - CE,1 x 2,13/04/2024,21:00,Morumbi,Sao Paulo,7,1,18.4,93,2.9,1,2,0,0,0,9,0,0,0,14
+2024,Athletico Paranaense - PR,Cuiabá Saf - MT,4 x 0,14/04/2024,16:00,Ligga Arena,Curitiba,8,1,16.1,97,7.9,4,0,0,0,0,10,0,0,0,14
+2024,Atlético Goianiense Saf - GO,Flamengo - RJ,1 x 2,14/04/2024,16:00,Serra Dourada,Goiania,9,1,23.6,77,1.1,1,2,0,0,0,11,0,0,0,13
+2024,Criciúma - SC,Juventude - RS,1 x 1,13/04/2024,18:30,Heriberto Hulse,Criciuma,10,1,19.0,98,4.2,1,1,0,0,0,12,0,0,0,13
+2024,Juventude - RS,Corinthians - SP,2 x 0,17/04/2024,20:00,Alfredo Jaconi,Caxias do Sul,20,2,16.2,90,9.7,2,0,0,1,1,11,0,0,0,12
+2024,Cuiabá Saf - MT,Vitória - BA,0 x 0,05/06/2024,20:00,Arena Pantanal,Cuiaba,19,2,25.9,85,2.5,0,0,-4,0,4,20,-1,0,1,19
+2024,Fortaleza - CE,Cruzeiro Saf - MG,1 x 1,17/04/2024,20:00,Arena Castelão,Fortaleza,18,2,26.6,89,7.2,1,1,1,2,1,7,1,3,2,3
+2024,Red Bull Bragantino - SP,Vasco da Gama S.a.f. - RJ,2 x 1,17/04/2024,19:00,Nabi Abi Chedid,Braganca Paulista,17,2,17.4,93,3.7,2,1,0,2,2,10,1,2,1,6
+2024,Palmeiras - SP,Internacional - RS,0 x 1,17/04/2024,20:00,Arena Barueri,Barueri,16,2,18.4,92,5.1,0,1,1,1,0,8,1,2,1,6
+2024,Bahia - BA,Fluminense - RJ,2 x 1,16/04/2024,21:30,Arena Fonte Nova,Salvador,13,2,27.3,83,4.3,2,1,-1,1,2,20,0,2,2,10
+2024,Flamengo - RJ,São Paulo - SP,2 x 1,17/04/2024,21:30,Maracanã,Rio de Janeiro,14,2,22.3,93,1.8,2,1,1,2,1,7,-1,1,2,18
+2024,Atlético Mineiro Saf - MG,Criciúma - SC,1 x 1,17/04/2024,20:00,ARENA MRV,Belo Horizonte,12,2,20.5,74,3.1,1,1,0,0,0,12,0,1,1,11
+2024,Grêmio - RS,Athletico Paranaense - PR,2 x 0,17/04/2024,19:00,Arena do Grêmio,Porto Alegre,11,2,21.1,87,15.1,2,0,-1,1,2,19,4,4,0,7
+2024,Botafogo - RJ,Atlético Goianiense Saf - GO,1 x 0,18/04/2024,21:30,Nilton Santos,Rio de Janeiro,15,2,22.3,93,1.8,1,0,-1,2,3,18,-1,1,2,19
+2024,Red Bull Bragantino - SP,Corinthians - SP,1 x 0,20/04/2024,18:30,Nabi Abi Chedid,Braganca Paulista,27,3,17.4,93,3.7,1,0,1,4,3,5,-2,0,2,17
+2024,Criciúma - SC,Fortaleza - CE,1 x 1,24/07/2024,19:00,Heriberto Hulse,Criciuma,30,3,19.0,98,4.2,1,1,0,2,2,13,1,3,2,6
+2024,Atlético Goianiense Saf - GO,São Paulo - SP,0 x 3,21/04/2024,18:30,Antônio Accioly,Goiania,29,3,23.6,77,1.1,0,3,-2,1,3,20,-2,2,4,19
+2024,Athletico Paranaense - PR,Internacional - RS,1 x 0,21/04/2024,16:00,Ligga Arena,Curitiba,28,3,16.1,97,7.9,1,0,2,4,2,7,2,3,1,3
+2024,Palmeiras - SP,Flamengo - RJ,0 x 0,21/04/2024,16:00,Allianz Parque,Sao Paulo,26,3,18.4,93,2.9,0,0,0,1,1,14,2,4,2,3
+2024,Atlético Mineiro Saf - MG,Cruzeiro Saf - MG,3 x 0,20/04/2024,21:00,ARENA MRV,Belo Horizonte,22,3,20.5,74,3.1,3,0,0,1,1,15,1,4,3,7
+2024,Fluminense - RJ,Vasco da Gama S.a.f. - RJ,2 x 1,20/04/2024,16:00,Maracanã,Rio de Janeiro,24,3,22.3,93,1.8,2,1,-1,3,4,16,0,3,3,12
+2024,Vitória - BA,Bahia - BA,2 x 2,21/04/2024,16:00,Manoel Barradas,Salvador,23,3,27.3,83,4.3,2,2,-1,0,1,17,0,3,3,14
+2024,Grêmio - RS,Cuiabá Saf - MT,1 x 0,20/04/2024,18:30,Arena do Grêmio,Porto Alegre,21,3,21.1,87,15.1,1,0,1,3,2,13,-4,0,4,19
+2024,Botafogo - RJ,Juventude - RS,5 x 1,21/04/2024,18:30,Nilton Santos,Rio de Janeiro,25,3,22.3,93,1.8,5,1,0,3,3,15,2,3,1,8
+2024,Juventude - RS,Athletico Paranaense - PR,1 x 1,28/04/2024,18:30,Alfredo Jaconi,Caxias do Sul,40,4,16.2,90,9.7,1,1,-2,4,6,13,3,5,2,4
+2024,Cuiabá Saf - MT,Atlético Mineiro Saf - MG,0 x 3,27/04/2024,18:30,Arena Pantanal,Cuiaba,39,4,25.9,85,2.5,0,3,-5,0,5,19,3,4,1,7
+2024,Fortaleza - CE,Red Bull Bragantino - SP,1 x 1,28/04/2024,18:30,Arena Castelão,Fortaleza,38,4,26.6,89,7.2,1,1,1,4,3,8,2,5,3,3
+2024,São Paulo - SP,Palmeiras - SP,0 x 0,29/04/2024,20:00,Morumbi,Sao Paulo,37,4,18.4,93,2.9,0,0,1,5,4,14,0,1,1,12
+2024,Corinthians - SP,Fluminense - RJ,3 x 0,28/04/2024,16:00,Neo Química Arena,Sao Paulo,36,4,18.4,93,2.9,3,0,-3,0,3,18,0,5,5,12
+2024,Vasco da Gama S.a.f. - RJ,Criciúma - SC,0 x 4,27/04/2024,16:00,São Januário,Rio de Janeiro,35,4,22.3,93,1.8,0,4,-1,4,5,17,0,3,3,16
+2024,Bahia - BA,Grêmio - RS,1 x 0,27/04/2024,21:00,Arena Fonte Nova,Salvador,33,4,27.3,83,4.3,1,0,0,5,5,13,2,4,2,7
+2024,Cruzeiro Saf - MG,Vitória - BA,3 x 1,28/04/2024,16:00,Mineirão,Belo Horizonte,32,4,20.5,74,3.1,3,1,-2,4,6,15,-1,2,3,18
+2024,Internacional - RS,Atlético Goianiense Saf - GO,1 x 1,28/04/2024,20:00,Beira-Rio,Porto Alegre,31,4,21.1,87,15.1,1,1,1,3,2,11,-5,1,6,20
+2024,Flamengo - RJ,Botafogo - RJ,0 x 2,28/04/2024,11:00,Maracanã,Rio de Janeiro,34,4,22.3,93,1.8,0,2,2,4,2,4,4,8,4,8
+2024,Red Bull Bragantino - SP,Flamengo - RJ,1 x 1,04/05/2024,18:30,Nabi Abi Chedid,Braganca Paulista,47,5,17.4,93,3.7,1,1,2,4,2,3,-1,2,3,8
+2024,Juventude - RS,Atlético Goianiense Saf - GO,1 x 0,05/06/2024,19:00,Alfredo Jaconi,Caxias do Sul,50,5,16.2,90,9.7,1,0,-2,4,6,13,-4,1,5,19
+2024,Cuiabá Saf - MT,Palmeiras - SP,0 x 2,05/05/2024,18:30,Arena Pantanal,Cuiaba,49,5,25.9,85,2.5,0,2,-4,0,4,20,-1,0,1,13
+2024,Corinthians - SP,Fortaleza - CE,0 x 0,04/05/2024,21:00,Neo Química Arena,Sao Paulo,46,5,18.4,93,2.9,0,0,0,3,3,15,0,3,3,12
+2024,Athletico Paranaense - PR,Vasco da Gama S.a.f. - RJ,1 x 0,05/05/2024,16:00,Ligga Arena,Curitiba,48,5,16.1,97,7.9,1,0,-1,2,3,7,-6,2,8,17
+2024,Fluminense - RJ,Atlético Mineiro Saf - MG,2 x 2,04/05/2024,16:00,Kleber Andrade,Cariacica,44,5,23.2,85,9.4,2,2,-3,3,6,16,6,7,1,4
+2024,Vitória - BA,São Paulo - SP,1 x 3,05/05/2024,16:00,Manoel Barradas,Salvador,43,5,27.3,83,4.3,1,3,-2,3,5,18,2,4,2,16
+2024,Botafogo - RJ,Bahia - BA,1 x 2,05/05/2024,18:30,Nilton Santos,Rio de Janeiro,45,5,22.3,93,1.8,1,2,7,8,1,2,2,5,3,9
+2024,Cruzeiro Saf - MG,Internacional - RS,0 x 0,28/08/2024,19:30,Mineirão,Belo Horizonte,42,5,20.5,74,3.1,0,0,-1,4,5,12,0,2,2,11
+2024,Grêmio - RS,Criciúma - SC,1 x 2,25/09/2024,19:00,Arena do Grêmio,Porto Alegre,41,5,21.1,87,15.1,1,2,2,3,1,14,4,6,2,13
+2024,Criciúma - SC,Cuiabá Saf - MT,2 x 5,09/06/2024,16:00,Heriberto Hulse,Criciuma,60,6,19.0,98,4.2,2,5,5,7,2,5,-6,0,6,20
+2024,Atlético Goianiense Saf - GO,Cruzeiro Saf - MG,0 x 1,12/05/2024,16:00,Antônio Accioly,Goiania,59,6,23.6,77,1.1,0,1,-4,1,5,20,-1,3,4,9
+2024,Fortaleza - CE,Botafogo - RJ,1 x 1,12/05/2024,16:00,Arena Castelão,Fortaleza,58,6,26.6,89,7.2,1,1,0,2,2,13,5,8,3,5
+2024,São Paulo - SP,Fluminense - RJ,2 x 1,13/05/2024,20:00,Morumbi,Sao Paulo,57,6,18.4,93,2.9,2,1,5,6,1,13,-2,4,6,16
+2024,Palmeiras - SP,Athletico Paranaense - PR,0 x 2,12/05/2024,16:00,Arena Barueri,Barueri,56,6,18.4,92,5.1,0,2,2,2,0,9,2,3,1,4
+2024,Vasco da Gama S.a.f. - RJ,Vitória - BA,2 x 1,12/05/2024,18:30,São Januário,Rio de Janeiro,55,6,22.3,93,1.8,2,1,-6,1,7,18,-4,4,8,19
+2024,Flamengo - RJ,Corinthians - SP,2 x 0,11/05/2024,16:00,Maracanã,Rio de Janeiro,54,6,22.3,93,1.8,2,0,-2,1,3,11,2,3,1,16
+2024,Bahia - BA,Red Bull Bragantino - SP,1 x 0,12/05/2024,18:30,Arena Fonte Nova,Salvador,53,6,27.3,83,4.3,1,0,2,5,3,6,1,3,2,9
+2024,Atlético Mineiro Saf - MG,Grêmio - RS,2 x 1,09/10/2024,19:30,ARENA MRV,Belo Horizonte,52,6,20.5,74,3.1,2,1,6,8,2,7,-1,2,3,14
+2024,Internacional - RS,Juventude - RS,2 x 1,14/08/2024,19:30,Beira-Rio,Porto Alegre,51,6,21.1,87,15.1,2,1,-1,1,2,11,-3,3,6,13
+2024,Cuiabá Saf - MT,Internacional - RS,0 x 1,01/06/2024,18:30,Arena Pantanal,Cuiaba,69,7,25.9,85,2.5,0,1,-2,5,7,18,1,3,2,5
+2024,Fortaleza - CE,Athletico Paranaense - PR,1 x 0,02/06/2024,18:30,Presidente Vargas,Fortaleza,68,7,26.6,89,7.2,1,0,0,2,2,11,3,4,1,2
+2024,São Paulo - SP,Cruzeiro Saf - MG,2 x 0,02/06/2024,18:30,Morumbi,Sao Paulo,67,7,18.4,93,2.9,2,0,3,5,2,9,3,4,1,7
+2024,Corinthians - SP,Botafogo - RJ,0 x 1,01/06/2024,21:00,Neo Química Arena,Sao Paulo,66,7,18.4,93,2.9,0,1,1,3,2,16,1,4,3,9
+2024,Criciúma - SC,Palmeiras - SP,1 x 2,02/06/2024,16:00,Heriberto Hulse,Criciuma,70,7,19.0,98,4.2,1,2,2,8,6,10,0,2,2,12
+2024,Fluminense - RJ,Juventude - RS,1 x 1,01/06/2024,18:30,Maracanã,Rio de Janeiro,64,7,22.3,93,1.8,1,1,-4,3,7,17,0,3,3,13
+2024,Vitória - BA,Atlético Goianiense Saf - GO,0 x 2,01/06/2024,16:00,Manoel Barradas,Salvador,63,7,27.3,83,4.3,0,2,-5,3,8,19,-2,1,3,20
+2024,Atlético Mineiro Saf - MG,Bahia - BA,1 x 1,02/06/2024,16:00,ARENA MRV,Belo Horizonte,62,7,20.5,74,3.1,1,1,4,7,3,6,3,4,1,5
+2024,Grêmio - RS,Red Bull Bragantino - SP,0 x 2,01/06/2024,16:00,Couto Pereira,Curitiba,61,7,16.1,97,7.9,0,2,-3,2,5,14,-1,2,3,12
+2024,Vasco da Gama S.a.f. - RJ,Flamengo - RJ,1 x 6,02/06/2024,16:00,Maracanã,Rio de Janeiro,65,7,22.3,93,1.8,1,6,-4,2,6,16,0,3,3,8
+2024,Atlético Goianiense Saf - GO,Corinthians - SP,2 x 2,11/06/2024,19:00,Antônio Accioly,Goiania,79,8,23.6,77,1.1,2,2,0,2,2,18,-3,0,3,17
+2024,Athletico Paranaense - PR,Criciúma - SC,3 x 1,13/06/2024,20:00,Ligga Arena,Curitiba,78,8,16.1,97,7.9,3,1,2,3,1,7,-3,5,8,12
+2024,Red Bull Bragantino - SP,Atlético Mineiro Saf - MG,1 x 2,11/06/2024,21:30,Nabi Abi Chedid,Braganca Paulista,77,8,17.4,93,3.7,1,2,1,3,2,8,1,5,4,5
+2024,Palmeiras - SP,Vasco da Gama S.a.f. - RJ,2 x 0,13/06/2024,21:30,Allianz Parque,Sao Paulo,76,8,18.4,93,2.9,2,0,1,4,3,10,-5,3,8,17
+2024,Juventude - RS,Vitória - BA,1 x 1,11/06/2024,19:00,Alfredo Jaconi,Caxias do Sul,80,8,16.2,90,9.7,1,1,0,3,3,13,-5,2,7,20
+2024,Flamengo - RJ,Grêmio - RS,2 x 1,13/06/2024,20:00,Maracanã,Rio de Janeiro,74,8,22.3,93,1.8,2,1,7,9,2,3,-4,2,6,14
+2024,Bahia - BA,Fortaleza - CE,1 x 0,13/06/2024,21:30,Arena Fonte Nova,Salvador,73,8,27.3,83,4.3,1,0,2,4,2,4,1,2,1,10
+2024,Cruzeiro Saf - MG,Cuiabá Saf - MT,2 x 1,13/06/2024,19:00,Mineirão,Belo Horizonte,72,8,20.5,74,3.1,2,1,-1,1,2,11,0,5,5,19
+2024,Internacional - RS,São Paulo - SP,0 x 0,13/06/2024,20:00,Heriberto Hulse,Criciuma,71,8,19.0,98,4.2,0,0,2,3,1,5,5,7,2,9
+2024,Botafogo - RJ,Fluminense - RJ,1 x 0,11/06/2024,20:00,Nilton Santos,Rio de Janeiro,75,8,22.3,93,1.8,1,0,0,3,3,9,-1,4,5,15
+2024,Criciúma - SC,Bahia - BA,2 x 2,16/06/2024,18:30,Heriberto Hulse,Criciuma,90,9,19.0,98,4.2,2,2,-6,4,10,13,2,3,1,2
+2024,Cuiabá Saf - MT,Fortaleza - CE,5 x 0,16/06/2024,18:30,Arena Pantanal,Cuiaba,89,9,25.9,85,2.5,5,0,1,6,5,19,0,2,2,11
+2024,Athletico Paranaense - PR,Flamengo - RJ,1 x 1,16/06/2024,16:00,Ligga Arena,Curitiba,88,9,16.1,97,7.9,1,1,3,5,2,5,8,10,2,2
+2024,Red Bull Bragantino - SP,Juventude - RS,2 x 1,15/06/2024,18:30,Nabi Abi Chedid,Braganca Paulista,87,9,17.4,93,3.7,2,1,0,3,3,10,-1,3,4,13
+2024,Corinthians - SP,São Paulo - SP,2 x 2,16/06/2024,16:00,Neo Química Arena,Sao Paulo,86,9,18.4,93,2.9,2,2,-3,2,5,15,3,4,1,8
+2024,Vasco da Gama S.a.f. - RJ,Cruzeiro Saf - MG,0 x 0,16/06/2024,18:30,São Januário,Rio de Janeiro,85,9,22.3,93,1.8,0,0,-6,3,9,18,0,3,3,10
+2024,Vitória - BA,Internacional - RS,2 x 1,16/06/2024,16:00,Manoel Barradas,Salvador,83,9,27.3,83,4.3,2,1,-3,2,5,20,2,3,1,8
+2024,Atlético Mineiro Saf - MG,Palmeiras - SP,0 x 4,17/06/2024,20:30,ARENA MRV,Belo Horizonte,82,9,20.5,74,3.1,0,4,2,5,3,4,1,4,3,10
+2024,Grêmio - RS,Botafogo - RJ,1 x 2,16/06/2024,18:30,Kleber Andrade,Cariacica,81,9,23.2,85,9.4,1,2,-4,2,6,17,2,3,1,5
+2024,Fluminense - RJ,Atlético Goianiense Saf - GO,1 x 2,15/06/2024,21:00,Maracanã,Rio de Janeiro,84,9,22.3,93,1.8,1,2,-2,2,4,17,1,4,3,20
+2024,São Paulo - SP,Cuiabá Saf - MT,0 x 1,19/06/2024,20:00,Morumbi,Sao Paulo,97,10,18.4,93,2.9,0,1,2,4,2,7,3,6,3,16
+2024,Juventude - RS,Vasco da Gama S.a.f. - RJ,2 x 0,19/06/2024,20:00,Alfredo Jaconi,Caxias do Sul,100,10,16.2,90,9.7,2,0,-1,3,4,14,-7,1,8,17
+2024,Atlético Goianiense Saf - GO,Criciúma - SC,1 x 2,19/06/2024,19:00,Antônio Accioly,Goiania,99,10,23.6,77,1.1,1,2,3,6,3,15,-3,4,7,13
+2024,Fortaleza - CE,Grêmio - RS,1 x 0,19/06/2024,20:00,Arena Castelão,Fortaleza,98,10,26.6,89,7.2,1,0,-5,1,6,13,-4,2,6,18
+2024,Palmeiras - SP,Red Bull Bragantino - SP,2 x 1,20/06/2024,21:30,Allianz Parque,Sao Paulo,96,10,18.4,93,2.9,2,1,7,8,1,5,2,5,3,8
+2024,Cruzeiro Saf - MG,Fluminense - RJ,2 x 0,19/06/2024,21:30,Mineirão,Belo Horizonte,92,10,20.5,74,3.1,2,0,-1,2,3,10,-2,2,4,18
+2024,Flamengo - RJ,Bahia - BA,2 x 1,20/06/2024,20:00,Maracanã,Rio de Janeiro,94,10,22.3,93,1.8,2,1,6,9,3,3,1,4,3,4
+2024,Vitória - BA,Atlético Mineiro Saf - MG,4 x 2,20/06/2024,18:30,Manoel Barradas,Salvador,93,10,27.3,83,4.3,4,2,-1,3,4,19,-3,3,6,7
+2024,Botafogo - RJ,Athletico Paranaense - PR,1 x 1,19/06/2024,19:00,Nilton Santos,Rio de Janeiro,95,10,22.3,93,1.8,1,1,3,4,1,3,1,4,3,6
+2024,Internacional - RS,Corinthians - SP,1 x 0,19/06/2024,21:30,Orlando Scarpelli,Florianopolis,91,10,21.5,92,1.8,1,0,0,2,2,10,-1,4,5,17
+2024,Criciúma - SC,Botafogo - RJ,2 x 1,22/06/2024,16:00,Heriberto Hulse,Criciuma,110,11,19.0,98,4.2,2,1,-1,5,6,12,2,4,2,2
+2024,Cuiabá Saf - MT,Atlético Goianiense Saf - GO,0 x 0,22/06/2024,18:30,Arena Pantanal,Cuiaba,109,11,25.9,85,2.5,0,0,5,7,2,14,0,5,5,16
+2024,Athletico Paranaense - PR,Corinthians - SP,1 x 1,23/06/2024,16:00,Ligga Arena,Curitiba,108,11,16.1,97,7.9,1,1,2,5,3,4,-1,4,5,17
+2024,Red Bull Bragantino - SP,Vitória - BA,2 x 1,23/06/2024,18:30,Nabi Abi Chedid,Braganca Paulista,107,11,17.4,93,3.7,2,1,-1,4,5,11,3,7,4,15
+2024,Palmeiras - SP,Juventude - RS,3 x 1,23/06/2024,18:30,Allianz Parque,Sao Paulo,106,11,18.4,93,2.9,3,1,7,8,1,2,1,4,3,13
+2024,Fluminense - RJ,Flamengo - RJ,0 x 1,23/06/2024,16:00,Maracanã,Rio de Janeiro,104,11,22.3,93,1.8,0,1,-4,1,5,20,2,5,3,2
+2024,Bahia - BA,Cruzeiro Saf - MG,4 x 1,23/06/2024,16:00,Arena Fonte Nova,Salvador,103,11,27.3,83,4.3,4,1,0,4,4,6,3,4,1,8
+2024,Atlético Mineiro Saf - MG,Fortaleza - CE,1 x 1,23/06/2024,18:30,ARENA MRV,Belo Horizonte,102,11,20.5,74,3.1,1,1,-5,4,9,9,-5,1,6,12
+2024,Grêmio - RS,Internacional - RS,0 x 1,22/06/2024,17:30,Couto Pereira,Curitiba,101,11,16.1,97,7.9,0,1,-3,2,5,19,0,2,2,7
+2024,Vasco da Gama S.a.f. - RJ,São Paulo - SP,4 x 1,22/06/2024,21:30,São Januário,Rio de Janeiro,105,11,22.3,93,1.8,4,1,-4,0,4,18,-1,2,3,11
+2024,São Paulo - SP,Criciúma - SC,2 x 1,27/06/2024,20:00,Morumbi,Sao Paulo,117,12,18.4,93,2.9,2,1,-4,3,7,11,2,6,4,10
+2024,Juventude - RS,Flamengo - RJ,2 x 1,26/06/2024,20:00,Alfredo Jaconi,Caxias do Sul,120,12,16.2,90,9.7,2,1,-1,4,5,13,2,4,2,1
+2024,Atlético Goianiense Saf - GO,Grêmio - RS,1 x 1,26/06/2024,20:00,Antônio Accioly,Goiania,119,12,23.6,77,1.1,1,1,0,3,3,16,-3,1,4,19
+2024,Fortaleza - CE,Palmeiras - SP,3 x 0,26/06/2024,21:30,Arena Castelão,Fortaleza,118,12,26.6,89,7.2,3,0,-4,2,6,13,7,9,2,2
+2024,Corinthians - SP,Cuiabá Saf - MT,1 x 1,26/06/2024,20:00,Neo Química Arena,Sao Paulo,116,12,18.4,93,2.9,1,1,-1,3,4,18,6,6,0,14
+2024,Botafogo - RJ,Red Bull Bragantino - SP,2 x 1,26/06/2024,19:00,Nilton Santos,Rio de Janeiro,115,12,22.3,93,1.8,2,1,0,4,4,5,1,5,4,8
+2024,Fluminense - RJ,Vitória - BA,0 x 1,27/06/2024,19:00,Maracanã,Rio de Janeiro,114,12,22.3,93,1.8,0,1,-4,1,5,20,2,7,5,18
+2024,Bahia - BA,Vasco da Gama S.a.f. - RJ,2 x 1,26/06/2024,21:30,Arena Fonte Nova,Salvador,113,12,27.3,83,4.3,2,1,2,7,5,4,1,4,3,17
+2024,Cruzeiro Saf - MG,Athletico Paranaense - PR,2 x 0,26/06/2024,19:00,Mineirão,Belo Horizonte,112,12,20.5,74,3.1,2,0,-1,3,4,10,0,3,3,6
+2024,Internacional - RS,Atlético Mineiro Saf - MG,1 x 2,26/06/2024,21:30,Heriberto Hulse,Criciuma,111,12,19.0,98,4.2,1,2,1,3,2,5,-6,3,9,11
+2024,Criciúma - SC,Internacional - RS,1 x 1,30/06/2024,18:30,Heriberto Hulse,Criciuma,130,13,19.0,98,4.2,1,1,1,5,4,12,1,3,2,5
+2024,Cuiabá Saf - MT,Red Bull Bragantino - SP,1 x 1,29/06/2024,18:30,Arena Pantanal,Cuiaba,129,13,25.9,85,2.5,1,1,1,2,1,14,-1,4,5,10
+2024,Fortaleza - CE,Juventude - RS,2 x 1,30/06/2024,16:00,Arena Castelão,Fortaleza,128,13,26.6,89,7.2,2,1,4,5,1,11,1,5,4,13
+2024,São Paulo - SP,Bahia - BA,3 x 1,30/06/2024,16:00,Morumbi,Sao Paulo,127,13,18.4,93,2.9,3,1,-3,3,6,11,3,7,4,2
+2024,Palmeiras - SP,Corinthians - SP,2 x 0,01/07/2024,20:00,Allianz Parque,Sao Paulo,126,13,18.4,93,2.9,2,0,0,5,5,4,-1,2,3,18
+2024,Vasco da Gama S.a.f. - RJ,Botafogo - RJ,1 x 1,29/06/2024,18:30,São Januário,Rio de Janeiro,125,13,22.3,93,1.8,1,1,0,5,5,17,0,4,4,4
+2024,Flamengo - RJ,Cruzeiro Saf - MG,2 x 1,30/06/2024,18:30,Maracanã,Rio de Janeiro,124,13,22.3,93,1.8,2,1,1,4,3,2,1,5,4,7
+2024,Vitória - BA,Athletico Paranaense - PR,0 x 1,30/06/2024,18:30,Manoel Barradas,Salvador,123,13,27.3,83,4.3,0,1,2,6,4,15,-2,2,4,10
+2024,Atlético Mineiro Saf - MG,Atlético Goianiense Saf - GO,1 x 1,30/06/2024,11:00,ARENA MRV,Belo Horizonte,122,13,20.5,74,3.1,1,1,-1,5,6,10,-1,2,3,17
+2024,Grêmio - RS,Fluminense - RJ,1 x 0,30/06/2024,16:00,Centenário,Caxias do Sul,121,13,16.2,90,9.7,1,0,-2,1,3,19,-4,0,4,20
+2024,Cuiabá Saf - MT,Botafogo - RJ,1 x 2,03/07/2024,19:00,Arena Pantanal,Cuiaba,139,14,25.9,85,2.5,1,2,0,2,2,14,0,4,4,3
+2024,Athletico Paranaense - PR,São Paulo - SP,1 x 2,03/07/2024,21:30,Ligga Arena,Curitiba,138,14,16.1,97,7.9,1,2,-1,2,3,5,0,6,6,7
+2024,Red Bull Bragantino - SP,Atlético Goianiense Saf - GO,3 x 1,03/07/2024,21:30,Nabi Abi Chedid,Braganca Paulista,137,14,17.4,93,3.7,3,1,0,4,4,11,0,2,2,16
+2024,Corinthians - SP,Vitória - BA,3 x 2,04/07/2024,20:00,Neo Química Arena,Sao Paulo,136,14,18.4,93,2.9,3,2,-2,2,4,19,-1,2,3,15
+2024,Criciúma - SC,Cruzeiro Saf - MG,1 x 0,03/07/2024,20:00,Heriberto Hulse,Criciuma,140,14,19.0,98,4.2,1,0,0,4,4,12,-2,4,6,11
+2024,Fluminense - RJ,Internacional - RS,1 x 1,04/07/2024,20:00,Maracanã,Rio de Janeiro,134,14,22.3,93,1.8,1,1,-3,0,3,20,0,3,3,8
+2024,Bahia - BA,Juventude - RS,2 x 0,04/07/2024,19:00,Arena Fonte Nova,Salvador,133,14,27.3,83,4.3,2,0,2,7,5,5,-2,4,6,13
+2024,Atlético Mineiro Saf - MG,Flamengo - RJ,2 x 4,03/07/2024,21:30,ARENA MRV,Belo Horizonte,132,14,20.5,74,3.1,2,4,1,4,3,9,1,4,3,1
+2024,Grêmio - RS,Palmeiras - SP,2 x 2,04/07/2024,19:00,Centenário,Caxias do Sul,131,14,16.2,90,9.7,2,2,0,2,2,19,1,5,4,4
+2024,Vasco da Gama S.a.f. - RJ,Fortaleza - CE,2 x 0,03/07/2024,20:00,São Januário,Rio de Janeiro,135,14,22.3,93,1.8,2,0,2,6,4,19,4,6,2,10
+2024,Juventude - RS,Grêmio - RS,3 x 0,07/07/2024,16:00,Alfredo Jaconi,Caxias do Sul,150,15,16.2,90,9.7,3,0,-2,3,5,13,1,4,3,18
+2024,Atlético Goianiense Saf - GO,Athletico Paranaense - PR,1 x 2,07/07/2024,18:30,Antônio Accioly,Goiania,149,15,23.6,77,1.1,1,2,-2,3,5,18,-2,2,4,7
+2024,Fortaleza - CE,Fluminense - RJ,1 x 0,07/07/2024,16:00,Arena Castelão,Fortaleza,148,15,26.6,89,7.2,1,0,2,5,3,11,-2,1,3,20
+2024,São Paulo - SP,Red Bull Bragantino - SP,2 x 0,06/07/2024,20:00,Morumbi,Sao Paulo,147,15,18.4,93,2.9,2,0,4,7,3,6,1,5,4,9
+2024,Palmeiras - SP,Bahia - BA,2 x 0,07/07/2024,18:30,Allianz Parque,Sao Paulo,146,15,18.4,93,2.9,2,0,-1,4,5,3,1,5,4,5
+2024,Botafogo - RJ,Atlético Mineiro Saf - MG,3 x 0,07/07/2024,20:30,Nilton Santos,Rio de Janeiro,145,15,22.3,93,1.8,3,0,2,5,3,3,-1,5,6,10
+2024,Flamengo - RJ,Cuiabá Saf - MT,1 x 1,06/07/2024,20:00,Maracanã,Rio de Janeiro,144,15,22.3,93,1.8,1,1,2,7,5,1,-1,3,4,15
+2024,Vitória - BA,Criciúma - SC,2 x 1,07/07/2024,18:30,Manoel Barradas,Salvador,143,15,27.3,83,4.3,2,1,-1,3,4,17,0,3,3,12
+2024,Cruzeiro Saf - MG,Corinthians - SP,3 x 0,07/07/2024,16:00,Mineirão,Belo Horizonte,142,15,20.5,74,3.1,3,0,0,3,3,10,-1,4,5,17
+2024,Internacional - RS,Vasco da Gama S.a.f. - RJ,1 x 2,07/07/2024,18:00,Beira-Rio,Porto Alegre,141,15,21.1,87,15.1,1,2,-1,3,4,9,1,4,3,16
+2024,Cuiabá Saf - MT,Juventude - RS,0 x 0,05/09/2024,20:00,Arena Pantanal,Cuiaba,159,16,25.9,85,2.5,0,0,-1,3,4,16,0,4,4,13
+2024,Athletico Paranaense - PR,Bahia - BA,1 x 3,10/07/2024,19:00,Ligga Arena,Curitiba,158,16,16.1,97,7.9,1,3,1,4,3,6,-2,3,5,5
+2024,Red Bull Bragantino - SP,Internacional - RS,2 x 2,25/09/2024,19:00,Nabi Abi Chedid,Braganca Paulista,157,16,17.4,93,3.7,2,2,0,4,4,10,-1,3,4,9
+2024,Palmeiras - SP,Atlético Goianiense Saf - GO,3 x 1,11/07/2024,19:30,Allianz Parque,Sao Paulo,156,16,18.4,93,2.9,3,1,4,6,2,3,-3,3,6,18
+2024,Criciúma - SC,Fluminense - RJ,1 x 1,11/07/2024,20:00,Heriberto Hulse,Criciuma,160,16,19.0,98,4.2,1,1,0,3,3,12,-2,1,3,20
+2024,Flamengo - RJ,Fortaleza - CE,1 x 2,11/07/2024,20:00,Maracanã,Rio de Janeiro,154,16,22.3,93,1.8,1,2,3,7,4,2,0,3,3,9
+2024,Vitória - BA,Botafogo - RJ,0 x 1,11/07/2024,21:30,Manoel Barradas,Salvador,153,16,27.3,83,4.3,0,1,-1,4,5,16,4,6,2,3
+2024,Atlético Mineiro Saf - MG,São Paulo - SP,2 x 1,11/07/2024,21:30,ARENA MRV,Belo Horizonte,152,16,20.5,74,3.1,2,1,-5,3,8,12,5,7,2,5
+2024,Grêmio - RS,Cruzeiro Saf - MG,0 x 2,10/07/2024,18:30,Centenário,Caxias do Sul,151,16,16.2,90,9.7,0,2,-2,3,5,18,1,4,3,8
+2024,Vasco da Gama S.a.f. - RJ,Corinthians - SP,2 x 0,10/07/2024,19:00,São Januário,Rio de Janeiro,155,16,22.3,93,1.8,2,0,3,5,2,14,-4,3,7,17
+2024,Atlético Goianiense Saf - GO,Vasco da Gama S.a.f. - RJ,0 x 1,17/07/2024,19:00,Antônio Accioly,Goiania,169,17,23.6,77,1.1,0,1,-5,3,8,18,5,6,1,14
+2024,Fortaleza - CE,Vitória - BA,3 x 1,17/07/2024,21:30,Arena Castelão,Fortaleza,168,17,26.6,89,7.2,3,1,0,3,3,7,-1,4,5,16
+2024,São Paulo - SP,Grêmio - RS,1 x 0,17/07/2024,20:00,Morumbi,Sao Paulo,167,17,18.4,93,2.9,1,0,2,5,3,6,-5,2,7,19
+2024,Corinthians - SP,Criciúma - SC,2 x 1,16/07/2024,21:00,Neo Química Arena,Sao Paulo,166,17,18.4,93,2.9,2,1,-4,3,7,17,0,3,3,13
+2024,Juventude - RS,Atlético Mineiro Saf - MG,1 x 1,16/07/2024,19:00,Mané Garrincha,Brasilia,170,17,20.1,88,3.3,1,1,1,3,2,14,-4,4,8,10
+2024,Fluminense - RJ,Athletico Paranaense - PR,1 x 0,22/10/2024,19:30,Maracanã,Rio de Janeiro,164,17,22.3,93,1.8,1,0,-1,2,3,20,-2,4,6,8
+2024,Bahia - BA,Cuiabá Saf - MT,1 x 2,13/07/2024,16:00,Arena Fonte Nova,Salvador,163,17,27.3,83,4.3,1,2,2,5,3,5,-1,2,3,15
+2024,Cruzeiro Saf - MG,Red Bull Bragantino - SP,2 x 1,13/07/2024,16:00,Independência,Belo Horizonte,162,17,20.5,74,3.1,2,1,4,5,1,7,0,5,5,11
+2024,Internacional - RS,Flamengo - RJ,1 x 1,30/10/2024,19:00,Beira-Rio,Porto Alegre,161,17,21.1,87,15.1,1,1,-1,4,5,10,1,6,5,3
+2024,Botafogo - RJ,Palmeiras - SP,1 x 0,17/07/2024,21:30,Nilton Santos,Rio de Janeiro,165,17,22.3,93,1.8,1,0,5,6,1,1,4,7,3,2
+2024,Juventude - RS,São Paulo - SP,0 x 0,21/07/2024,18:30,Mané Garrincha,Brasilia,180,18,20.1,88,3.3,0,0,3,4,1,14,2,4,2,4
+2024,Cuiabá Saf - MT,Fluminense - RJ,0 x 1,21/07/2024,20:00,Arena Pantanal,Cuiaba,179,18,25.9,85,2.5,0,1,1,3,2,15,0,2,2,19
+2024,Fortaleza - CE,Atlético Goianiense Saf - GO,3 x 1,21/07/2024,18:30,Arena Castelão,Fortaleza,178,18,26.6,89,7.2,3,1,4,6,2,7,-4,2,6,19
+2024,Red Bull Bragantino - SP,Athletico Paranaense - PR,1 x 0,21/07/2024,18:30,Nabi Abi Chedid,Braganca Paulista,177,18,17.4,93,3.7,1,0,-3,3,6,11,-2,3,5,8
+2024,Palmeiras - SP,Cruzeiro Saf - MG,2 x 0,20/07/2024,21:00,Allianz Parque,Sao Paulo,176,18,18.4,93,2.9,2,0,3,5,2,2,6,7,1,7
+2024,Botafogo - RJ,Internacional - RS,1 x 0,20/07/2024,18:30,Nilton Santos,Rio de Janeiro,175,18,22.3,93,1.8,1,0,5,5,0,1,-1,4,5,10
+2024,Bahia - BA,Corinthians - SP,0 x 1,21/07/2024,16:00,Arena Fonte Nova,Salvador,173,18,27.3,83,4.3,0,1,-1,4,5,6,-4,2,6,17
+2024,Atlético Mineiro Saf - MG,Vasco da Gama S.a.f. - RJ,2 x 0,21/07/2024,16:00,ARENA MRV,Belo Horizonte,172,18,20.5,74,3.1,2,0,-2,3,5,11,4,5,1,12
+2024,Grêmio - RS,Vitória - BA,2 x 0,21/07/2024,11:00,Centenário,Caxias do Sul,171,18,16.2,90,9.7,2,0,-6,0,6,19,-2,3,5,17
+2024,Flamengo - RJ,Criciúma - SC,2 x 1,20/07/2024,16:00,Mané Garrincha,Brasilia,174,18,20.1,88,3.3,2,1,-1,3,4,4,-2,3,5,14
+2024,São Paulo - SP,Botafogo - RJ,2 x 2,24/07/2024,19:30,Morumbi,Sao Paulo,187,19,18.4,93,2.9,2,2,0,2,2,5,3,3,0,1
+2024,Atlético Goianiense Saf - GO,Bahia - BA,1 x 1,24/07/2024,21:30,Antônio Accioly,Goiania,189,19,23.6,77,1.1,1,1,-5,2,7,20,0,4,4,6
+2024,Athletico Paranaense - PR,Atlético Mineiro Saf - MG,1 x 0,16/11/2024,18:30,Ligga Arena,Curitiba,188,19,16.1,97,7.9,1,0,-4,1,5,10,3,5,2,8
+2024,Corinthians - SP,Grêmio - RS,2 x 2,25/07/2024,20:00,Neo Química Arena,Sao Paulo,186,19,18.4,93,2.9,2,2,0,3,3,16,-1,2,3,19
+2024,Criciúma - SC,Red Bull Bragantino - SP,1 x 0,28/08/2024,19:30,Heriberto Hulse,Criciuma,190,19,19.0,98,4.2,1,0,-2,3,5,14,0,4,4,10
+2024,Fluminense - RJ,Palmeiras - SP,1 x 0,24/07/2024,21:30,Maracanã,Rio de Janeiro,184,19,22.3,93,1.8,1,0,2,3,1,19,3,5,2,2
+2024,Vitória - BA,Flamengo - RJ,1 x 2,24/07/2024,20:00,Manoel Barradas,Salvador,183,19,27.3,83,4.3,1,2,-5,1,6,19,0,4,4,3
+2024,Cruzeiro Saf - MG,Juventude - RS,2 x 0,24/07/2024,19:00,Mineirão,Belo Horizonte,182,19,20.5,74,3.1,2,0,1,4,3,7,0,1,1,14
+2024,Internacional - RS,Fortaleza - CE,2 x 1,11/09/2024,19:30,Beira-Rio,Porto Alegre,181,19,21.1,87,15.1,2,1,-1,3,4,11,5,8,3,5
+2024,Vasco da Gama S.a.f. - RJ,Cuiabá Saf - MT,1 x 0,24/10/2024,19:00,São Januário,Rio de Janeiro,185,19,22.3,93,1.8,1,0,1,3,2,13,0,2,2,16
+2024,Juventude - RS,Criciúma - SC,1 x 2,27/07/2024,19:00,Alfredo Jaconi,Caxias do Sul,200,20,16.2,90,9.7,1,2,-2,1,3,14,-1,3,4,13
+2024,Cuiabá Saf - MT,Athletico Paranaense - PR,1 x 2,28/07/2024,19:00,Arena Pantanal,Cuiaba,199,20,25.9,85,2.5,1,2,-1,2,3,16,-1,1,2,8
+2024,Fortaleza - CE,São Paulo - SP,1 x 0,27/07/2024,21:30,Arena Castelão,Fortaleza,198,20,26.6,89,7.2,1,0,3,7,4,5,1,3,2,6
+2024,Red Bull Bragantino - SP,Fluminense - RJ,0 x 1,28/07/2024,11:00,Nabi Abi Chedid,Braganca Paulista,197,20,17.4,93,3.7,0,1,-1,2,3,12,3,3,0,17
+2024,Palmeiras - SP,Vitória - BA,0 x 2,27/07/2024,19:00,Allianz Parque,Sao Paulo,196,20,18.4,93,2.9,0,2,0,2,2,3,-5,2,7,19
+2024,Botafogo - RJ,Cruzeiro Saf - MG,0 x 3,27/07/2024,21:30,Nilton Santos,Rio de Janeiro,195,20,22.3,93,1.8,0,3,2,4,2,1,1,4,3,5
+2024,Flamengo - RJ,Atlético Goianiense Saf - GO,2 x 0,28/07/2024,16:00,Maracanã,Rio de Janeiro,194,20,22.3,93,1.8,2,0,2,5,3,2,-3,2,5,20
+2024,Bahia - BA,Internacional - RS,1 x 1,27/07/2024,20:00,Arena Fonte Nova,Salvador,193,20,27.3,83,4.3,1,1,-2,2,4,7,0,3,3,9
+2024,Atlético Mineiro Saf - MG,Corinthians - SP,2 x 1,28/07/2024,19:00,ARENA MRV,Belo Horizonte,192,20,20.5,74,3.1,2,1,1,3,2,10,2,5,3,16
+2024,Grêmio - RS,Vasco da Gama S.a.f. - RJ,1 x 0,28/07/2024,19:00,Arena Condá,Chapeco,191,20,16.3,85,5.2,1,0,1,4,3,19,0,2,2,13
+2024,Atlético Goianiense Saf - GO,Botafogo - RJ,1 x 4,03/08/2024,20:00,Antônio Accioly,Goiania,209,21,23.6,77,1.1,1,4,-4,2,6,20,-2,3,5,2
+2024,Athletico Paranaense - PR,Grêmio - RS,0 x 2,04/08/2024,16:00,Ligga Arena,Curitiba,208,21,16.1,97,7.9,0,2,1,3,2,8,3,5,2,18
+2024,São Paulo - SP,Flamengo - RJ,1 x 0,03/08/2024,21:30,Morumbi,Sao Paulo,207,21,18.4,93,2.9,1,0,-1,2,3,6,4,6,2,2
+2024,Corinthians - SP,Juventude - RS,1 x 1,04/08/2024,16:00,Neo Química Arena,Sao Paulo,206,21,18.4,93,2.9,1,1,0,4,4,17,-3,1,4,14
+2024,Criciúma - SC,Atlético Mineiro Saf - MG,2 x 1,03/08/2024,20:00,Heriberto Hulse,Criciuma,210,21,19.0,98,4.2,2,1,1,4,3,11,2,4,2,9
+2024,Fluminense - RJ,Bahia - BA,1 x 0,04/08/2024,16:00,Maracanã,Rio de Janeiro,204,21,22.3,93,1.8,1,0,3,3,0,16,-1,2,3,7
+2024,Vitória - BA,Cuiabá Saf - MT,1 x 0,03/08/2024,16:00,Manoel Barradas,Salvador,203,21,27.3,83,4.3,1,0,-1,3,4,19,-3,1,4,18
+2024,Cruzeiro Saf - MG,Fortaleza - CE,1 x 2,05/08/2024,21:00,Kleber Andrade,Cariacica,202,21,23.2,85,9.4,1,2,3,5,2,4,2,5,3,5
+2024,Internacional - RS,Palmeiras - SP,1 x 1,04/08/2024,17:00,Beira-Rio,Porto Alegre,201,21,21.1,87,15.1,1,1,0,3,3,11,-1,2,3,4
+2024,Vasco da Gama S.a.f. - RJ,Red Bull Bragantino - SP,2 x 2,03/08/2024,19:00,São Januário,Rio de Janeiro,205,21,22.3,93,1.8,2,2,-2,1,3,13,-1,1,2,12
+2024,Cuiabá Saf - MT,Grêmio - RS,1 x 3,10/08/2024,19:00,Arena Pantanal,Cuiaba,219,22,25.9,85,2.5,1,3,-3,1,4,19,3,5,2,16
+2024,Fortaleza - CE,Criciúma - SC,1 x 0,10/08/2024,16:00,Arena Castelão,Fortaleza,218,22,26.6,89,7.2,1,0,1,4,3,3,3,5,2,11
+2024,São Paulo - SP,Atlético Goianiense Saf - GO,1 x 0,11/08/2024,16:00,Morumbi,Sao Paulo,217,22,18.4,93,2.9,1,0,0,3,3,6,-5,2,7,20
+2024,Corinthians - SP,Red Bull Bragantino - SP,1 x 1,10/08/2024,21:30,Neo Química Arena,Sao Paulo,216,22,18.4,93,2.9,1,1,-1,4,5,18,-2,2,4,12
+2024,Juventude - RS,Botafogo - RJ,3 x 2,11/08/2024,11:00,Alfredo Jaconi,Caxias do Sul,220,22,16.2,90,9.7,3,2,-3,2,5,15,0,6,6,1
+2024,Flamengo - RJ,Palmeiras - SP,1 x 1,11/08/2024,16:00,Maracanã,Rio de Janeiro,214,22,22.3,93,1.8,1,1,2,4,2,3,-3,1,4,5
+2024,Bahia - BA,Vitória - BA,2 x 0,11/08/2024,16:00,Arena Fonte Nova,Salvador,213,22,27.3,83,4.3,2,0,-1,2,3,7,2,4,2,17
+2024,Cruzeiro Saf - MG,Atlético Mineiro Saf - MG,0 x 0,10/08/2024,21:30,Mineirão,Belo Horizonte,212,22,20.5,74,3.1,0,0,4,6,2,6,-1,3,4,9
+2024,Internacional - RS,Athletico Paranaense - PR,2 x 2,11/08/2024,19:00,Beira-Rio,Porto Alegre,211,22,21.1,87,15.1,2,2,1,4,3,10,0,3,3,9
+2024,Vasco da Gama S.a.f. - RJ,Fluminense - RJ,2 x 0,10/08/2024,21:30,Nilton Santos,Rio de Janeiro,215,22,22.3,93,1.8,2,0,0,3,3,13,3,3,0,16
+2024,Criciúma - SC,Vasco da Gama S.a.f. - RJ,2 x 2,18/08/2024,16:00,Heriberto Hulse,Criciuma,230,23,19.0,98,4.2,2,2,1,4,3,11,1,4,3,12
+2024,Atlético Goianiense Saf - GO,Internacional - RS,1 x 0,18/08/2024,16:00,Antônio Accioly,Goiania,229,23,23.6,77,1.1,1,0,-6,1,7,20,0,4,4,10
+2024,Athletico Paranaense - PR,Juventude - RS,1 x 2,18/08/2024,18:30,Ligga Arena,Curitiba,228,23,16.1,97,7.9,1,2,-1,4,5,8,0,5,5,14
+2024,Red Bull Bragantino - SP,Fortaleza - CE,1 x 2,17/08/2024,18:30,Nabi Abi Chedid,Braganca Paulista,227,23,17.4,93,3.7,1,2,-1,3,4,14,3,4,1,3
+2024,Palmeiras - SP,São Paulo - SP,2 x 1,18/08/2024,16:00,Allianz Parque,Sao Paulo,226,23,18.4,93,2.9,2,1,-2,2,4,4,1,2,1,5
+2024,Botafogo - RJ,Flamengo - RJ,4 x 1,18/08/2024,18:30,Nilton Santos,Rio de Janeiro,225,23,22.3,93,1.8,4,1,-1,6,7,2,1,3,2,3
+2024,Vitória - BA,Cruzeiro Saf - MG,2 x 2,19/08/2024,20:00,Manoel Barradas,Salvador,223,23,27.3,83,4.3,2,2,1,3,2,18,2,4,2,6
+2024,Atlético Mineiro Saf - MG,Cuiabá Saf - MT,1 x 1,17/08/2024,16:00,ARENA MRV,Belo Horizonte,222,23,20.5,74,3.1,1,1,0,3,3,9,-4,2,6,19
+2024,Grêmio - RS,Bahia - BA,0 x 2,17/08/2024,16:00,Alfredo Jaconi,Caxias do Sul,221,23,16.2,90,9.7,0,2,5,6,1,15,1,3,2,7
+2024,Fluminense - RJ,Corinthians - SP,0 x 0,17/08/2024,21:00,Maracanã,Rio de Janeiro,224,23,22.3,93,1.8,0,0,0,2,2,16,-1,3,4,18
+2024,São Paulo - SP,Vitória - BA,2 x 1,25/08/2024,18:30,Morumbi,Sao Paulo,237,24,18.4,93,2.9,2,1,1,3,2,6,-1,3,4,18
+2024,Criciúma - SC,Grêmio - RS,0 x 1,25/08/2024,16:00,Heriberto Hulse,Criciuma,240,24,19.0,98,4.2,0,1,0,4,4,11,2,5,3,15
+2024,Atlético Goianiense Saf - GO,Juventude - RS,2 x 1,24/08/2024,16:00,Antônio Accioly,Goiania,239,24,23.6,77,1.1,2,1,-3,2,5,20,2,6,4,13
+2024,Fortaleza - CE,Corinthians - SP,1 x 0,25/08/2024,16:00,Arena Castelão,Fortaleza,238,24,26.6,89,7.2,1,0,3,5,2,2,0,2,2,17
+2024,Palmeiras - SP,Cuiabá Saf - MT,5 x 0,24/08/2024,18:30,Brinco de Ouro,Campinas,236,24,18.6,87,12.4,5,0,1,4,3,4,-3,2,5,19
+2024,Vasco da Gama S.a.f. - RJ,Athletico Paranaense - PR,2 x 1,26/08/2024,21:00,São Januário,Rio de Janeiro,235,24,22.3,93,1.8,2,1,2,6,4,12,-3,3,6,9
+2024,Flamengo - RJ,Red Bull Bragantino - SP,2 x 1,25/08/2024,20:00,Maracanã,Rio de Janeiro,234,24,22.3,93,1.8,2,1,-4,2,6,4,-1,4,5,14
+2024,Bahia - BA,Botafogo - RJ,0 x 0,25/08/2024,16:00,Arena Fonte Nova,Salvador,233,24,27.3,83,4.3,0,0,3,4,1,6,5,10,5,2
+2024,Atlético Mineiro Saf - MG,Fluminense - RJ,0 x 2,24/08/2024,21:00,Mineirão,Belo Horizonte,232,24,20.5,74,3.1,0,2,-1,2,3,9,-1,1,2,16
+2024,Internacional - RS,Cruzeiro Saf - MG,1 x 0,25/08/2024,19:00,Beira-Rio,Porto Alegre,231,24,21.1,87,15.1,1,0,-1,3,4,11,-1,3,4,7
+2024,Juventude - RS,Internacional - RS,1 x 3,01/09/2024,18:30,Alfredo Jaconi,Caxias do Sul,250,25,16.2,90,9.7,1,3,1,6,5,13,0,3,3,8
+2024,Cuiabá Saf - MT,Criciúma - SC,2 x 1,31/08/2024,18:30,Arena Pantanal,Cuiaba,249,25,25.9,85,2.5,2,1,-7,2,9,19,-2,2,4,12
+2024,Athletico Paranaense - PR,Palmeiras - SP,0 x 2,01/09/2024,18:30,Ligga Arena,Curitiba,248,25,16.1,97,7.9,0,2,-2,4,6,11,6,8,2,4
+2024,Red Bull Bragantino - SP,Bahia - BA,2 x 1,01/09/2024,18:30,Nabi Abi Chedid,Braganca Paulista,247,25,17.4,93,3.7,2,1,-2,3,5,14,4,4,0,6
+2024,Corinthians - SP,Flamengo - RJ,2 x 1,01/09/2024,16:00,Neo Química Arena,Sao Paulo,246,25,18.4,93,2.9,2,1,-1,1,2,17,-2,4,6,4
+2024,Fluminense - RJ,São Paulo - SP,2 x 0,01/09/2024,18:30,Maracanã,Rio de Janeiro,244,25,22.3,93,1.8,2,0,0,2,2,16,1,4,3,5
+2024,Vitória - BA,Vasco da Gama S.a.f. - RJ,0 x 1,01/09/2024,18:30,Manoel Barradas,Salvador,243,25,27.3,83,4.3,0,1,-3,3,6,18,3,6,3,9
+2024,Cruzeiro Saf - MG,Atlético Goianiense Saf - GO,3 x 1,01/09/2024,11:00,Mineirão,Belo Horizonte,242,25,20.5,74,3.1,3,1,-1,2,3,7,1,3,2,20
+2024,Grêmio - RS,Atlético Mineiro Saf - MG,2 x 3,01/09/2024,11:00,Arena do Grêmio,Porto Alegre,241,25,21.1,87,15.1,2,3,1,4,3,16,-2,1,3,10
+2024,Botafogo - RJ,Fortaleza - CE,2 x 0,31/08/2024,21:00,Nilton Santos,Rio de Janeiro,245,25,22.3,93,1.8,2,0,2,6,4,3,3,4,1,1
+2024,Red Bull Bragantino - SP,Grêmio - RS,2 x 2,15/09/2024,16:00,Nabi Abi Chedid,Braganca Paulista,257,26,17.4,93,3.7,2,2,-1,4,5,12,-2,3,5,16
+2024,Juventude - RS,Fluminense - RJ,2 x 1,15/09/2024,16:00,Alfredo Jaconi,Caxias do Sul,260,26,16.2,90,9.7,2,1,-2,4,6,15,4,4,0,14
+2024,Atlético Goianiense Saf - GO,Vitória - BA,0 x 2,14/09/2024,16:00,Antônio Accioly,Goiania,259,26,23.6,77,1.1,0,2,0,4,4,20,-2,3,5,18
+2024,Athletico Paranaense - PR,Fortaleza - CE,1 x 1,14/09/2024,18:30,Ligga Arena,Curitiba,258,26,16.1,97,7.9,1,1,-4,2,6,12,0,3,3,2
+2024,Palmeiras - SP,Criciúma - SC,5 x 0,15/09/2024,16:00,Allianz Parque,Sao Paulo,256,26,18.4,93,2.9,5,0,8,9,1,3,-2,3,5,14
+2024,Internacional - RS,Cuiabá Saf - MT,3 x 0,16/09/2024,20:00,Beira-Rio,Porto Alegre,251,26,21.1,87,15.1,3,0,2,4,2,8,-4,3,7,19
+2024,Flamengo - RJ,Vasco da Gama S.a.f. - RJ,1 x 1,15/09/2024,18:30,Maracanã,Rio de Janeiro,254,26,22.3,93,1.8,1,1,-3,4,7,4,2,5,3,9
+2024,Bahia - BA,Atlético Mineiro Saf - MG,3 x 0,15/09/2024,18:30,Arena Fonte Nova,Salvador,253,26,27.3,83,4.3,3,0,1,3,2,8,-1,4,5,10
+2024,Cruzeiro Saf - MG,São Paulo - SP,0 x 1,15/09/2024,18:30,Mineirão,Belo Horizonte,252,26,20.5,74,3.1,0,1,1,5,4,6,-2,3,5,7
+2024,Botafogo - RJ,Corinthians - SP,2 x 1,14/09/2024,21:00,Nilton Santos,Rio de Janeiro,255,26,22.3,93,1.8,2,1,5,6,1,2,0,2,2,17
+2024,São Paulo - SP,Internacional - RS,1 x 3,22/09/2024,18:30,Morumbi,Sao Paulo,267,27,18.4,93,2.9,1,3,0,3,3,5,6,7,1,8
+2024,Criciúma - SC,Athletico Paranaense - PR,0 x 0,22/09/2024,20:00,Heriberto Hulse,Criciuma,270,27,19.0,98,4.2,0,0,-7,1,8,14,-3,2,5,11
+2024,Cuiabá Saf - MT,Cruzeiro Saf - MG,0 x 0,22/09/2024,18:30,Arena Pantanal,Cuiaba,269,27,25.9,85,2.5,0,0,-7,2,9,19,0,3,3,8
+2024,Fortaleza - CE,Bahia - BA,4 x 1,21/09/2024,21:00,Arena Castelão,Fortaleza,268,27,26.6,89,7.2,4,1,-1,2,3,3,2,4,2,7
+2024,Corinthians - SP,Atlético Goianiense Saf - GO,3 x 0,21/09/2024,16:00,Neo Química Arena,Sao Paulo,266,27,18.4,93,2.9,3,0,-1,3,4,17,-3,3,6,20
+2024,Grêmio - RS,Flamengo - RJ,3 x 2,22/09/2024,18:30,Arena do Grêmio,Porto Alegre,261,27,21.1,87,15.1,3,2,0,5,5,16,0,4,4,4
+2024,Fluminense - RJ,Botafogo - RJ,0 x 1,21/09/2024,18:30,Maracanã,Rio de Janeiro,264,27,22.3,93,1.8,0,1,3,5,2,16,3,4,1,1
+2024,Vitória - BA,Juventude - RS,1 x 0,21/09/2024,16:00,Manoel Barradas,Salvador,263,27,27.3,83,4.3,1,0,0,3,3,18,-2,4,6,13
+2024,Atlético Mineiro Saf - MG,Red Bull Bragantino - SP,3 x 0,22/09/2024,16:00,ARENA MRV,Belo Horizonte,262,27,20.5,74,3.1,3,0,-4,3,7,10,0,5,5,12
+2024,Vasco da Gama S.a.f. - RJ,Palmeiras - SP,0 x 1,22/09/2024,16:00,Mané Garrincha,Brasilia,265,27,20.1,88,3.3,0,1,2,4,2,10,12,12,0,3
+2024,Juventude - RS,Red Bull Bragantino - SP,1 x 1,29/09/2024,11:00,Alfredo Jaconi,Caxias do Sul,280,28,16.2,90,9.7,1,1,-2,3,5,13,-2,4,6,12
+2024,Atlético Goianiense Saf - GO,Fluminense - RJ,1 x 0,29/09/2024,16:00,Antônio Accioly,Goiania,279,28,23.6,77,1.1,1,0,-7,1,8,20,0,3,3,16
+2024,Fortaleza - CE,Cuiabá Saf - MT,1 x 0,29/09/2024,16:00,Arena Castelão,Fortaleza,278,28,26.6,89,7.2,1,0,1,5,4,3,-2,2,4,19
+2024,São Paulo - SP,Corinthians - SP,3 x 1,29/09/2024,16:00,Mané Garrincha,Brasilia,277,28,20.1,88,3.3,3,1,-3,2,5,5,3,6,3,17
+2024,Palmeiras - SP,Atlético Mineiro Saf - MG,2 x 1,28/09/2024,18:30,Brinco de Ouro,Campinas,276,28,18.6,87,12.4,2,1,8,8,0,3,1,6,5,9
+2024,Flamengo - RJ,Athletico Paranaense - PR,1 x 0,29/09/2024,20:00,Maracanã,Rio de Janeiro,274,28,22.3,93,1.8,1,0,-2,4,6,5,-2,1,3,11
+2024,Bahia - BA,Criciúma - SC,1 x 0,29/09/2024,18:30,Arena Fonte Nova,Salvador,273,28,27.3,83,4.3,1,0,-1,5,6,7,-6,1,7,14
+2024,Cruzeiro Saf - MG,Vasco da Gama S.a.f. - RJ,1 x 1,29/09/2024,18:30,Mineirão,Belo Horizonte,272,28,20.5,74,3.1,1,1,1,3,2,8,0,2,2,10
+2024,Internacional - RS,Vitória - BA,3 x 1,29/09/2024,18:30,Beira-Rio,Porto Alegre,271,28,21.1,87,15.1,3,1,7,9,2,7,2,3,1,18
+2024,Botafogo - RJ,Grêmio - RS,0 x 0,28/09/2024,21:00,Mané Garrincha,Brasilia,275,28,20.1,88,3.3,0,0,4,5,1,2,0,7,7,15
+2024,Red Bull Bragantino - SP,Palmeiras - SP,0 x 0,05/10/2024,16:30,Nabi Abi Chedid,Braganca Paulista,287,29,17.4,93,3.7,0,0,-3,3,6,12,7,8,1,2
+2024,Cuiabá Saf - MT,São Paulo - SP,2 x 0,05/10/2024,19:00,Arena Pantanal,Cuiaba,289,29,25.9,85,2.5,2,0,-4,0,4,19,1,5,4,5
+2024,Athletico Paranaense - PR,Botafogo - RJ,0 x 1,05/10/2024,16:30,Ligga Arena,Curitiba,288,29,16.1,97,7.9,0,1,-1,1,2,11,2,3,1,2
+2024,Criciúma - SC,Atlético Goianiense Saf - GO,2 x 0,03/10/2024,19:00,Heriberto Hulse,Criciuma,290,29,19.0,98,4.2,2,0,-6,0,6,15,-4,1,5,20
+2024,Corinthians - SP,Internacional - RS,2 x 2,05/10/2024,19:00,Neo Química Arena,Sao Paulo,286,29,18.4,93,2.9,2,2,0,5,5,17,7,9,2,6
+2024,Bahia - BA,Flamengo - RJ,0 x 2,05/10/2024,19:00,Arena Fonte Nova,Salvador,283,29,27.3,83,4.3,0,2,1,5,4,7,0,4,4,4
+2024,Fluminense - RJ,Cruzeiro Saf - MG,1 x 0,03/10/2024,21:30,Maracanã,Rio de Janeiro,284,29,22.3,93,1.8,1,0,-3,1,4,16,-1,1,2,8
+2024,Atlético Mineiro Saf - MG,Vitória - BA,2 x 2,05/10/2024,16:30,ARENA MRV,Belo Horizonte,282,29,20.5,74,3.1,2,2,-1,4,5,9,1,4,3,18
+2024,Grêmio - RS,Fortaleza - CE,3 x 1,04/10/2024,21:30,Arena do Grêmio,Porto Alegre,281,29,21.1,87,15.1,3,1,1,5,4,16,4,6,2,3
+2024,Vasco da Gama S.a.f. - RJ,Juventude - RS,1 x 1,05/10/2024,21:00,São Januário,Rio de Janeiro,285,29,22.3,93,1.8,1,1,-1,2,3,10,0,3,3,15
+2024,Juventude - RS,Palmeiras - SP,3 x 5,20/10/2024,20:00,Alfredo Jaconi,Caxias do Sul,300,30,16.2,90,9.7,3,5,-1,2,3,15,2,3,1,2
+2024,Atlético Goianiense Saf - GO,Cuiabá Saf - MT,0 x 0,18/10/2024,19:00,Antônio Accioly,Goiania,299,30,23.6,77,1.1,0,0,-4,1,5,20,1,2,1,19
+2024,Fortaleza - CE,Atlético Mineiro Saf - MG,1 x 1,16/10/2024,21:45,Arena Castelão,Fortaleza,298,30,26.6,89,7.2,1,1,2,6,4,3,2,6,4,9
+2024,São Paulo - SP,Vasco da Gama S.a.f. - RJ,3 x 0,16/10/2024,21:45,Brinco de Ouro,Campinas,297,30,18.6,87,12.4,3,0,-2,4,6,6,-1,2,3,10
+2024,Corinthians - SP,Athletico Paranaense - PR,5 x 2,17/10/2024,20:00,Neo Química Arena,Sao Paulo,296,30,18.4,93,2.9,5,2,1,6,5,17,-2,0,2,14
+2024,Flamengo - RJ,Fluminense - RJ,0 x 2,17/10/2024,20:00,Maracanã,Rio de Janeiro,294,30,22.3,93,1.8,0,2,2,5,3,4,-1,1,2,16
+2024,Vitória - BA,Red Bull Bragantino - SP,1 x 0,19/10/2024,16:00,Manoel Barradas,Salvador,293,30,27.3,83,4.3,1,0,-1,4,5,18,-3,1,4,14
+2024,Cruzeiro Saf - MG,Bahia - BA,1 x 1,18/10/2024,21:30,Mineirão,Belo Horizonte,292,30,20.5,74,3.1,1,1,-1,1,2,8,-4,2,6,7
+2024,Internacional - RS,Grêmio - RS,1 x 0,19/10/2024,16:00,Beira-Rio,Porto Alegre,291,30,21.1,87,15.1,1,0,4,8,4,6,3,6,3,12
+2024,Botafogo - RJ,Criciúma - SC,1 x 1,18/10/2024,20:00,Maracanã,Rio de Janeiro,295,30,22.3,93,1.8,1,1,2,2,0,2,1,2,1,13
+2024,Red Bull Bragantino - SP,Botafogo - RJ,0 x 1,26/10/2024,19:00,Nabi Abi Chedid,Braganca Paulista,307,31,17.4,93,3.7,0,1,-1,1,2,14,1,2,1,1
+2024,Criciúma - SC,São Paulo - SP,1 x 1,26/10/2024,21:00,Heriberto Hulse,Criciuma,310,31,19.0,98,4.2,1,1,1,3,2,12,3,6,3,6
+2024,Cuiabá Saf - MT,Corinthians - SP,0 x 1,28/10/2024,19:00,Arena Pantanal,Cuiaba,309,31,25.9,85,2.5,0,1,1,2,1,19,1,8,7,17
+2024,Athletico Paranaense - PR,Cruzeiro Saf - MG,3 x 0,26/10/2024,18:30,Ligga Arena,Curitiba,308,31,16.1,97,7.9,3,0,-5,2,7,16,-1,2,3,8
+2024,Palmeiras - SP,Fortaleza - CE,2 x 2,26/10/2024,16:30,Allianz Parque,Sao Paulo,306,31,18.4,93,2.9,2,2,3,7,4,2,-1,3,4,3
+2024,Grêmio - RS,Atlético Goianiense Saf - GO,3 x 1,26/10/2024,16:30,Arena do Grêmio,Porto Alegre,301,31,21.1,87,15.1,3,1,1,3,2,15,-1,1,2,20
+2024,Flamengo - RJ,Juventude - RS,4 x 2,26/10/2024,16:30,Maracanã,Rio de Janeiro,304,31,22.3,93,1.8,4,2,1,3,2,4,-2,5,7,17
+2024,Vitória - BA,Fluminense - RJ,2 x 1,26/10/2024,16:30,Manoel Barradas,Salvador,303,31,27.3,83,4.3,2,1,-1,4,5,18,2,3,1,14
+2024,Atlético Mineiro Saf - MG,Internacional - RS,1 x 3,26/10/2024,19:00,ARENA MRV,Belo Horizonte,302,31,20.5,74,3.1,1,3,-1,4,5,9,3,6,3,6
+2024,Vasco da Gama S.a.f. - RJ,Bahia - BA,3 x 2,28/10/2024,21:00,São Januário,Rio de Janeiro,305,31,22.3,93,1.8,3,2,-3,2,5,10,-1,2,3,7
+2024,Red Bull Bragantino - SP,Cuiabá Saf - MT,0 x 0,02/11/2024,16:00,Nabi Abi Chedid,Braganca Paulista,317,32,17.4,93,3.7,0,0,-2,0,2,17,1,2,1,19
+2024,Juventude - RS,Fortaleza - CE,0 x 3,02/11/2024,18:30,Alfredo Jaconi,Caxias do Sul,320,32,16.2,90,9.7,0,3,-4,6,10,18,-2,4,6,3
+2024,Atlético Goianiense Saf - GO,Atlético Mineiro Saf - MG,1 x 0,06/11/2024,21:00,Antônio Accioly,Goiania,319,32,23.6,77,1.1,1,0,-4,1,5,20,-2,4,6,10
+2024,Athletico Paranaense - PR,Vitória - BA,1 x 2,02/11/2024,18:30,Ligga Arena,Curitiba,318,32,16.1,97,7.9,1,2,-1,5,6,12,2,5,3,17
+2024,Corinthians - SP,Palmeiras - SP,2 x 0,04/11/2024,20:00,Neo Química Arena,Sao Paulo,316,32,18.4,93,2.9,2,0,4,8,4,16,2,7,5,2
+2024,Internacional - RS,Criciúma - SC,2 x 0,05/11/2024,21:30,Beira-Rio,Porto Alegre,311,32,21.1,87,15.1,2,0,3,6,3,5,2,4,2,15
+2024,Fluminense - RJ,Grêmio - RS,2 x 2,01/11/2024,21:00,Maracanã,Rio de Janeiro,314,32,22.3,93,1.8,2,2,2,4,2,16,3,6,3,12
+2024,Bahia - BA,São Paulo - SP,0 x 3,05/11/2024,21:30,Arena Fonte Nova,Salvador,313,32,27.3,83,4.3,0,3,-3,3,6,7,1,4,3,6
+2024,Cruzeiro Saf - MG,Flamengo - RJ,0 x 1,06/11/2024,21:00,Independência,Belo Horizonte,312,32,20.5,74,3.1,0,1,-4,1,5,8,2,6,4,5
+2024,Botafogo - RJ,Vasco da Gama S.a.f. - RJ,3 x 0,05/11/2024,21:30,Nilton Santos,Rio de Janeiro,315,32,22.3,93,1.8,3,0,2,3,1,1,-2,4,6,9
+2024,Juventude - RS,Bahia - BA,2 x 1,09/11/2024,19:00,Alfredo Jaconi,Caxias do Sul,330,33,16.2,90,9.7,2,1,-7,5,12,18,-4,3,7,7
+2024,Atlético Goianiense Saf - GO,Red Bull Bragantino - SP,0 x 0,09/11/2024,19:00,Antônio Accioly,Goiania,329,33,23.6,77,1.1,0,0,-1,2,3,20,-2,0,2,18
+2024,Fortaleza - CE,Vasco da Gama S.a.f. - RJ,3 x 0,09/11/2024,19:00,Arena Castelão,Fortaleza,328,33,26.6,89,7.2,3,0,3,6,3,3,-5,3,8,9
+2024,São Paulo - SP,Athletico Paranaense - PR,2 x 1,09/11/2024,21:00,Morumbi,Sao Paulo,327,33,18.4,93,2.9,2,1,6,7,1,6,-1,6,7,14
+2024,Palmeiras - SP,Grêmio - RS,1 x 0,08/11/2024,21:30,Allianz Parque,Sao Paulo,326,33,18.4,93,2.9,1,0,0,7,7,3,1,5,4,11
+2024,Flamengo - RJ,Atlético Mineiro Saf - MG,0 x 0,13/11/2024,20:00,Maracanã,Rio de Janeiro,324,33,22.3,93,1.8,0,0,1,5,4,4,-3,2,5,10
+2024,Vitória - BA,Corinthians - SP,1 x 2,09/11/2024,16:30,Manoel Barradas,Salvador,323,33,27.3,83,4.3,1,2,3,5,2,13,6,8,2,12
+2024,Cruzeiro Saf - MG,Criciúma - SC,2 x 1,09/11/2024,19:00,Mineirão,Belo Horizonte,322,33,20.5,74,3.1,2,1,-4,1,5,8,-2,2,4,16
+2024,Internacional - RS,Fluminense - RJ,2 x 0,08/11/2024,19:00,Beira-Rio,Porto Alegre,321,33,21.1,87,15.1,2,0,5,6,1,6,1,5,4,15
+2024,Botafogo - RJ,Cuiabá Saf - MT,0 x 0,09/11/2024,16:30,Nilton Santos,Rio de Janeiro,325,33,22.3,93,1.8,0,0,4,5,1,1,-1,0,1,19
+2024,Red Bull Bragantino - SP,São Paulo - SP,1 x 1,20/11/2024,16:30,Nabi Abi Chedid,Braganca Paulista,337,34,17.4,93,3.7,1,1,-1,0,1,18,4,6,2,6
+2024,Cuiabá Saf - MT,Flamengo - RJ,1 x 2,20/11/2024,19:00,Arena Pantanal,Cuiaba,339,34,25.9,85,2.5,1,2,-1,0,1,19,3,5,2,5
+2024,Athletico Paranaense - PR,Atlético Goianiense Saf - GO,2 x 0,20/11/2024,16:30,Ligga Arena,Curitiba,338,34,16.1,97,7.9,2,0,1,5,4,14,-1,2,3,20
+2024,Criciúma - SC,Vitória - BA,0 x 1,20/11/2024,16:30,Heriberto Hulse,Criciuma,340,34,19.0,98,4.2,0,1,-3,2,5,17,1,5,4,14
+2024,Corinthians - SP,Cruzeiro Saf - MG,2 x 1,20/11/2024,11:00,Neo Química Arena,Sao Paulo,336,34,18.4,93,2.9,2,1,4,5,1,11,-3,2,5,7
+2024,Bahia - BA,Palmeiras - SP,1 x 2,20/11/2024,18:00,Arena Fonte Nova,Salvador,333,34,27.3,83,4.3,1,2,-5,3,8,8,-1,3,4,2
+2024,Fluminense - RJ,Fortaleza - CE,2 x 2,22/11/2024,21:30,Maracanã,Rio de Janeiro,334,34,22.3,93,1.8,2,2,-3,3,6,16,6,8,2,3
+2024,Atlético Mineiro Saf - MG,Botafogo - RJ,0 x 0,20/11/2024,21:30,Independência,Belo Horizonte,332,34,20.5,74,3.1,0,0,-3,1,4,11,4,4,0,1
+2024,Grêmio - RS,Juventude - RS,2 x 2,20/11/2024,19:00,Arena do Grêmio,Porto Alegre,331,34,21.1,87,15.1,2,2,1,5,4,14,-4,4,8,18
+2024,Vasco da Gama S.a.f. - RJ,Internacional - RS,0 x 1,21/11/2024,20:00,São Januário,Rio de Janeiro,335,34,22.3,93,1.8,0,1,-5,3,8,11,6,7,1,5
+2024,Juventude - RS,Cuiabá Saf - MT,1 x 1,23/11/2024,19:30,Alfredo Jaconi,Caxias do Sul,350,35,16.2,90,9.7,1,1,-2,4,6,16,-1,1,2,19
+2024,Atlético Goianiense Saf - GO,Palmeiras - SP,0 x 1,23/11/2024,19:30,Antônio Accioly,Goiania,349,35,23.6,77,1.1,0,1,-1,1,2,20,0,3,3,2
+2024,Fortaleza - CE,Flamengo - RJ,0 x 0,26/11/2024,20:00,Arena Castelão,Fortaleza,348,35,26.6,89,7.2,0,0,6,8,2,3,2,3,1,5
+2024,São Paulo - SP,Atlético Mineiro Saf - MG,2 x 2,23/11/2024,21:30,Morumbi,Sao Paulo,347,35,18.4,93,2.9,2,2,4,6,2,6,-1,0,1,10
+2024,Corinthians - SP,Vasco da Gama S.a.f. - RJ,3 x 1,24/11/2024,16:00,Neo Química Arena,Sao Paulo,346,35,18.4,93,2.9,3,1,4,6,2,9,-7,0,7,11
+2024,Botafogo - RJ,Vitória - BA,1 x 1,23/11/2024,19:30,Nilton Santos,Rio de Janeiro,345,35,22.3,93,1.8,1,1,3,3,0,2,1,4,3,12
+2024,Fluminense - RJ,Criciúma - SC,0 x 0,26/11/2024,19:00,Maracanã,Rio de Janeiro,344,35,22.3,93,1.8,0,0,-2,4,6,16,-4,1,5,18
+2024,Bahia - BA,Athletico Paranaense - PR,1 x 1,24/11/2024,16:00,Arena Fonte Nova,Salvador,343,35,27.3,83,4.3,1,1,-5,2,7,9,0,4,4,14
+2024,Cruzeiro Saf - MG,Grêmio - RS,1 x 1,27/11/2024,21:00,Mineirão,Belo Horizonte,342,35,20.5,74,3.1,1,1,-1,3,4,7,-1,4,5,14
+2024,Internacional - RS,Red Bull Bragantino - SP,4 x 1,24/11/2024,16:00,Beira-Rio,Porto Alegre,341,35,21.1,87,15.1,4,1,5,5,0,5,0,1,1,18
+2024,Cuiabá Saf - MT,Bahia - BA,1 x 2,30/11/2024,19:30,Arena Pantanal,Cuiaba,359,36,25.9,85,2.5,1,2,-1,2,3,19,-2,3,5,9
+2024,Criciúma - SC,Corinthians - SP,2 x 4,30/11/2024,19:30,Heriberto Hulse,Criciuma,360,36,19.0,98,4.2,2,4,-2,1,3,17,4,7,3,9
+2024,Red Bull Bragantino - SP,Cruzeiro Saf - MG,1 x 1,01/12/2024,18:30,Nabi Abi Chedid,Braganca Paulista,357,36,17.4,93,3.7,1,1,-3,2,5,18,0,4,4,9
+2024,Palmeiras - SP,Botafogo - RJ,1 x 3,26/11/2024,21:30,Allianz Parque,Sao Paulo,356,36,18.4,93,2.9,1,3,3,4,1,1,0,1,1,2
+2024,Athletico Paranaense - PR,Fluminense - RJ,1 x 1,01/12/2024,18:30,Ligga Arena,Curitiba,358,36,16.1,97,7.9,1,1,1,4,3,14,-2,2,4,15
+2024,Flamengo - RJ,Internacional - RS,3 x 2,01/12/2024,16:00,Maracanã,Rio de Janeiro,354,36,22.3,93,1.8,3,2,1,2,1,5,6,7,1,3
+2024,Vitória - BA,Fortaleza - CE,2 x 0,01/12/2024,18:30,Manoel Barradas,Salvador,353,36,27.3,83,4.3,2,0,0,3,3,13,3,5,2,5
+2024,Atlético Mineiro Saf - MG,Juventude - RS,2 x 3,26/11/2024,21:30,Independência,Belo Horizonte,352,36,20.5,74,3.1,2,3,0,2,2,11,1,5,4,16
+2024,Grêmio - RS,São Paulo - SP,2 x 1,01/12/2024,16:00,Arena do Grêmio,Porto Alegre,351,36,21.1,87,15.1,2,1,-1,3,4,15,1,5,4,6
+2024,Vasco da Gama S.a.f. - RJ,Atlético Goianiense Saf - GO,2 x 2,30/11/2024,21:30,São Januário,Rio de Janeiro,355,36,22.3,93,1.8,2,2,-6,1,7,13,-3,0,3,20
+2024,Criciúma - SC,Flamengo - RJ,0 x 3,04/12/2024,20:00,Heriberto Hulse,Criciuma,370,37,19.0,98,4.2,0,3,-3,2,5,18,2,5,3,3
+2024,Atlético Goianiense Saf - GO,Fortaleza - CE,3 x 1,04/12/2024,21:30,Antônio Accioly,Goiania,369,37,23.6,77,1.1,3,1,-3,2,5,20,-2,2,4,5
+2024,São Paulo - SP,Juventude - RS,1 x 2,04/12/2024,20:00,Morumbi,Sao Paulo,367,37,18.4,93,2.9,1,2,-1,4,5,6,1,6,5,15
+2024,Corinthians - SP,Bahia - BA,3 x 0,03/12/2024,20:00,Neo Química Arena,Sao Paulo,366,37,18.4,93,2.9,3,0,5,9,4,7,0,4,4,8
+2024,Athletico Paranaense - PR,Red Bull Bragantino - SP,1 x 2,05/12/2024,20:00,Ligga Arena,Curitiba,368,37,16.1,97,7.9,1,2,2,4,2,15,-3,3,6,17
+2024,Fluminense - RJ,Cuiabá Saf - MT,1 x 0,05/12/2024,20:00,Maracanã,Rio de Janeiro,364,37,22.3,93,1.8,1,0,0,3,3,17,-2,3,5,19
+2024,Vitória - BA,Grêmio - RS,1 x 1,04/12/2024,20:00,Manoel Barradas,Salvador,363,37,27.3,83,4.3,1,1,3,4,1,10,1,5,4,12
+2024,Cruzeiro Saf - MG,Palmeiras - SP,1 x 2,04/12/2024,21:30,Mineirão,Belo Horizonte,362,37,20.5,74,3.1,1,2,-1,3,4,9,0,4,4,2
+2024,Internacional - RS,Botafogo - RJ,0 x 1,04/12/2024,21:30,Beira-Rio,Porto Alegre,361,37,21.1,87,15.1,0,1,3,7,4,4,2,4,2,2
+2024,Vasco da Gama S.a.f. - RJ,Atlético Mineiro Saf - MG,2 x 0,04/12/2024,19:00,São Januário,Rio de Janeiro,365,37,22.3,93,1.8,2,0,-3,3,6,14,-1,4,5,13
+2024,Cuiabá Saf - MT,Vasco da Gama S.a.f. - RJ,1 x 2,08/12/2024,16:00,Arena Pantanal,Cuiaba,379,38,25.9,85,2.5,1,2,-2,2,4,19,0,5,5,10
+2024,Grêmio - RS,Corinthians - SP,0 x 3,08/12/2024,16:00,Arena do Grêmio,Porto Alegre,371,38,21.1,87,15.1,0,3,1,4,3,12,7,10,3,7
+2024,Atlético Mineiro Saf - MG,Athletico Paranaense - PR,1 x 0,08/12/2024,16:00,ARENA MRV,Belo Horizonte,372,38,20.5,74,3.1,1,0,-3,4,7,14,-1,3,4,16
+2024,Bahia - BA,Atlético Goianiense Saf - GO,2 x 0,08/12/2024,16:00,Arena Fonte Nova,Salvador,373,38,27.3,83,4.3,2,0,-2,3,5,8,1,5,4,20
+2024,Flamengo - RJ,Vitória - BA,2 x 2,08/12/2024,16:00,Maracanã,Rio de Janeiro,374,38,22.3,93,1.8,2,2,4,6,2,3,2,4,2,12
+2024,Botafogo - RJ,São Paulo - SP,2 x 1,08/12/2024,16:00,Nilton Santos,Rio de Janeiro,375,38,22.3,93,1.8,2,1,3,5,2,1,-2,4,6,6
+2024,Palmeiras - SP,Fluminense - RJ,0 x 1,08/12/2024,16:00,Allianz Parque,Sao Paulo,376,38,18.4,93,2.9,0,1,0,4,4,2,1,2,1,15
+2024,Red Bull Bragantino - SP,Criciúma - SC,5 x 1,08/12/2024,16:00,Nabi Abi Chedid,Braganca Paulista,377,38,17.4,93,3.7,5,1,-2,4,6,17,-5,2,7,18
+2024,Fortaleza - CE,Internacional - RS,3 x 0,08/12/2024,16:00,Arena Castelão,Fortaleza,378,38,26.6,89,7.2,3,0,-4,1,5,5,1,6,5,4
+2024,Juventude - RS,Cruzeiro Saf - MG,0 x 1,08/12/2024,16:00,Alfredo Jaconi,Caxias do Sul,380,38,16.2,90,9.7,0,1,2,6,4,15,-1,3,4,10
